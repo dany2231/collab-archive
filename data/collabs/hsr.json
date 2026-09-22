@@ -1,0 +1,938 @@
+{
+  "game": "hsr",
+  "reviewed": false,
+  "campaigns": [],
+  "collabs": [
+    {
+      "id": "hsr--white-rabbit",
+      "ip": "white-rabbit",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2026-09-10",
+      "campaign": null,
+      "note": "다바이투(화이트래빗) 캔디 콜라보. 콜라보 곡 「캔디 워닝」 공개",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/77460946",
+          "locale": "hoyolab-zh",
+          "date": "2026-08-14"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/78031412",
+          "locale": "hoyolab-zh",
+          "date": "2026-09-07"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/78058520",
+          "locale": "hoyolab-zh",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": "hsr--moondrop-2",
+      "ip": "moondrop",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-09-09",
+      "campaign": null,
+      "note": "수월우 스파키 콜라보 이어폰",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/46626826",
+          "locale": "hoyolab-ko",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "id": "hsr--zenless",
+      "ip": "zenless-zone-zero",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-08-14",
+      "campaign": null,
+      "note": "젠레스 존 제로와의 상호 콜라보. 2026년 겨울 출시 예정",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/46287047",
+          "locale": "hoyolab-ko",
+          "date": "2026-08-14"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/77459780",
+          "locale": "hoyolab-zh",
+          "date": "2026-08-14"
+        }
+      ]
+    },
+    {
+      "id": "hsr--fate-ubw-2",
+      "ip": "fate-ubw",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-07-24",
+      "campaign": null,
+      "note": "4.4 버전 콜라보 2차. 토오사카 린·길가메시 추가, 1차 워프와 천장 공유",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/45712127",
+          "locale": "hoyolab-ko",
+          "date": "2026-07-03"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/45712242",
+          "locale": "hoyolab-ko",
+          "date": "2026-07-03"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/76423748",
+          "locale": "hoyolab-zh",
+          "date": "2026-07-03"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/76423940",
+          "locale": "hoyolab-zh",
+          "date": "2026-07-03"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/45967007",
+          "locale": "hoyolab-ko",
+          "date": "2026-07-23"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/45967008",
+          "locale": "hoyolab-ko",
+          "date": "2026-07-23"
+        }
+      ]
+    },
+    {
+      "id": "hsr--deep-exhibition",
+      "ip": "deep",
+      "form": "카페·팝업",
+      "regions": [
+        "한국"
+      ],
+      "date": "2026-07-17",
+      "campaign": null,
+      "note": "이머시브 플랫폼 딥(DEEP)과 만든 몰입형 전시 「별 사이를 걷는 회고록」. 잠실 롯데월드",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/45712870",
+          "locale": "hoyolab-ko",
+          "date": "2026-07-03"
+        }
+      ]
+    },
+    {
+      "id": "hsr--fanta",
+      "ip": "fanta",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2026-07-10",
+      "campaign": null,
+      "note": "환타 콜라보 음료·굿즈. 단편 영상 「여름, 바닷가, 오렌지 소다」 공개",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/76424299",
+          "locale": "hoyolab-zh",
+          "date": "2026-07-03"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/76461582",
+          "locale": "hoyolab-zh",
+          "date": "2026-07-05"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/76467744",
+          "locale": "hoyolab-zh",
+          "date": "2026-07-05"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/76575367",
+          "locale": "hoyolab-zh",
+          "date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "id": "hsr--ugreen",
+      "ip": "ugreen",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-06-18",
+      "campaign": null,
+      "note": "유그린 야오광 콜라보 충전기·케이블 시리즈",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/45154035",
+          "locale": "hoyolab-ko",
+          "date": "2026-05-22"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/75525472",
+          "locale": "hoyolab-zh",
+          "date": "2026-05-22"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/76036593",
+          "locale": "hoyolab-zh",
+          "date": "2026-06-16"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/76036687",
+          "locale": "hoyolab-zh",
+          "date": "2026-06-16"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/45689787",
+          "locale": "hoyolab-ko",
+          "date": "2026-07-02"
+        }
+      ]
+    },
+    {
+      "id": "hsr--gongcha",
+      "ip": "gongcha",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2026-04-16",
+      "campaign": null,
+      "note": "공차 「BUBBLE MOMENT」 콜라보 음료·굿즈",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/44672597",
+          "locale": "hoyolab-ko",
+          "date": "2026-04-16"
+        }
+      ]
+    },
+    {
+      "id": "hsr--mappa",
+      "ip": "mappa",
+      "form": "기타",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-04-10",
+      "campaign": null,
+      "note": "MAPPA와 제작하는 오리지널 애니메이션. 컨셉 PV 「오후의 죽음」 공개",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/44584538",
+          "locale": "hoyolab-ko",
+          "date": "2026-04-10"
+        },
+        {
+          "url": "https://hsr.hoyoverse.com/ko-kr/news/detail/163502",
+          "locale": "ko-kr",
+          "date": "2026-04-10"
+        },
+        {
+          "url": "https://hsr.hoyoverse.com/ja-jp/news/detail/163502",
+          "locale": "ja-jp",
+          "date": "2026-04-10"
+        }
+      ]
+    },
+    {
+      "id": "hsr--fortnite",
+      "ip": "fortnite",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-02-26",
+      "campaign": null,
+      "note": "카프카·블레이드가 포트나이트에 기간 한정 스킨으로 등장. 에픽게임즈 스토어 연동 혜택 포함",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/43969277",
+          "locale": "hoyolab-ko",
+          "date": "2026-02-27"
+        }
+      ]
+    },
+    {
+      "id": "hsr--anta",
+      "ip": "anta",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2025-12-20",
+      "campaign": null,
+      "note": "안타 「시롄」 콜라보 의류·신발",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/71212157",
+          "locale": "hoyolab-zh",
+          "date": "2025-12-05"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/71478807",
+          "locale": "hoyolab-zh",
+          "date": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "id": "hsr--zhang-shaohan",
+      "ip": "zhang-shaohan",
+      "form": "음악",
+      "regions": [
+        "중국"
+      ],
+      "date": "2025-11-06",
+      "campaign": null,
+      "note": "가수 장샤오한과 만든 콜라보 곡 「시롄(昔涟)」. 안타 콜라보와 같은 이름으로 전개",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/70348264",
+          "locale": "hoyolab-zh",
+          "date": "2025-11-06"
+        }
+      ]
+    },
+    {
+      "id": "hsr--luckin",
+      "ip": "luckin",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2025-09-15",
+      "campaign": null,
+      "note": "루이싱커피 콜라보 음료·굿즈",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/67745661",
+          "locale": "hoyolab-zh",
+          "date": "2025-08-22"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/68479120",
+          "locale": "hoyolab-zh",
+          "date": "2025-09-12"
+        }
+      ]
+    },
+    {
+      "id": "hsr--ediya",
+      "ip": "ediya",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-08-11",
+      "campaign": null,
+      "note": "이디야커피 「LUCKY&CRAZY」 콜라보 음료·굿즈",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/40488395",
+          "locale": "hoyolab-ko",
+          "date": "2025-08-11"
+        }
+      ]
+    },
+    {
+      "id": "hsr--fate-ubw",
+      "ip": "fate-ubw",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2025-07-11",
+      "campaign": null,
+      "note": "3.5 버전 콜라보 1차. 세이버·아처와 전용 광추가 콜라보 워프로 등장",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/31238126",
+          "locale": "hoyolab-ko",
+          "date": "2024-07-19"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/55374197",
+          "locale": "hoyolab-zh",
+          "date": "2024-07-19"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/38584657",
+          "locale": "hoyolab-ko",
+          "date": "2025-05-03"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/38588239",
+          "locale": "hoyolab-ko",
+          "date": "2025-05-03"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/64124454",
+          "locale": "hoyolab-zh",
+          "date": "2025-05-03"
+        },
+        {
+          "url": "https://sr.mihoyo.com/main/news/detail/155774",
+          "locale": "zh-cn",
+          "date": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "id": "hsr--bkub-okawa",
+      "ip": "bkub-okawa",
+      "form": "기타",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2025-05-26",
+      "campaign": null,
+      "note": "만화가 오오카와 부쿠부와 만든 이모티콘",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/38985167",
+          "locale": "hoyolab-ko",
+          "date": "2025-05-26"
+        }
+      ]
+    },
+    {
+      "id": "hsr--momstouch",
+      "ip": "momstouch",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-04-18",
+      "campaign": null,
+      "note": "맘스터치 「Touch the Light」 콜라보 세트. 1·2차 이벤트로 진행",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/38309353",
+          "locale": "hoyolab-ko",
+          "date": "2025-04-18"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/38786419",
+          "locale": "hoyolab-ko",
+          "date": "2025-05-14"
+        }
+      ]
+    },
+    {
+      "id": "hsr--guming",
+      "ip": "guming",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2025-04-18",
+      "campaign": null,
+      "note": "구밍 콜라보 음료·굿즈",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/62991347",
+          "locale": "hoyolab-zh",
+          "date": "2025-03-28"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/63404416",
+          "locale": "hoyolab-zh",
+          "date": "2025-04-10"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/63544043",
+          "locale": "hoyolab-zh",
+          "date": "2025-04-14"
+        }
+      ]
+    },
+    {
+      "id": "hsr--jdb",
+      "ip": "jdb",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-12-26",
+      "campaign": null,
+      "note": "자둬바오 춘절 콜라보 패키지",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/59587394",
+          "locale": "hoyolab-zh",
+          "date": "2024-11-22"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/60287846",
+          "locale": "hoyolab-zh",
+          "date": "2024-12-18"
+        }
+      ]
+    },
+    {
+      "id": "hsr--meituan-waimai",
+      "ip": "meituan",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-12-05",
+      "campaign": null,
+      "note": "메이투안 와이마이(배달) 콜라보 이벤트",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/59588027",
+          "locale": "hoyolab-zh",
+          "date": "2024-11-22"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/59901199",
+          "locale": "hoyolab-zh",
+          "date": "2024-12-04"
+        }
+      ]
+    },
+    {
+      "id": "hsr--moondrop",
+      "ip": "moondrop",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-10-25",
+      "campaign": null,
+      "note": "수월우 로빈 블루투스 이어폰 커스텀 기프트 박스",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/58490783",
+          "locale": "hoyolab-zh",
+          "date": "2024-10-11"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/58847888",
+          "locale": "hoyolab-zh",
+          "date": "2024-10-25"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/58847901",
+          "locale": "hoyolab-zh",
+          "date": "2024-10-25"
+        }
+      ]
+    },
+    {
+      "id": "hsr--playkeyboard",
+      "ip": "playkeyboard",
+      "form": "브랜드",
+      "regions": [
+        "한국"
+      ],
+      "date": "2024-10-23",
+      "campaign": null,
+      "note": "플레이키보드 「라파」 테마 키보드",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/34338776",
+          "locale": "hoyolab-ko",
+          "date": "2024-10-18"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/34449264",
+          "locale": "hoyolab-ko",
+          "date": "2024-10-23"
+        }
+      ]
+    },
+    {
+      "id": "hsr--citic-bank",
+      "ip": "citic-bank",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-08-06",
+      "campaign": null,
+      "note": "중신은행 콜라보 카드·이벤트",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/56272952",
+          "locale": "hoyolab-zh",
+          "date": "2024-08-06"
+        }
+      ]
+    },
+    {
+      "id": "hsr--chabaidao",
+      "ip": "chabaidao",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-04-10",
+      "campaign": null,
+      "note": "차바이다오 콜라보 음료·굿즈. 2026년 4월에 2차 진행(콜라보 곡 「장군의 차」 포함)",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/51348983",
+          "locale": "hoyolab-zh",
+          "date": "2024-04-10"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/74506019",
+          "locale": "hoyolab-zh",
+          "date": "2026-04-10"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/74687543",
+          "locale": "hoyolab-zh",
+          "date": "2026-04-17"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/74897653",
+          "locale": "hoyolab-zh",
+          "date": "2026-04-25"
+        }
+      ]
+    },
+    {
+      "id": "hsr--colors-makeup",
+      "ip": "colors-makeup",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-03-27",
+      "campaign": null,
+      "note": "로빈 이미지의 콜라보 메이크업. TVC 「석양의 얼굴」 공개",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/26384389",
+          "locale": "hoyolab-ko",
+          "date": "2024-03-27"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/50735263",
+          "locale": "hoyolab-zh",
+          "date": "2024-03-27"
+        }
+      ]
+    },
+    {
+      "id": "hsr--laofengxiang",
+      "ip": "laofengxiang",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-01-31",
+      "campaign": null,
+      "note": "주얼리 브랜드 라오펑샹 콜라보 금 제품",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/47416852",
+          "locale": "hoyolab-zh",
+          "date": "2024-01-01"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/48564785",
+          "locale": "hoyolab-zh",
+          "date": "2024-01-31"
+        }
+      ]
+    },
+    {
+      "id": "hsr--kiehls",
+      "ip": "kiehls",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-01-26",
+      "campaign": null,
+      "note": "키엘 신년 콜라보 「용의 울음, 물을 다루어 새로 태어나다」",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/48369614",
+          "locale": "hoyolab-zh",
+          "date": "2024-01-26"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/49107813",
+          "locale": "hoyolab-zh",
+          "date": "2024-02-10"
+        }
+      ]
+    },
+    {
+      "id": "hsr--ctrip",
+      "ip": "ctrip",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-12-29",
+      "campaign": null,
+      "note": "씨트립 여행 앱 춘절 개척 이벤트",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/47124214",
+          "locale": "hoyolab-zh",
+          "date": "2023-12-29"
+        }
+      ]
+    },
+    {
+      "id": "hsr--suzhou-museum",
+      "ip": "suzhou-museum",
+      "form": "기타",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-12-27",
+      "campaign": null,
+      "note": "쑤저우 박물관 공동 기획 전시 「들어라 완의 소리, 찾아라 매화」",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/46815294",
+          "locale": "hoyolab-zh",
+          "date": "2023-12-22"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/46992524",
+          "locale": "hoyolab-zh",
+          "date": "2023-12-27"
+        }
+      ]
+    },
+    {
+      "id": "hsr--keep",
+      "ip": "keep",
+      "form": "기타",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-10-25",
+      "campaign": null,
+      "note": "운동 앱 Keep의 「달려라, 개척자!」 온라인 러닝 이벤트. 2024년 7월에 2차 진행",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/43933534",
+          "locale": "hoyolab-zh",
+          "date": "2023-09-29"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/44832883",
+          "locale": "hoyolab-zh",
+          "date": "2023-10-25"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/44840124",
+          "locale": "hoyolab-zh",
+          "date": "2023-10-25"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/55377069",
+          "locale": "hoyolab-zh",
+          "date": "2024-07-19"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/55534012",
+          "locale": "hoyolab-zh",
+          "date": "2024-07-23"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/55534191",
+          "locale": "hoyolab-zh",
+          "date": "2024-07-23"
+        }
+      ]
+    },
+    {
+      "id": "hsr--stride",
+      "ip": "stride",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-10-20",
+      "campaign": null,
+      "note": "껌 브랜드 쉬안마이(스트라이드) 콜라보 패키지",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/44676422",
+          "locale": "hoyolab-zh",
+          "date": "2023-10-20"
+        }
+      ]
+    },
+    {
+      "id": "hsr--baidu-maps",
+      "ip": "baidu-maps",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-09-29",
+      "campaign": null,
+      "note": "바이두 지도에 삼월칠 내비게이션 음성 추가",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/43919385",
+          "locale": "hoyolab-zh",
+          "date": "2023-09-29"
+        }
+      ]
+    },
+    {
+      "id": "hsr--chengdu-tourism",
+      "ip": "chengdu-tourism",
+      "form": "기타",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-09-25",
+      "campaign": null,
+      "note": "청두 문화관광국과 진행한 「열차 여행기」 청두역 편",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/43754021",
+          "locale": "hoyolab-zh",
+          "date": "2023-09-25"
+        }
+      ]
+    },
+    {
+      "id": "hsr--kfc",
+      "ip": "kfc",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-09-22",
+      "campaign": null,
+      "note": "KFC 콜라보 세트·굿즈. 2025년 1월에 2차 진행",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/42542420",
+          "locale": "hoyolab-zh",
+          "date": "2023-08-18"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/43548407",
+          "locale": "hoyolab-zh",
+          "date": "2023-09-19"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/60694872",
+          "locale": "hoyolab-zh",
+          "date": "2025-01-01"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/60861651",
+          "locale": "hoyolab-zh",
+          "date": "2025-01-06"
+        }
+      ]
+    },
+    {
+      "id": "hsr--moritz-brown",
+      "ip": "moritz-brown",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2023-07-21",
+      "campaign": null,
+      "note": "전국 매장에 콜라보 세트 출시. 오프라인 「우주 보급소」 수배령 이벤트 동반",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/19973214",
+          "locale": "hoyolab-ko",
+          "date": "2023-07-11"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/20134257",
+          "locale": "hoyolab-ko",
+          "date": "2023-07-19"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/20432541",
+          "locale": "hoyolab-ko",
+          "date": "2023-07-27"
+        }
+      ]
+    },
+    {
+      "id": "hsr--scenic-xidi-hongcun",
+      "ip": "scenic-xidi-hongcun",
+      "form": "기타",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-05-13",
+      "campaign": null,
+      "note": "안후이성 시디·훙춘 풍경구와 진행한 관광지 콜라보 기획",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/38916664",
+          "locale": "hoyolab-zh",
+          "date": "2023-05-03"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/39284637",
+          "locale": "hoyolab-zh",
+          "date": "2023-05-13"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/39605594",
+          "locale": "hoyolab-zh",
+          "date": "2023-05-22"
+        }
+      ]
+    },
+    {
+      "id": "hsr--alipay",
+      "ip": "alipay",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-04-28",
+      "campaign": null,
+      "note": "알리페이 저탄소 여행·포인트 교환 이벤트. 2024년 4월까지 반복 진행",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/sr/article/38582996",
+          "locale": "hoyolab-zh",
+          "date": "2023-04-28"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/39002248",
+          "locale": "hoyolab-zh",
+          "date": "2023-05-05"
+        },
+        {
+          "url": "https://www.miyoushe.com/sr/article/51571652",
+          "locale": "hoyolab-zh",
+          "date": "2024-04-16"
+        }
+      ]
+    }
+  ]
+}

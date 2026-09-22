@@ -1,0 +1,951 @@
+{
+  "game": "bluearchive",
+  "reviewed": true,
+  "campaigns": [],
+  "collabs": [
+    {
+      "id": "bluearchive--gs25-3",
+      "ip": "gs25",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2026-09-17",
+      "campaign": null,
+      "note": "사전 안내만 공지됨",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3545162",
+          "date": "2026-09-17"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--aniplus-5",
+      "ip": "aniplus",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "한국"
+      ],
+      "date": "2026-08-07",
+      "campaign": null,
+      "note": "밀레니엄 오리지널 신규 상품",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3517908",
+          "date": "2026-08-07"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--kujibikido",
+      "ip": "kujibikido",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "한국"
+      ],
+      "date": "2026-06-12",
+      "campaign": null,
+      "note": "카페 메모리얼 연계 온라인 뽑기 이벤트",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3473590",
+          "date": "2026-06-12"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--maeil-picnic",
+      "ip": "maeil-picnic",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2026-05-28",
+      "campaign": null,
+      "note": "피크닉 에이드 출시 후 상시 판매 전환",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3447393",
+          "date": "2026-05-28"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3473106",
+          "date": "2026-06-18"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--musinsa-2",
+      "ip": "musinsa",
+      "form": "브랜드",
+      "regions": [
+        "한국"
+      ],
+      "date": "2026-05-24",
+      "campaign": null,
+      "note": "디스커스 애슬레틱과 3자 협업. 팝업 스토어와 온라인 프리오더",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3447324",
+          "date": "2026-05-24"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3480666",
+          "date": "2026-06-22"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3496331",
+          "date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--redcross-2",
+      "ip": "redcross",
+      "form": "기타",
+      "regions": [
+        "한국"
+      ],
+      "date": "2026-05-21",
+      "campaign": null,
+      "note": "2026년 캠페인 1차·2차",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3447982",
+          "date": "2026-05-21"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3505663",
+          "date": "2026-07-24"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--moderoid",
+      "ip": "moderoid",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "한국"
+      ],
+      "date": "2026-05-19",
+      "campaign": null,
+      "note": "다아트 합체 모데로이드 플라스틱 모델",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3443182",
+          "date": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--aniplus-4",
+      "ip": "aniplus",
+      "form": "카페·팝업",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-12-18",
+      "campaign": null,
+      "note": "메이드 티파티 & 시스터후드 콜라보 카페",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3313894",
+          "date": "2025-12-18"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--aniplus-3",
+      "ip": "aniplus",
+      "form": "카페·팝업",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-12-04",
+      "campaign": null,
+      "note": "AGF 2025 콜라보 카페와 신규 상품",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3294263",
+          "date": "2025-12-04"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--ogq",
+      "ip": "ogq",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-11-21",
+      "campaign": null,
+      "note": "키캡 예약 판매",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3254774",
+          "date": "2025-11-21"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--lottecinema",
+      "ip": "lottecinema",
+      "form": "기타",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-11-20",
+      "campaign": null,
+      "note": "4주년 기념 특별 상영회",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3253122",
+          "date": "2025-11-20"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3276362",
+          "date": "2025-12-01"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3295735",
+          "date": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--galaxy-2",
+      "ip": "samsung",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-11-07",
+      "campaign": null,
+      "note": "Galaxy Z Fold7 아리스 액세서리 에디션",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3200428",
+          "date": "2025-11-07"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--oxford",
+      "ip": "oxford",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-10-17",
+      "campaign": null,
+      "note": "하이랜더 장갑열차 블록 조립 제품",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3181904",
+          "date": "2025-10-17"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3185902",
+          "date": "2025-10-29"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--lg-gram",
+      "ip": "lg-gram",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-10-13",
+      "campaign": null,
+      "note": "LG gram Pro 리오 에디션",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3152715",
+          "date": "2025-10-13"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--momstouch-3",
+      "ip": "momstouch",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-09-02",
+      "campaign": null,
+      "note": "싸이버거 콜라보, 오프라인 매장 이벤트",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3115390",
+          "date": "2025-09-02"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3133345",
+          "date": "2025-09-19"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3133346",
+          "date": "2025-09-19"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3133347",
+          "date": "2025-09-19"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3143312",
+          "date": "2025-09-19"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3322375",
+          "date": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--bicycle",
+      "ip": "bicycle",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-08-20",
+      "campaign": null,
+      "note": "플레잉카드. 아트워크 변경으로 교환·환불 진행",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3101931",
+          "date": "2025-08-20"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3107797",
+          "date": "2025-08-27"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3112911",
+          "date": "2025-08-27"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3117559",
+          "date": "2025-08-28"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3165077",
+          "date": "2025-10-01"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3184720",
+          "date": "2025-10-21"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--gs25-2",
+      "ip": "gs25",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-07-01",
+      "campaign": null,
+      "note": "밀레니엄 세미나 특별 매장, 2차 스탬프 랠리, 콜라보 도시락, 굿즈",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2982408",
+          "date": "2025-07-01"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3022169",
+          "date": "2025-07-07"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3028336",
+          "date": "2025-07-15"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3088534",
+          "date": "2025-08-14"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3088536",
+          "date": "2025-08-21"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3164501",
+          "date": "2025-10-07"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--hamaji-aki",
+      "ip": "hamaji-aki",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-06-13",
+      "campaign": null,
+      "note": "하마지 아키 일러스트 굿즈와 특별 영상",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2944470",
+          "date": "2025-06-13"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2948191",
+          "date": "2025-06-20"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2958016",
+          "date": "2025-06-20"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2999046",
+          "date": "2025-07-04"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--musinsa-1",
+      "ip": "musinsa",
+      "form": "브랜드",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-05-28",
+      "campaign": null,
+      "note": "무신사 온라인 판매와 오프라인 팝업 스토어",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2908102",
+          "date": "2025-05-28"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2908103",
+          "date": "2025-05-28"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2948578",
+          "date": "2025-06-13"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--redcross-1",
+      "ip": "redcross",
+      "form": "기타",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-04-18",
+      "campaign": null,
+      "note": "헌혈 캠페인 Saving Lives, Together!",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2824527",
+          "date": "2025-04-18"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=3069650",
+          "date": "2025-08-01"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--sony",
+      "ip": "sony",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "한국"
+      ],
+      "date": "2024-12-03",
+      "campaign": null,
+      "note": "WH-1000XM5 컬렉션 패키지, 소니스토어 압구정점 특별 매장",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2690491",
+          "date": "2024-12-03"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2690494",
+          "date": "2024-12-04"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2694042",
+          "date": "2024-12-05"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2690495",
+          "date": "2024-12-09"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--papajohns",
+      "ip": "papajohns",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2024-10-02",
+      "campaign": null,
+      "note": "제휴 이벤트와 SNS 이벤트",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2655409",
+          "date": "2024-10-02"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2670281",
+          "date": "2024-10-28"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2670282",
+          "date": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--aniplus-2",
+      "ip": "aniplus",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "한국"
+      ],
+      "date": "2024-09-04",
+      "campaign": null,
+      "note": "게헨나 선도부 & 만마전 오리지널 굿즈",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2635103",
+          "date": "2024-09-04"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--momstouch-2",
+      "ip": "momstouch",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2024-09-02",
+      "campaign": null,
+      "note": "래플 식스티에잇 4회 진행",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2627324",
+          "date": "2024-09-02"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2627326",
+          "date": "2024-09-02"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2627328",
+          "date": "2024-09-02"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2637244",
+          "date": "2024-09-10"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2637248",
+          "date": "2024-09-17"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2637254",
+          "date": "2024-09-24"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2687548",
+          "date": "2024-11-24"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--haksan",
+      "ip": "haksan",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "한국"
+      ],
+      "date": "2024-08-08",
+      "campaign": null,
+      "note": "밀레니엄 VERITAS 스페셜 공식 굿즈",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2618553",
+          "date": "2024-08-08"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2671284",
+          "date": "2024-10-26"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--gs25-1",
+      "ip": "gs25",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2024-04-16",
+      "campaign": null,
+      "note": "스탬프 랠리, SRT 특별 매장, 미카 & 나기사 우유롤케익",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2547592",
+          "date": "2024-04-16"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2553667",
+          "date": "2024-04-26"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2553669",
+          "date": "2024-04-26"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2575593",
+          "date": "2024-05-30"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2583517",
+          "date": "2024-06-14"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2608442",
+          "date": "2024-07-24"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--galaxy-1",
+      "ip": "samsung",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "한국"
+      ],
+      "date": "2024-03-15",
+      "campaign": null,
+      "note": "Galaxy S24 Ultra 액세서리 에디션",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2524818",
+          "date": "2024-03-15"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--ediya",
+      "ip": "ediya",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2024-01-18",
+      "campaign": null,
+      "note": "전 메뉴 할인 쿠폰 이벤트 포함",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2473180",
+          "date": "2024-01-18"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2498903",
+          "date": "2024-02-13"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2513505",
+          "date": "2024-03-04"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--momstouch-1",
+      "ip": "momstouch",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2023-11-10",
+      "campaign": null,
+      "note": "아리우스 스쿼드 기념 이벤트",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2329884",
+          "date": "2023-11-10"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2344542",
+          "date": "2023-11-16"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--railgun",
+      "ip": "railgun",
+      "form": "인게임",
+      "regions": [
+        "일본",
+        "한국"
+      ],
+      "date": "2023-10-16",
+      "campaign": null,
+      "note": "일본 2023년 10월, 한국 2024년 4월 진행",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://bluearchive.jp/news/detail/374",
+          "date": "2023-10-16"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://bluearchive.jp/news/detail/375",
+          "date": "2023-10-23"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://bluearchive.jp/news/detail/377",
+          "date": "2023-10-23"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2556754",
+          "date": "2024-04-30"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--hyundai-peer",
+      "ip": "hyundai-peer",
+      "form": "카페·팝업",
+      "regions": [
+        "한국"
+      ],
+      "date": "2023-09-01",
+      "campaign": null,
+      "note": "현대백화점과 PEER 3자 팝업 스토어",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2269206",
+          "date": "2023-09-01"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2289840",
+          "date": "2023-09-26"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--hyundaicard",
+      "ip": "hyundaicard",
+      "form": "브랜드",
+      "regions": [
+        "한국"
+      ],
+      "date": "2023-07-20",
+      "campaign": null,
+      "note": "넥슨 현대카드 한정판 플레이트",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2212924",
+          "date": "2023-07-20"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2219435",
+          "date": "2023-07-25"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2301720",
+          "date": "2023-10-10"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--dalkomm",
+      "ip": "dalkomm",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2023-05-05",
+      "campaign": null,
+      "note": "스승의 날 특별 이벤트",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2116129",
+          "date": "2023-05-05"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2124812",
+          "date": "2023-05-12"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--frankburger",
+      "ip": "frank-burger",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2023-02-23",
+      "campaign": null,
+      "note": "미식연구회 기념 이벤트",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2031602",
+          "date": "2023-02-23"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2035961",
+          "date": "2023-02-28"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=2041845",
+          "date": "2023-03-08"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--aniplus-1",
+      "ip": "aniplus",
+      "form": "카페·팝업",
+      "regions": [
+        "한국"
+      ],
+      "date": "2022-10-28",
+      "campaign": null,
+      "note": "애니플러스 콜라보 카페",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://forum.nexon.com/bluearchive/board_view?thread=1909599",
+          "date": "2022-10-28"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--hatsune-miku",
+      "ip": "hatsune-miku",
+      "form": "인게임",
+      "regions": [
+        "일본"
+      ],
+      "date": "2021-11-02",
+      "campaign": null,
+      "note": "일본 서비스 1주년 콜라보. 한국 공지는 확인되지 않음",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://bluearchive.jp/news/detail/158",
+          "date": "2021-11-02"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://bluearchive.jp/news/detail/159",
+          "date": "2021-11-02"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://bluearchive.jp/news/detail/164",
+          "date": "2021-11-04"
+        }
+      ]
+    }
+  ]
+}

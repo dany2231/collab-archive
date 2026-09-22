@@ -1,0 +1,729 @@
+{
+  "game": "zenless",
+  "reviewed": false,
+  "campaigns": [
+    {
+      "id": "operation-yum-2025",
+      "name": "냠냠대작전 2025",
+      "note": "2.0 버전 기간의 첫 글로벌 미식 콜라보. 게임 내 이벤트와 지역별 식음료 콜라보로 구성",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://zenless.hoyoverse.com/ko-kr/news/156058",
+          "date": "2025-05-24"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://zenless.hoyoverse.com/ko-kr/news/156060",
+          "date": "2025-05-24"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://zenless.hoyoverse.com/ja-jp/news/156058",
+          "date": "2025-05-24"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://zenless.hoyoverse.com/ja-jp/news/156060",
+          "date": "2025-05-24"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/156058",
+          "date": "2025-05-24"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/156060",
+          "date": "2025-05-24"
+        }
+      ]
+    },
+    {
+      "id": "operation-yum-2026",
+      "name": "냠냠대작전 2026",
+      "note": "2주년 기념 두 번째 글로벌 미식 콜라보",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://zenless.hoyoverse.com/ko-kr/news/165247",
+          "date": "2026-07-17"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://zenless.hoyoverse.com/ja-jp/news/165247",
+          "date": "2026-07-17"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/165247",
+          "date": "2026-07-17"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/45890270",
+          "locale": "hoyolab-ko",
+          "date": "2026-07-17"
+        }
+      ]
+    }
+  ],
+  "collabs": [
+    {
+      "id": "zenless--kyuramen",
+      "ip": "kyuramen",
+      "form": "식음료",
+      "regions": [
+        "미국"
+      ],
+      "campaign": "operation-yum-2026",
+      "date": "2026-08-14",
+      "note": "미국 전 큐라멘 매장, 한정 굿즈",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/165276",
+          "date": "2026-07-20"
+        }
+      ]
+    },
+    {
+      "id": "zenless--haidilao",
+      "ip": "haidilao",
+      "form": "식음료",
+      "regions": [
+        "싱가포르"
+      ],
+      "campaign": null,
+      "date": "2026-08-01",
+      "note": "싱가포르 전 하이디라오 매장, 테마 스키야키 훠궈 세트와 굿즈",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/165275",
+          "date": "2026-07-18"
+        }
+      ]
+    },
+    {
+      "id": "zenless--hoyoverse-cafe",
+      "ip": "hoyoverse-cafe",
+      "form": "카페·팝업",
+      "regions": [
+        "독일"
+      ],
+      "campaign": "operation-yum-2026",
+      "date": "2026-07-29",
+      "note": "베를린 호요버스 카페 스페셜 팝업, 2주년 기념",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/165296",
+          "date": "2026-07-20"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/165605",
+          "date": "2026-08-08"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/165746",
+          "date": "2026-08-14"
+        }
+      ]
+    },
+    {
+      "id": "zenless--pizza-round",
+      "ip": "pizza-round",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2026-07-24",
+      "campaign": null,
+      "note": "반올림피자 콜라보 메뉴와 굿즈",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/45981579",
+          "locale": "hoyolab-ko",
+          "date": "2026-07-24"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/46134556",
+          "locale": "hoyolab-ko",
+          "date": "2026-08-04"
+        }
+      ]
+    },
+    {
+      "id": "zenless--honkai-star-rail",
+      "ip": "honkai-star-rail",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "campaign": null,
+      "date": "2026-07-17",
+      "note": "같은 호요버스 게임 간 크로스오버. 2026년 겨울 진행 예정",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://zenless.hoyoverse.com/ko-kr/news/165250",
+          "date": "2026-07-17"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://zenless.hoyoverse.com/ja-jp/news/165250",
+          "date": "2026-07-17"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/165250",
+          "date": "2026-07-17"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/45889380",
+          "locale": "hoyolab-ko",
+          "date": "2026-07-17"
+        },
+        {
+          "url": "https://www.miyoushe.com/zzz/article/76755364",
+          "locale": "hoyolab-zh",
+          "date": "2026-07-17"
+        }
+      ]
+    },
+    {
+      "id": "zenless--kfc",
+      "ip": "kfc",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2026-07-10",
+      "campaign": null,
+      "note": "KFC 「천사 강림」 콜라보 세트. 교환 코드 칭호 미지급 사고 안내 포함",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/zzz/article/76581784",
+          "locale": "hoyolab-zh",
+          "date": "2026-07-10"
+        },
+        {
+          "url": "https://www.miyoushe.com/zzz/article/76803261",
+          "locale": "hoyolab-zh",
+          "date": "2026-07-19"
+        },
+        {
+          "url": "https://www.miyoushe.com/zzz/article/76915992",
+          "locale": "hoyolab-zh",
+          "date": "2026-07-24"
+        },
+        {
+          "url": "https://www.miyoushe.com/zzz/article/76924157",
+          "locale": "hoyolab-zh",
+          "date": "2026-07-24"
+        }
+      ]
+    },
+    {
+      "id": "zenless--yadea",
+      "ip": "yadea",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2026-07-09",
+      "campaign": null,
+      "note": "전기 스쿠터 브랜드 야디 콜라보 모델",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/zzz/article/76552932",
+          "locale": "hoyolab-zh",
+          "date": "2026-07-09"
+        },
+        {
+          "url": "https://www.miyoushe.com/zzz/article/76757550",
+          "locale": "hoyolab-zh",
+          "date": "2026-07-17"
+        }
+      ]
+    },
+    {
+      "id": "zenless--the-venti",
+      "ip": "the-venti",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "campaign": null,
+      "date": "2026-07-02",
+      "note": "전국 더벤티 매장 (일부 제외)",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://zenless.hoyoverse.com/ko-kr/news/164715",
+          "date": "2026-06-12"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/45435302",
+          "locale": "hoyolab-ko",
+          "date": "2026-06-12"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/45751545",
+          "locale": "hoyolab-ko",
+          "date": "2026-07-06"
+        }
+      ]
+    },
+    {
+      "id": "zenless--yamaha",
+      "ip": "yamaha-motorcycle",
+      "form": "브랜드",
+      "regions": [
+        "일본"
+      ],
+      "campaign": null,
+      "date": "2026-04-24",
+      "note": "빌리 × XSR900 GP",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://zenless.hoyoverse.com/ja-jp/news/163712",
+          "date": "2026-04-24"
+        }
+      ]
+    },
+    {
+      "id": "zenless--apple-app-store-2",
+      "ip": "apple-app-store",
+      "form": "카페·팝업",
+      "regions": [
+        "한국"
+      ],
+      "campaign": null,
+      "date": "2026-02-21",
+      "note": "2차 콜라보. 더현대 서울 엔젤디 팝업스토어와 스페셜 에디션 패키지",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://zenless.hoyoverse.com/ko-kr/news/159853",
+          "date": "2025-09-29"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://zenless.hoyoverse.com/ko-kr/news/162437",
+          "date": "2026-01-30"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/41438633",
+          "locale": "hoyolab-ko",
+          "date": "2025-09-29"
+        }
+      ]
+    },
+    {
+      "id": "zenless--aniplus",
+      "ip": "aniplus",
+      "form": "카페·팝업",
+      "regions": [
+        "한국"
+      ],
+      "campaign": null,
+      "date": "2026-02-12",
+      "note": "엔젤디 콜라보 카페, 애니플러스 서울합정점·부산서면점",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://zenless.hoyoverse.com/ko-kr/news/162433",
+          "date": "2026-01-30"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/43536220",
+          "locale": "hoyolab-ko",
+          "date": "2026-01-30"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/43726950",
+          "locale": "hoyolab-ko",
+          "date": "2026-02-11"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/43914600",
+          "locale": "hoyolab-ko",
+          "date": "2026-02-23"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/44120518",
+          "locale": "hoyolab-ko",
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "id": "zenless--hormel",
+      "ip": "hormel",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2026-01-16",
+      "campaign": null,
+      "note": "호멜 춘절 콜라보 제품",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/zzz/article/72261675",
+          "locale": "hoyolab-zh",
+          "date": "2026-01-12"
+        },
+        {
+          "url": "https://www.miyoushe.com/zzz/article/72392689",
+          "locale": "hoyolab-zh",
+          "date": "2026-01-16"
+        }
+      ]
+    },
+    {
+      "id": "zenless--chabaidao",
+      "ip": "chabaidao",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2025-09-22",
+      "campaign": null,
+      "note": "차바이다오 콜라보 음료·굿즈",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/zzz/article/68810389",
+          "locale": "hoyolab-zh",
+          "date": "2025-09-22"
+        },
+        {
+          "url": "https://www.miyoushe.com/zzz/article/68810735",
+          "locale": "hoyolab-zh",
+          "date": "2025-09-22"
+        }
+      ]
+    },
+    {
+      "id": "zenless--razer",
+      "ip": "razer",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "글로벌"
+      ],
+      "campaign": null,
+      "date": "2025-08-22",
+      "note": "레이저 공식 홈페이지 콜라보 주변기기 시리즈. 공식몰 순차 예약 판매",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://zenless.hoyoverse.com/ko-kr/news/158966",
+          "date": "2025-08-22"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://zenless.hoyoverse.com/ja-jp/news/158966",
+          "date": "2025-08-22"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/158966",
+          "date": "2025-08-22"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/40677487",
+          "locale": "hoyolab-ko",
+          "date": "2025-08-22"
+        }
+      ]
+    },
+    {
+      "id": "zenless--aston-martin",
+      "ip": "aston-martin",
+      "form": "브랜드",
+      "regions": [
+        "글로벌"
+      ],
+      "campaign": null,
+      "date": "2025-08-16",
+      "note": "빅토리아 하우스키핑 테마 콜라보 PV. 영어 공지만 있음",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/158607",
+          "date": "2025-08-16"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/158690",
+          "date": "2025-08-16"
+        }
+      ]
+    },
+    {
+      "id": "zenless--fanta",
+      "ip": "fanta",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2025-07-02",
+      "campaign": null,
+      "note": "환타 「도파민 특파단」 콜라보. PV·KV 공개",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/zzz/article/65994131",
+          "locale": "hoyolab-zh",
+          "date": "2025-07-02"
+        },
+        {
+          "url": "https://www.miyoushe.com/zzz/article/65995750",
+          "locale": "hoyolab-zh",
+          "date": "2025-07-02"
+        }
+      ]
+    },
+    {
+      "id": "zenless--frank-burger",
+      "ip": "frank-burger",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "campaign": "operation-yum-2025",
+      "date": "2025-06-19",
+      "note": "콜라보 메뉴, 한정 굿즈, 매장 이벤트",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://zenless.hoyoverse.com/ko-kr/news/156736",
+          "date": "2025-06-09"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://zenless.hoyoverse.com/ko-kr/news/157052",
+          "date": "2025-06-18"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/38938132",
+          "locale": "hoyolab-ko",
+          "date": "2025-05-23"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/39232978",
+          "locale": "hoyolab-ko",
+          "date": "2025-06-09"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/39388503",
+          "locale": "hoyolab-ko",
+          "date": "2025-06-18"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/39672121",
+          "locale": "hoyolab-ko",
+          "date": "2025-06-27"
+        }
+      ]
+    },
+    {
+      "id": "zenless--pizza-la",
+      "ip": "pizza-la",
+      "form": "식음료",
+      "regions": [
+        "일본"
+      ],
+      "campaign": "operation-yum-2025",
+      "date": "2025-05-27",
+      "note": "냠냠대작전 공지 본문에서 일본 한정으로 언급됨. 별도 공지 없음",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://zenless.hoyoverse.com/ja-jp/news/156058",
+          "date": "2025-05-24"
+        }
+      ]
+    },
+    {
+      "id": "zenless--gamesir",
+      "ip": "gamesir",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "중국"
+      ],
+      "date": "2025-01-08",
+      "campaign": null,
+      "note": "게임서(盖世小鸡) 「절세 플레이어」 콜라보 게임패드",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/zzz/article/60900291",
+          "locale": "hoyolab-zh",
+          "date": "2025-01-08"
+        }
+      ]
+    },
+    {
+      "id": "zenless--photogray",
+      "ip": "photogray",
+      "form": "카페·팝업",
+      "regions": [
+        "한국"
+      ],
+      "date": "2024-12-23",
+      "campaign": null,
+      "note": "포토그레이 포토부스 콜라보 프레임. 「대공동 6과」 편에 이어 2025년 1월 「아스트라」 편 진행",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/35793176",
+          "locale": "hoyolab-ko",
+          "date": "2024-12-23"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/35794000",
+          "locale": "hoyolab-ko",
+          "date": "2024-12-23"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/36411120",
+          "locale": "hoyolab-ko",
+          "date": "2025-01-17"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/36411371",
+          "locale": "hoyolab-ko",
+          "date": "2025-01-17"
+        }
+      ]
+    },
+    {
+      "id": "zenless--mcdonalds",
+      "ip": "mcdonalds",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-12-02",
+      "campaign": null,
+      "note": "맥도날드 콜라보 세트와 이모티콘. 콜라보 PV 공개",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/zzz/article/59835512",
+          "locale": "hoyolab-zh",
+          "date": "2024-12-02"
+        },
+        {
+          "url": "https://www.miyoushe.com/zzz/article/59837997",
+          "locale": "hoyolab-zh",
+          "date": "2024-12-02"
+        },
+        {
+          "url": "https://www.miyoushe.com/zzz/article/59889371",
+          "locale": "hoyolab-zh",
+          "date": "2024-12-04"
+        }
+      ]
+    },
+    {
+      "id": "zenless--creamfields",
+      "ip": "creamfields",
+      "form": "음악",
+      "regions": [
+        "영국"
+      ],
+      "campaign": null,
+      "date": "2024-09-13",
+      "note": "영국 음악 페스티벌 DJ 공연. 날짜는 하이라이트 영상 공지일",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/125864",
+          "date": "2024-09-13"
+        }
+      ]
+    },
+    {
+      "id": "zenless--tiesto",
+      "ip": "tiesto",
+      "form": "음악",
+      "regions": [
+        "글로벌"
+      ],
+      "campaign": null,
+      "date": "2024-07-02",
+      "note": "티에스토와 루카스 앤 스티브가 프로듀싱한 음원 「ZENLESS」 공개",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://zenless.hoyoverse.com/ko-kr/news/124538",
+          "date": "2024-07-02"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://zenless.hoyoverse.com/ja-jp/news/124538",
+          "date": "2024-07-02"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/124538",
+          "date": "2024-07-02"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/30517188",
+          "locale": "hoyolab-ko",
+          "date": "2024-07-02"
+        },
+        {
+          "url": "https://www.miyoushe.com/zzz/article/54512912",
+          "locale": "hoyolab-zh",
+          "date": "2024-07-02"
+        }
+      ]
+    },
+    {
+      "id": "zenless--street-fighter-6",
+      "ip": "street-fighter-6",
+      "form": "기타",
+      "regions": [
+        "글로벌"
+      ],
+      "campaign": null,
+      "date": "2024-06-29",
+      "note": "양 게임 프로듀서·디렉터 대담 (게임 내 콜라보 아님)",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://zenless.hoyoverse.com/ko-kr/news/124483",
+          "date": "2024-06-29"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://zenless.hoyoverse.com/ja-jp/news/124483",
+          "date": "2024-06-29"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://zenless.hoyoverse.com/en-us/news/124483",
+          "date": "2024-06-29"
+        },
+        {
+          "url": "https://www.miyoushe.com/zzz/article/54151139",
+          "locale": "hoyolab-zh",
+          "date": "2024-06-23"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/30412593",
+          "locale": "hoyolab-ko",
+          "date": "2024-06-29"
+        },
+        {
+          "url": "https://www.miyoushe.com/zzz/article/54381061",
+          "locale": "hoyolab-zh",
+          "date": "2024-06-29"
+        }
+      ]
+    }
+  ]
+}

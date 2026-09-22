@@ -1,0 +1,1121 @@
+[
+  {
+    "id": "honkai-star-rail",
+    "ko": "붕괴: 스타레일",
+    "aliases": [
+      "Honkai: Star Rail",
+      "崩壊：スターレイル"
+    ],
+    "category": "게임"
+  },
+  {
+    "id": "kyuramen",
+    "ko": "큐라멘",
+    "aliases": [
+      "Kyuramen"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "hoyoverse-cafe",
+    "ko": "호요버스 카페",
+    "aliases": [
+      "HoYoverse Café"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "haidilao",
+    "ko": "하이디라오",
+    "aliases": [
+      "Haidilao Hot Pot",
+      "海底捞"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "the-venti",
+    "ko": "더벤티",
+    "aliases": [
+      "THE VENTI"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "yamaha-motorcycle",
+    "ko": "야마하 모터사이클",
+    "aliases": [
+      "Yamaha",
+      "ヤマハモーターサイクル",
+      "ヤマハ"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "apple-app-store",
+    "ko": "애플 앱스토어",
+    "aliases": [
+      "Apple App Store"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "aniplus",
+    "ko": "애니플러스",
+    "aliases": [
+      "Aniplus"
+    ],
+    "category": "카페·유통"
+  },
+  {
+    "id": "razer",
+    "ko": "레이저",
+    "aliases": [
+      "Razer"
+    ],
+    "category": "하드웨어"
+  },
+  {
+    "id": "aston-martin",
+    "ko": "애스턴 마틴",
+    "aliases": [
+      "Aston Martin"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "frank-burger",
+    "ko": "프랭크버거",
+    "aliases": [
+      "Frank Burger",
+      "프랭크 버거",
+      "프랭크버거"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "pizza-la",
+    "ko": "피자라",
+    "aliases": [
+      "ピザーラ",
+      "PIZZA-LA"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "creamfields",
+    "ko": "크림필즈",
+    "aliases": [
+      "Creamfields",
+      "Creamfields North"
+    ],
+    "category": "음악"
+  },
+  {
+    "id": "tiesto",
+    "ko": "티에스토",
+    "aliases": [
+      "Tiësto",
+      "Tiesto"
+    ],
+    "category": "음악"
+  },
+  {
+    "id": "street-fighter-6",
+    "ko": "스트리트 파이터 6",
+    "aliases": [
+      "Street Fighter 6",
+      "ストリートファイター6"
+    ],
+    "category": "게임"
+  },
+  {
+    "id": "gs25",
+    "ko": "GS25",
+    "aliases": [
+      "GS25"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "momstouch",
+    "ko": "맘스터치",
+    "aliases": [
+      "맘스터치",
+      "Mom's Touch"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "musinsa",
+    "ko": "무신사",
+    "aliases": [
+      "무신사",
+      "MUSINSA",
+      "디스커스 애슬레틱",
+      "Discus Athletic"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "redcross",
+    "ko": "대한적십자사",
+    "aliases": [
+      "대한적십자사"
+    ],
+    "category": "공공"
+  },
+  {
+    "id": "maeil-picnic",
+    "ko": "매일유업 피크닉",
+    "aliases": [
+      "매일유업",
+      "피크닉"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "kujibikido",
+    "ko": "쿠지비키도",
+    "aliases": [
+      "쿠지비키도"
+    ],
+    "category": "굿즈"
+  },
+  {
+    "id": "lottecinema",
+    "ko": "롯데시네마",
+    "aliases": [
+      "롯데시네마"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "ogq",
+    "ko": "OGQ",
+    "aliases": [
+      "OGQ"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "oxford",
+    "ko": "옥스포드",
+    "aliases": [
+      "옥스포드",
+      "OXFORD"
+    ],
+    "category": "완구"
+  },
+  {
+    "id": "bicycle",
+    "ko": "바이시클",
+    "aliases": [
+      "바이시클",
+      "Bicycle"
+    ],
+    "category": "완구"
+  },
+  {
+    "id": "lg-gram",
+    "ko": "LG 그램",
+    "aliases": [
+      "LG gram",
+      "LG그램"
+    ],
+    "category": "하드웨어"
+  },
+  {
+    "id": "samsung",
+    "ko": "삼성 갤럭시",
+    "aliases": [
+      "Galaxy",
+      "갤럭시"
+    ],
+    "category": "하드웨어"
+  },
+  {
+    "id": "hamaji-aki",
+    "ko": "하마지 아키",
+    "aliases": [
+      "하마지 아키",
+      "はまじあき"
+    ],
+    "category": "작가"
+  },
+  {
+    "id": "sony",
+    "ko": "소니",
+    "aliases": [
+      "SONY",
+      "소니",
+      "ソニー"
+    ],
+    "category": "하드웨어"
+  },
+  {
+    "id": "haksan",
+    "ko": "학산문화사",
+    "aliases": [
+      "학산문화사"
+    ],
+    "category": "출판"
+  },
+  {
+    "id": "papajohns",
+    "ko": "파파존스",
+    "aliases": [
+      "파파존스",
+      "Papa John's"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "ediya",
+    "ko": "이디야커피",
+    "aliases": [
+      "이디야"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "hyundai-peer",
+    "ko": "현대백화점 · PEER",
+    "aliases": [
+      "현대백화점",
+      "PEER"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "hyundaicard",
+    "ko": "현대카드",
+    "aliases": [
+      "현대카드"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "dalkomm",
+    "ko": "달콤커피",
+    "aliases": [
+      "달콤커피"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "moderoid",
+    "ko": "모데로이드",
+    "aliases": [
+      "MODEROID",
+      "모데로이드",
+      "다아트"
+    ],
+    "category": "완구"
+  },
+  {
+    "id": "railgun",
+    "ko": "어떤 과학의 초전자포",
+    "aliases": [
+      "とある科学の超電磁砲",
+      "超電磁砲",
+      "御坂美琴",
+      "어떤 과학의 초전자포"
+    ],
+    "category": "애니메이션"
+  },
+  {
+    "id": "hatsune-miku",
+    "ko": "하츠네 미쿠",
+    "aliases": [
+      "初音ミク",
+      "하츠네 미쿠"
+    ],
+    "category": "캐릭터"
+  },
+  {
+    "id": "meituan",
+    "ko": "메이투안·다중뎬핑",
+    "aliases": [
+      "美团",
+      "大众点评"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "oneplus",
+    "ko": "원플러스",
+    "aliases": [
+      "一加",
+      "OnePlus"
+    ],
+    "category": "하드웨어"
+  },
+  {
+    "id": "duolingo",
+    "ko": "듀오링고",
+    "aliases": [
+      "Duolingo",
+      "듀오링고"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "tabelog",
+    "ko": "타베로그",
+    "aliases": [
+      "食べログ"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "pulse",
+    "ko": "맥동",
+    "aliases": [
+      "脉动"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "shanghai-police",
+    "ko": "상하이 공안국",
+    "aliases": [
+      "上海公安",
+      "徐汇公安"
+    ],
+    "category": "공공"
+  },
+  {
+    "id": "guizhou",
+    "ko": "구이저우성",
+    "aliases": [
+      "贵州"
+    ],
+    "category": "관광"
+  },
+  {
+    "id": "douyin",
+    "ko": "더우인",
+    "aliases": [
+      "抖音"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "xiaohongshu",
+    "ko": "샤오홍슈",
+    "aliases": [
+      "小红书"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "guerlain",
+    "ko": "겔랑",
+    "aliases": [
+      "娇兰",
+      "Guerlain"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "kfc",
+    "ko": "KFC",
+    "aliases": [
+      "肯德基",
+      "KFC"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "anta",
+    "ko": "안타",
+    "aliases": [
+      "安踏",
+      "ANTA"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "didi",
+    "ko": "디디추싱",
+    "aliases": [
+      "滴滴"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "kugou",
+    "ko": "쿠고뮤직",
+    "aliases": [
+      "酷狗音乐"
+    ],
+    "category": "음악"
+  },
+  {
+    "id": "alipay",
+    "ko": "알리페이",
+    "aliases": [
+      "支付宝",
+      "Alipay"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "netease-tiancheng",
+    "ko": "넷이즈 톈청",
+    "aliases": [
+      "网易天成"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "sanxingdui",
+    "ko": "싼싱두이 박물관",
+    "aliases": [
+      "三星堆博物馆",
+      "삼성퇴"
+    ],
+    "category": "박물관"
+  },
+  {
+    "id": "heytea",
+    "ko": "희차",
+    "aliases": [
+      "喜茶",
+      "HEYTEA"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "sui-han",
+    "ko": "수이원징·한충",
+    "aliases": [
+      "隋文静",
+      "韩聪",
+      "SUI&HAN"
+    ],
+    "category": "인물"
+  },
+  {
+    "id": "zhihu",
+    "ko": "즈후",
+    "aliases": [
+      "知乎"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "keep",
+    "ko": "Keep",
+    "aliases": [
+      "Keep"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "wechat-games",
+    "ko": "위챗 게임",
+    "aliases": [
+      "微信游戏"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "kiehls",
+    "ko": "키엘",
+    "aliases": [
+      "科颜氏",
+      "Kiehl's"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "pizzahut",
+    "ko": "피자헛",
+    "aliases": [
+      "必胜客",
+      "ピザハット",
+      "Pizza Hut"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "cadillac",
+    "ko": "캐딜락",
+    "aliases": [
+      "凯迪拉克",
+      "Cadillac"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "lawson",
+    "ko": "로손",
+    "aliases": [
+      "罗森",
+      "ローソン",
+      "LAWSON"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "cmb-card",
+    "ko": "초상은행 신용카드",
+    "aliases": [
+      "招商银行"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "dewu",
+    "ko": "더우",
+    "aliases": [
+      "得物"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "suibian",
+    "ko": "수이볜",
+    "aliases": [
+      "随变"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "redmi",
+    "ko": "레드미",
+    "aliases": [
+      "Redmi",
+      "红米"
+    ],
+    "category": "하드웨어"
+  },
+  {
+    "id": "apple-store",
+    "ko": "애플 공인 매장",
+    "aliases": [
+      "Apple Store",
+      "애플 스토어"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "huya",
+    "ko": "후야 라이브",
+    "aliases": [
+      "虎牙直播"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "discovery",
+    "ko": "디스커버리 채널",
+    "aliases": [
+      "Discovery"
+    ],
+    "category": "방송"
+  },
+  {
+    "id": "tokyo-skytree",
+    "ko": "도쿄 스카이트리",
+    "aliases": [
+      "東京スカイツリー"
+    ],
+    "category": "관광"
+  },
+  {
+    "id": "japan-post",
+    "ko": "일본우편",
+    "aliases": [
+      "日本郵便",
+      "郵便局"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "scenic-zhangjiajie",
+    "ko": "장가계 풍경구",
+    "aliases": [
+      "张家界"
+    ],
+    "category": "관광"
+  },
+  {
+    "id": "scenic-huanglong",
+    "ko": "황룽 풍경구",
+    "aliases": [
+      "黄龙"
+    ],
+    "category": "관광"
+  },
+  {
+    "id": "scenic-guilin",
+    "ko": "구이린 풍경구",
+    "aliases": [
+      "桂林"
+    ],
+    "category": "관광"
+  },
+  {
+    "id": "fate-ubw",
+    "ko": "Fate/stay night [UBW]",
+    "aliases": [
+      "Fate/stay night [Unlimited Blade Works]",
+      "Fate[UBW]"
+    ],
+    "category": "애니메이션"
+  },
+  {
+    "id": "mappa",
+    "ko": "MAPPA",
+    "aliases": [
+      "MAPPA"
+    ],
+    "category": "애니메이션"
+  },
+  {
+    "id": "bilibili",
+    "ko": "빌리빌리",
+    "aliases": [
+      "bilibili",
+      "哔哩哔哩"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "fortnite",
+    "ko": "포트나이트",
+    "aliases": [
+      "Fortnite",
+      "堡垒之夜",
+      "フォートナイト"
+    ],
+    "category": "게임"
+  },
+  {
+    "id": "prime-gaming",
+    "ko": "프라임 게이밍",
+    "aliases": [
+      "Prime Gaming",
+      "Amazon Prime"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "crunchyroll",
+    "ko": "크런치롤",
+    "aliases": [
+      "Crunchyroll"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "moritz-brown",
+    "ko": "모리셔스브라운",
+    "aliases": [
+      "모리셔스 브라운"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "playkeyboard",
+    "ko": "플레이키보드",
+    "aliases": [
+      "PlayKeyboard"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "gongcha",
+    "ko": "공차",
+    "aliases": [
+      "GONG CHA",
+      "Gong cha"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "ugreen",
+    "ko": "유그린",
+    "aliases": [
+      "UGREEN"
+    ],
+    "category": "하드웨어"
+  },
+  {
+    "id": "moondrop",
+    "ko": "수월우",
+    "aliases": [
+      "Moondrop",
+      "水月雨"
+    ],
+    "category": "하드웨어"
+  },
+  {
+    "id": "colors-makeup",
+    "ko": "컬러스",
+    "aliases": [
+      "COLORS"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "bkub-okawa",
+    "ko": "오오카와 부쿠부",
+    "aliases": [
+      "Bkub Okawa",
+      "大川ぶくぶ"
+    ],
+    "category": "작가"
+  },
+  {
+    "id": "zenless-zone-zero",
+    "ko": "젠레스 존 제로",
+    "aliases": [
+      "Zenless Zone Zero",
+      "絕區零"
+    ],
+    "category": "게임"
+  },
+  {
+    "id": "deep",
+    "ko": "딥",
+    "aliases": [
+      "DEEP",
+      "이머시브 플랫폼 딥"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "scenic-xidi-hongcun",
+    "ko": "시디·훙춘 풍경구",
+    "aliases": [
+      "西递宏村"
+    ],
+    "category": "관광"
+  },
+  {
+    "id": "chengdu-tourism",
+    "ko": "청두 문화관광",
+    "aliases": [
+      "成都文旅"
+    ],
+    "category": "공공"
+  },
+  {
+    "id": "baidu-maps",
+    "ko": "바이두 지도",
+    "aliases": [
+      "百度地图",
+      "Baidu Maps"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "stride",
+    "ko": "쉬안마이",
+    "aliases": [
+      "炫迈",
+      "Stride"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "suzhou-museum",
+    "ko": "쑤저우 박물관",
+    "aliases": [
+      "苏州博物馆"
+    ],
+    "category": "박물관"
+  },
+  {
+    "id": "ctrip",
+    "ko": "씨트립",
+    "aliases": [
+      "携程",
+      "Ctrip",
+      "Trip.com"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "laofengxiang",
+    "ko": "라오펑샹",
+    "aliases": [
+      "老凤祥"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "chabaidao",
+    "ko": "차바이다오",
+    "aliases": [
+      "茶百道",
+      "ChaPanda"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "citic-bank",
+    "ko": "중신은행",
+    "aliases": [
+      "中信银行"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "jdb",
+    "ko": "자둬바오",
+    "aliases": [
+      "加多宝",
+      "JDB"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "guming",
+    "ko": "구밍",
+    "aliases": [
+      "古茗",
+      "Good Me"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "luckin",
+    "ko": "루이싱커피",
+    "aliases": [
+      "瑞幸咖啡",
+      "Luckin Coffee"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "zhang-shaohan",
+    "ko": "장샤오한",
+    "aliases": [
+      "张韶涵",
+      "Angela Chang"
+    ],
+    "category": "인물"
+  },
+  {
+    "id": "fanta",
+    "ko": "환타",
+    "aliases": [
+      "芬达",
+      "Fanta"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "white-rabbit",
+    "ko": "다바이투",
+    "aliases": [
+      "大白兔",
+      "White Rabbit"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "mcdonalds",
+    "ko": "맥도날드",
+    "aliases": [
+      "麦当劳",
+      "McDonald's"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "photogray",
+    "ko": "포토그레이",
+    "aliases": [
+      "PHOTOGRAY"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "gamesir",
+    "ko": "게임서",
+    "aliases": [
+      "盖世小鸡",
+      "GameSir"
+    ],
+    "category": "하드웨어"
+  },
+  {
+    "id": "hormel",
+    "ko": "호멜",
+    "aliases": [
+      "荷美尔",
+      "Hormel"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "yadea",
+    "ko": "야디",
+    "aliases": [
+      "雅迪",
+      "Yadea"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "pizza-round",
+    "ko": "반올림피자",
+    "aliases": [
+      "반올림피자샵"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "google-play",
+    "ko": "구글 플레이",
+    "aliases": [
+      "Google Play"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "taptap",
+    "ko": "탭탭",
+    "aliases": [
+      "TapTap"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "tmall-genie",
+    "ko": "티몰 지니",
+    "aliases": [
+      "天猫精灵",
+      "Tmall Genie"
+    ],
+    "category": "하드웨어"
+  },
+  {
+    "id": "alter",
+    "ko": "알터",
+    "aliases": [
+      "ALTER"
+    ],
+    "category": "완구"
+  },
+  {
+    "id": "amazfit",
+    "ko": "아마즈핏",
+    "aliases": [
+      "Amazfit",
+      "华米"
+    ],
+    "category": "하드웨어"
+  },
+  {
+    "id": "meihua",
+    "ko": "메이화",
+    "aliases": [
+      "梅花"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "gsc",
+    "ko": "굿스마일컴퍼니",
+    "aliases": [
+      "GSC",
+      "Good Smile Company",
+      "넨도로이드"
+    ],
+    "category": "완구"
+  },
+  {
+    "id": "ufotable",
+    "ko": "유포테이블",
+    "aliases": [
+      "ufotable"
+    ],
+    "category": "애니메이션"
+  },
+  {
+    "id": "wonderful-works",
+    "ko": "원더풀웍스",
+    "aliases": [
+      "Wonderful Works"
+    ],
+    "category": "완구"
+  },
+  {
+    "id": "funko",
+    "ko": "펀코",
+    "aliases": [
+      "Funko"
+    ],
+    "category": "완구"
+  },
+  {
+    "id": "bandai",
+    "ko": "반다이",
+    "aliases": [
+      "BANDAI",
+      "S.H.Figuarts"
+    ],
+    "category": "완구"
+  },
+  {
+    "id": "wanda-cinema",
+    "ko": "완다 시네마",
+    "aliases": [
+      "万达电影"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "shanhun",
+    "ko": "산훈",
+    "aliases": [
+      "闪魂"
+    ],
+    "category": "완구"
+  },
+  {
+    "id": "china-mobile",
+    "ko": "차이나 모바일",
+    "aliases": [
+      "中国移动",
+      "China Mobile"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "universal-beijing",
+    "ko": "유니버설 스튜디오 베이징",
+    "aliases": [
+      "北京环球影城",
+      "Universal Beijing"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "line-friends",
+    "ko": "라인프렌즈",
+    "aliases": [
+      "LINE FRIENDS",
+      "미니니",
+      "MININI"
+    ],
+    "category": "캐릭터"
+  },
+  {
+    "id": "ichiban-kuji",
+    "ko": "이치반쿠지",
+    "aliases": [
+      "一番賞",
+      "一番赏",
+      "Ichiban Kuji"
+    ],
+    "category": "굿즈"
+  }
+]

@@ -1,0 +1,76 @@
+/* Reference: https://revenue.ennead.cc/ and /revenue, inspected 2026-09-21.
+   Semantic names and layout values below form the reusable dashboard adaptation.
+   Set data-theme="light" or "dark" on the root element. Default: dark.
+   This file contains no third-party artwork or fonts. */
+:root {
+  color-scheme: dark;
+  --page: #0a0a0a;
+  --surface: #101010;
+  --surface-raised: #171717;
+  --ink: #fafafa;
+  --ink-2: #d4d4d4;
+  --muted: #a3a3a3;
+  --border: #262626;
+  --axis: #404040;
+  --grid: #252525;
+  --wash: #191919;
+  --accent: #fafafa;
+  --on-accent: #0a0a0a;
+  --focus: #d4d4d4;
+  --success: #34d399;
+  --danger: #f87171;
+  --form-1: #60a5fa;
+  --form-2: #fbbf24;
+  --form-3: #34d399;
+  --form-4: #c4b5fd;
+  --form-5: #f472b6;
+  --form-6: #67e8f9;
+  --form-7: #a3a3a3;
+  --font-sans: "Noto Sans", "Noto Sans KR", system-ui, -apple-system, "Segoe UI", "Malgun Gothic", sans-serif;
+  --font-emoji: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+  --font-xs: 12px;
+  --font-sm: 14px;
+  --font-base: 16px;
+  --font-section: 24px;
+  --font-title: 40px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-12: 48px;
+  --radius-control: 6px;
+  --radius-panel: 8px;
+  --content-width: 1200px;
+  --nav-height: 64px;
+  --control-height: 36px;
+  --touch-height: 44px;
+  --duration-fast: 150ms;
+  --shadow-popover: 0 8px 32px #0005;
+}
+:root[data-theme="light"] {
+  color-scheme: light;
+  --page: #fbfbfb;
+  --surface: #f8f8f8;
+  --surface-raised: #ffffff;
+  --ink: #0a0a0a;
+  --ink-2: #404040;
+  --muted: #737373;
+  --border: #e6e6e6;
+  --axis: #b8b8b8;
+  --grid: #e8e8e8;
+  --wash: #f1f1f1;
+  --accent: #171717;
+  --on-accent: #fafafa;
+  --focus: #525252;
+  --success: #047857;
+  --danger: #b91c1c;
+  --form-1: #2563eb;
+  --form-2: #b45309;
+  --form-3: #047857;
+  --form-4: #7c3aed;
+  --form-5: #be185d;
+  --form-6: #0e7490;
+  --form-7: #737373;
+}

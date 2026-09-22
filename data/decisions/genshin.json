@@ -1,0 +1,3164 @@
+{
+  "https://ys.mihoyo.com/main/news/detail/165750": {
+    "decision": "collab",
+    "collab": "genshin--meituan",
+    "date": "2026-08-16",
+    "title_ko": "\"겨울 특집: 언제 어디서나 시원함을\" 원신과 메이투안 | 디안핑 콜라보레이션 이벤트 공식 시작"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117838": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-emoji",
+    "date": "2022-11-12",
+    "title_ko": "원신(Genshin Impact)의 \"파이몬 아트워크 원플러스 콜라보레이션 에디션\" 테마 이모지 팩이 곧 출시될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118437": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-emoji",
+    "date": "2023-08-30",
+    "title_ko": "\"파이몬의 아트워크 원플러스 콜라보레이션\" 테마 이모지 팩의 두 번째 시리즈가 출시되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/122655": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-emoji",
+    "date": "2024-02-27",
+    "title_ko": "원신의 '파이몬 아트워크 원플러스 콜라보레이션 에디션' 테마 이모지 팩이 곧 출시됩니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/161599": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-emoji",
+    "date": "2025-12-20",
+    "title_ko": "원신(Genshin Impact)의 \"파이몬 아트워크 원플러스 콜라보레이션 에디션\" 테마 이모지 팩이 출시되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117027": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-phone",
+    "date": "2021-10-26",
+    "title_ko": "원플러스 9RT 원신 한정판 선물 세트의 예약 판매가 시작되었습니다."
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/161317": {
+    "decision": "collab",
+    "collab": "genshin--duolingo",
+    "date": "2025-12-06",
+    "title_ko": "원신x듀오링고 콜라보 이벤트가 12월 8일부터 시작됩니다!"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/161317": {
+    "decision": "collab",
+    "collab": "genshin--duolingo",
+    "date": "2025-12-06",
+    "title_ko": "「하라진 ✖ Duolingo」콜라보레이션이 12월 8일부터 스타트!"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/162174": {
+    "decision": "collab",
+    "collab": "genshin--tabelog",
+    "date": "2026-01-14",
+    "title_ko": "「하라진」×「먹어 로그」 첫 콜라보 캠페인을 1월 14일부터 개최! 먹어 로그 앱에 원신 비주얼이 출현!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/155661": {
+    "decision": "collab",
+    "collab": "genshin--pulse",
+    "date": "2025-04-25",
+    "title_ko": "Genshin Impact와 Pulse+ Electrolyte의 콜라보레이션이 공식적으로 시작되었습니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/127577": {
+    "decision": "collab",
+    "collab": "genshin--shanghai-police",
+    "date": "2024-12-23",
+    "title_ko": "상하이 공안국 × 쉬후이 공안국 × 원신 특별 이벤트 사전 등록 시작"
+  },
+  "https://ys.mihoyo.com/main/news/detail/127541": {
+    "decision": "collab",
+    "collab": "genshin--guizhou",
+    "date": "2024-12-20",
+    "title_ko": "원신과 구이저우의 콜라보레이션이 곧 시작됩니다"
+  },
+  "https://ys.mihoyo.com/main/news/detail/126924": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2024-11-13",
+    "title_ko": "\"소리를 따라가면 놀라운 비밀을 발견할 수 있어요\"—원신과 더우인 웹 이벤트가 지금 시작되었습니다"
+  },
+  "https://ys.mihoyo.com/main/news/detail/126925": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2024-11-13",
+    "title_ko": "Douyin과 Genshin Impact의 \"팔중음\" 테마 이벤트가 현재 진행 중입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118632": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2023-11-16",
+    "title_ko": "샤오홍슈와 원신의 만남 \"산호해의 만남\" 콜라보레이션 이벤트가 시작되었습니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118633": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2023-11-16",
+    "title_ko": "\"꽃의 바다\" - 샤오홍슈와 원신의 임팩트의 콜라보레이션 공유 이벤트가 진행 중입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118634": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2023-11-16",
+    "title_ko": "원신 \"파이몬의 그림(소홍서 편)\" 콜라보레이션 테마 이모지 팩이 곧 출시됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118705": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2023-12-19",
+    "title_ko": "샤오홍슈에서 진행되는 원신 4.3 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/126123": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2024-09-26",
+    "title_ko": "샤오홍슈와 원신의 만남을 기념하는 \"산호해로의 귀환\" 테마 이벤트가 현재 진행 중입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/126124": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2024-09-26",
+    "title_ko": "\"산호해의 이주\" - 샤오홍슈와 원신의 만남 콜라보레이션 페이지가 공개되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/124639": {
+    "decision": "collab",
+    "collab": "genshin--guerlain",
+    "date": "2024-07-05",
+    "title_ko": "겔랑과 원신의 만남 | \"꽃피고, 기적을!\" 테마의 콜라보레이션 이벤트가 곧 개최됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/125333": {
+    "decision": "collab",
+    "collab": "genshin--guerlain",
+    "date": "2024-08-16",
+    "title_ko": "겔랑과 원신의 콜라보레이션 제작 현장 비하인드 스토리"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116528": {
+    "decision": "collab",
+    "collab": "genshin--kfc-1",
+    "date": "2021-03-06",
+    "title_ko": "KFC와 원신의 만남 | 이세계에서의 만남, 맛있는 음식을 즐겨보세요"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116530": {
+    "decision": "collab",
+    "collab": "genshin--kfc-1",
+    "date": "2021-03-06",
+    "title_ko": "\"파이몬의 KFC 아트워크\" 콜라보레이션 테마 이모지 팩이 곧 출시될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/116531": {
+    "decision": "collab",
+    "collab": "genshin--kfc-1",
+    "date": "2021-03-08",
+    "title_ko": "원신 4컷 만화 | 이세계 탐험"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116533": {
+    "decision": "collab",
+    "collab": "genshin--kfc-1",
+    "date": "2021-03-09",
+    "title_ko": "\"타국에서의 음식 일기\" 원신 x KFC 팬아트 공모전"
+  },
+  "https://ys.mihoyo.com/main/news/detail/124646": {
+    "decision": "collab",
+    "collab": "genshin--kfc-2",
+    "date": "2024-07-05",
+    "title_ko": "KFC | 원신 콜라보레이션 PV - \"기적의 순간, 재현된 맛\""
+  },
+  "https://ys.mihoyo.com/main/news/detail/124667": {
+    "decision": "collab",
+    "collab": "genshin--kfc-2",
+    "date": "2024-07-06",
+    "title_ko": "KFC | 원신 - \"맛있게 재현된 기적의 순간\""
+  },
+  "https://ys.mihoyo.com/main/news/detail/124755": {
+    "decision": "collab",
+    "collab": "genshin--kfc-2",
+    "date": "2024-07-12",
+    "title_ko": "KFC와 원신의 만남 \"기적의 순간, 맛있는 재현\" 콜라보레이션 이벤트가 시작되었습니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/123838": {
+    "decision": "collab",
+    "collab": "genshin--anta",
+    "date": "2024-05-27",
+    "title_ko": "원신 \"파이몬의 그림 안타 콜라보레이션 에디션\" 테마의 이모티콘 팩이 출시되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/122275": {
+    "decision": "collab",
+    "collab": "genshin--didi",
+    "date": "2024-02-02",
+    "title_ko": "\"딩! 원신?\" 테마 콜라보레이션이 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/122121": {
+    "decision": "collab",
+    "collab": "genshin--kugou",
+    "date": "2024-01-29",
+    "title_ko": "원신과 쿠고 뮤직의 콜라보레이션 \"샤이닝 스타즈 4\" 테마 의상이 공식 출시되었습니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117675": {
+    "decision": "collab",
+    "collab": "genshin--alipay-1",
+    "date": "2022-09-16",
+    "title_ko": "원신과 알리페이의 콜라보레이션이 곧 출시됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117699": {
+    "decision": "collab",
+    "collab": "genshin--alipay-1",
+    "date": "2022-09-22",
+    "title_ko": "\"홍콩을 탐험하고 보물을 발견하세요\" - 원신 x 알리페이 웹 이벤트가 시작되었습니다"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117700": {
+    "decision": "collab",
+    "collab": "genshin--alipay-1",
+    "date": "2022-09-22",
+    "title_ko": "원신과 알리페이의 협업 이벤트가 시작됩니다"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117705": {
+    "decision": "collab",
+    "collab": "genshin--alipay-1",
+    "date": "2022-09-24",
+    "title_ko": "원신과 알리페이의 협업 이벤트 2단계가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118151": {
+    "decision": "collab",
+    "collab": "genshin--alipay-2",
+    "date": "2023-04-21",
+    "title_ko": "원신과 알리페이가 함께하는 2023년 친환경 여행 캠페인이 곧 시작됩니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118269": {
+    "decision": "collab",
+    "collab": "genshin--alipay-2",
+    "date": "2023-06-23",
+    "title_ko": "원신 | 천광기호 플레이 | 알리페이 자선 협업 출시 예정"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118300": {
+    "decision": "collab",
+    "collab": "genshin--alipay-2",
+    "date": "2023-07-04",
+    "title_ko": "\"숲 속의 모험: 숲 속의 꿈의 건축\" - 원신 x 새벽의 원더랜드 x 알리페이 웹 이벤트가 지금 진행 중입니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118301": {
+    "decision": "collab",
+    "collab": "genshin--alipay-2",
+    "date": "2023-07-04",
+    "title_ko": "Genshin Impact x Alipay 2023 친환경 여행 캠페인의 세 번째 단계가 시작되었습니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118352": {
+    "decision": "collab",
+    "collab": "genshin--alipay-2",
+    "date": "2023-08-02",
+    "title_ko": "Genshin Impact x Alipay 2023 친환경 여행 캠페인의 네 번째 단계가 시작되었습니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/119489": {
+    "decision": "collab",
+    "collab": "genshin--alipay-3",
+    "date": "2024-01-19",
+    "title_ko": "원신과 알리페이의 새로운 협업 이벤트 \"하늘의 상서로운 구름과 백 개의 연\"이 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118673": {
+    "decision": "collab",
+    "collab": "genshin--netease-tiancheng",
+    "date": "2023-12-11",
+    "title_ko": "원신 \"파이몬의 그림 - 넷이즈 천청 콜라보레이션 에디션\" 테마의 이모티콘 팩이 곧 출시됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118666": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-08",
+    "title_ko": "산싱두이 박물관과 원신의 신의 임팩트의 콜라보레이션 이벤트, \"천년을 올려다보며 만물을 관찰하다\"가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118684": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-18",
+    "title_ko": "원신과 삼성퇴관 콜라보레이션 뮤직비디오 - \"과거를 올려다보고 모든 것을 내려다보며\""
+  },
+  "https://ys.mihoyo.com/main/news/detail/118689": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-18",
+    "title_ko": "\"과거를 올려다보며, 무수한 현상을 관찰하다\" 행사에 참여하시면 \"화려한 청동상 - '고대의 황금 얼굴'\" 장식품을 받으실 수 있습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118712": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-20",
+    "title_ko": "\"과거를 올려다보며 세상을 관찰하기\" 행사가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118717": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-20",
+    "title_ko": "원신과 삼성퇴 박물관의 협업 단편 영화 - \"고대 유물과 이야기\""
+  },
+  "https://ys.mihoyo.com/main/news/detail/118718": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-20",
+    "title_ko": "원신과 삼성퇴 박물관 콜라보레이션 단편 영화 - \"고대 유물과 그 이야기\" - 전문가 버전"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118719": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-20",
+    "title_ko": "원신과 삼성퇴 박물관의 콜라보레이션 H5 \"산을 탐험하고 경이로움을 발견하다\"가 온라인에 공개되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118720": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-20",
+    "title_ko": "원신 \"파이몬의 그림: 삼성퇴 콜라보레이션 에디션\" 테마의 이모티콘 팩이 곧 출시됩니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118723": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-23",
+    "title_ko": "Genshin Impact와 삼성퇴관 박물관의 오프라인 이벤트가 곧 개최됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118731": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-31",
+    "title_ko": "원신과 삼성퇴관의 콜라보레이션 프로모션 트랙이 곧 출시됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/119371": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2024-01-09",
+    "title_ko": "[류환] 원신 x 삼흥퇴관 콜라보레이션 홍보곡 \"청동\""
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/114073": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-18",
+    "title_ko": "원신 | 원신×싼싱두이 박물관 콜라보 PV"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/114111": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-20",
+    "title_ko": "원신 × 싼싱두이 박물관 콜라보 웹이벤트「산속의 유물」"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/114073": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-18",
+    "title_ko": "하라진×삼성퇴박물관 콜라보 PV"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/114111": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-20",
+    "title_ko": "하라진×삼성퇴박물관 콜라보레이션 Web이벤트 「개산박물」"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117645": {
+    "decision": "collab",
+    "collab": "genshin--heytea-1",
+    "date": "2022-09-05",
+    "title_ko": "헤이티와 원신의 만남 | 당신 덕분에 더욱 즐거워진 약속의 여정"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117651": {
+    "decision": "collab",
+    "collab": "genshin--heytea-1",
+    "date": "2022-09-07",
+    "title_ko": "헤이티와 원신의 만남 | 당신 덕분에 더욱 즐거워진 약속의 여정"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117662": {
+    "decision": "collab",
+    "collab": "genshin--heytea-1",
+    "date": "2022-09-10",
+    "title_ko": "\"파이몬의 작품: 헤이티 에디션\" 콜라보레이션 테마 이모지 팩이 출시되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118358": {
+    "decision": "collab",
+    "collab": "genshin--heytea-2",
+    "date": "2023-08-04",
+    "title_ko": "기쁨과 기대를 가득 안고 | 헤이티와 원신의 두 번째 콜라보레이션이 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118364": {
+    "decision": "collab",
+    "collab": "genshin--heytea-2",
+    "date": "2023-08-08",
+    "title_ko": "두 번째 콜라보레이션 테마 이모지 팩인 \"파이몬의 아트워크: 헤이티 에디션\"이 출시되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118376": {
+    "decision": "collab",
+    "collab": "genshin--heytea-2",
+    "date": "2023-08-11",
+    "title_ko": "기쁨과 기대를 가득 안고, Genshin Impact 2.0의 출시를 환영합니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118448": {
+    "decision": "collab",
+    "collab": "genshin--heytea-2",
+    "date": "2023-09-01",
+    "title_ko": "헤이테아 x 원신 | 재회의 여정, 기쁨은 계속된다"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118466": {
+    "decision": "collab",
+    "collab": "genshin--sui-han",
+    "date": "2023-09-13",
+    "title_ko": "원신과 수문경/한충의 협업으로 탄생한 \"얼음바람 모음곡\" 피겨 스케이팅 공연."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118467": {
+    "decision": "collab",
+    "collab": "genshin--sui-han",
+    "date": "2023-09-13",
+    "title_ko": "원신과 수문경/한충의 콜라보레이션 제작 비하인드 스토리"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/112985": {
+    "decision": "collab",
+    "collab": "genshin--sui-han",
+    "date": "2023-09-13",
+    "title_ko": "원신 | 원신 X SUI&HAN - 콜라보 단편 영상"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/112985": {
+    "decision": "collab",
+    "collab": "genshin--sui-han",
+    "date": "2023-09-13",
+    "title_ko": "하라진 × 수이한 - 콜라보 영화"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116591": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2021-04-09",
+    "title_ko": "원신 x 지후 | \"바람꽃의 초대\" 퍼포먼스 영상 공모전 개최"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116638": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2021-04-30",
+    "title_ko": "원신 x 지후 | \"인도 에너지 디스크 소개\" 영상 공모전 개최"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116960": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2021-09-22",
+    "title_ko": "원신 x 지후 | 플레이어 중심 질의응답 이벤트"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117054": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2021-11-11",
+    "title_ko": "원신 x 지후 | 거울꽃 세상의 소리 듣기 퍼포먼스 영상 콘테스트"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117400": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2022-05-11",
+    "title_ko": "원신 x 지후 | \"푸른 들판과 귀여운 동물들\" 동물 테마 사진 콘테스트"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118433": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2023-08-25",
+    "title_ko": "\"모든 것을 그리고 이해하기\"—원신 x 지후 퀴즈 이벤트가 시작되었습니다"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118273": {
+    "decision": "collab",
+    "collab": "genshin--keep",
+    "date": "2023-06-24",
+    "title_ko": "\"달려라! 전력 질주하라! 모험이 시작된다!\" Genshin Impact x Keep 자선 온라인 달리기 대회가 지금 시작되었습니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118188": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2023-05-17",
+    "title_ko": "원신과 위챗 게임의 콜라보레이션 이벤트 \"친구와 함께하는 여정\"이 지금 진행 중입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118189": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2023-05-17",
+    "title_ko": "\"친구들과 함께하는 산행\" - 위챗 게임과 원신이 함께하는 즐거운 공유 이벤트가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118190": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2023-05-17",
+    "title_ko": "\"파이몬의 아트워크 위챗 게임 에디션\" 콜라보레이션 테마 스티커 팩이 곧 출시됩니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118191": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2023-05-17",
+    "title_ko": "#원신 x 위챗 게임즈 콜라보레이션 - 크리에이터 인센티브 프로그램 시작"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118182": {
+    "decision": "collab",
+    "collab": "genshin--kiehls",
+    "date": "2023-05-13",
+    "title_ko": "키엘과 원신의 충격 콜라보레이션 PV - \"숲속의 모험, 자유로운 정화\""
+  },
+  "https://ys.mihoyo.com/main/news/detail/118183": {
+    "decision": "collab",
+    "collab": "genshin--kiehls",
+    "date": "2023-05-13",
+    "title_ko": "키엘과 원신의 만남, \"숲 속 모험, 편안한 메이크업\" 콜라보레이션 시작"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118193": {
+    "decision": "collab",
+    "collab": "genshin--kiehls",
+    "date": "2023-05-17",
+    "title_ko": "원신 \"파이몬 일러스트 키엘 콜라보레이션\" 테마의 이모티콘 팩이 곧 출시됩니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117602": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-1",
+    "date": "2022-08-18",
+    "title_ko": "피자헛과 원신의 콜라보레이션이 8월 29일부터 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117605": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-1",
+    "date": "2022-08-19",
+    "title_ko": "\"파이몬의 작품: 피자헛 에디션\" 콜라보레이션 테마 이모지 팩이 출시되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117640": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-1",
+    "date": "2022-08-29",
+    "title_ko": "피자헛과 원신의 콜라보레이션 스톱모션 애니메이션 - \"피자헛 초대, 바람 속의 여정\""
+  },
+  "https://ys.mihoyo.com/main/news/detail/118043": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-2",
+    "date": "2023-02-17",
+    "title_ko": "피자헛이 보물찾기에 여러분을 초대합니다! | 피자헛과 원신의 콜라보레이션이 다시 돌아왔습니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118044": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-2",
+    "date": "2023-02-17",
+    "title_ko": "피자헛과 원신의 두 번째 콜라보레이션이 곧 출시됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118052": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-2",
+    "date": "2023-02-24",
+    "title_ko": "원신의 '파이몬의 그림 피자헛 콜라보레이션' 테마 이모지 팩이 곧 출시됩니다."
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/111392": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-jp",
+    "date": "2023-05-09",
+    "title_ko": "「하라진×피자햇」캠페인 개최중!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117674": {
+    "decision": "collab",
+    "collab": "genshin--cadillac",
+    "date": "2022-09-16",
+    "title_ko": "캐딜락과 원신의 콜라보레이션 이벤트가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117748": {
+    "decision": "collab",
+    "collab": "genshin--cadillac",
+    "date": "2022-10-02",
+    "title_ko": "원신 \"파이몬의 그림 - 캐딜락 콜라보레이션 에디션\" 테마의 이모티콘 팩이 출시되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117673": {
+    "decision": "collab",
+    "collab": "genshin--lawson",
+    "date": "2022-09-16",
+    "title_ko": "원신과 로손의 콜라보레이션 이벤트가 9월 26일에 공식적으로 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117676": {
+    "decision": "collab",
+    "collab": "genshin--cmb-card",
+    "date": "2022-09-16",
+    "title_ko": "중국상업은행 신용카드와 원신의 충격 콜라보레이션이 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117667": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2022-09-14",
+    "title_ko": "Dewu x Genshin Impact | Lide 백화점"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117670": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2022-09-15",
+    "title_ko": "LiDe 백화점과 원신 팬아트 공모전이 시작됩니다"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117671": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2022-09-15",
+    "title_ko": "\"리벤의 사진 앨범\" - Dewu x Genshin Impact 사진 공유 이벤트가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117118": {
+    "decision": "collab",
+    "collab": "genshin--suibian-1",
+    "date": "2021-12-14",
+    "title_ko": "랜덤 체인지 x 원신 | 열정적인 겨울, 함께 아이스크림을 먹자"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117508": {
+    "decision": "collab",
+    "collab": "genshin--suibian-2",
+    "date": "2022-07-08",
+    "title_ko": "랜덤 체인지 x 원신 | 얼음과 눈을 헤쳐나가는 여정, 얼음으로 뒤덮인 분위기가 너무 좋아요!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117312": {
+    "decision": "collab",
+    "collab": "genshin--redmi",
+    "date": "2022-03-17",
+    "title_ko": "원신 레드미 클리 콜라보레이션 이어폰 출시"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117098": {
+    "decision": "collab",
+    "collab": "genshin--apple-store-cn",
+    "date": "2021-12-03",
+    "title_ko": "\"주말 한 시간 x 원신\" 애플 공인 매장 오프라인 이벤트"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117078": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2021-11-23",
+    "title_ko": "Huya Live의 Genshin Impact 2.3 라이브 스트리밍 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/116980": {
+    "decision": "collab",
+    "collab": "genshin--razer",
+    "date": "2021-10-03",
+    "title_ko": "Genshin Impact와 Razer의 콜라보레이션이 곧 출시됩니다."
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/104054": {
+    "decision": "collab",
+    "collab": "genshin--razer",
+    "date": "2021-10-03",
+    "title_ko": "원신 xRazer 협업 정보"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/122691": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-01",
+    "title_ko": "원신 x Discovery 자연 보호 공익 콜라보 오픈"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/122763": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-08",
+    "title_ko": "원신 x Discovery 자연 보호 공익 콜라보 홍보대사 예고편"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/122764": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-11",
+    "title_ko": "원신 x Discovery 자연 보호 공익 콜라보 홍보대사 공개"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/122860": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-14",
+    "title_ko": "원신 X Discovery 콜라보 공익 단편 다큐멘터리 「자연의 소리」"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/122877": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-16",
+    "title_ko": "Discovery 콜라보 웹이벤트 「흔적을 따라 떠나는 자연 탐사」 오픈"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/122691": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-01",
+    "title_ko": "원신 × 디스커버리 채널 자연 보호 자선 개최!"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/122763": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-08",
+    "title_ko": "하라진 × 디스커버리 채널 자연 보호 자선 이미지 캐릭터 예고"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/122764": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-11",
+    "title_ko": "하라진 × 디스커버리 채널 자연 보호 자선 이미지 캐릭터 공개"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/122860": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-14",
+    "title_ko": "하라진 × Discovery 자연 보호 자선 다큐멘터리 「자연의 목소리」"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/122877": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-16",
+    "title_ko": "Discovery 콜라보레이션 Web 이벤트 「흔적을 파악해 자연을 발견하자」개최!"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/113838": {
+    "decision": "collab",
+    "collab": "genshin--tokyo-skytree",
+    "date": "2024-01-17",
+    "title_ko": "『하라진×도쿄 스카이트리』 콜라보레이션 기념 캠페인 참가 규약"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/113836": {
+    "decision": "collab",
+    "collab": "genshin--japan-post",
+    "date": "2023-12-28",
+    "title_ko": "『하라진×우체국』 콜라보레이션 기념 추첨 캠페인 참가 규약"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116264": {
+    "decision": "collab",
+    "collab": "genshin--scenic-zhangjiajie",
+    "date": "2020-09-23",
+    "title_ko": "원신과 장가계 풍경구의 \"멈춤에서 여정으로\" 콜라보레이션 출시"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116282": {
+    "decision": "collab",
+    "collab": "genshin--scenic-zhangjiajie",
+    "date": "2020-09-30",
+    "title_ko": "원신 \"멈춤에서 여정으로\" 명승지 콜라보레이션 다큐멘터리 - 장가계 편"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/103772": {
+    "decision": "collab",
+    "collab": "genshin--scenic-zhangjiajie",
+    "date": "2020-11-20",
+    "title_ko": "「제자리 걸음부터 먼 거리까지」 관광지 콜라보 다큐멘터리 - 장가계편"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116301": {
+    "decision": "collab",
+    "collab": "genshin--scenic-huanglong",
+    "date": "2020-10-17",
+    "title_ko": "원신과 황룡 풍경구의 \"멈춤에서 여정으로\" 콜라보레이션이 시작됩니다"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116311": {
+    "decision": "collab",
+    "collab": "genshin--scenic-huanglong",
+    "date": "2020-10-24",
+    "title_ko": "영상 요약 | 원신의 \"멈춤에서 여정으로\" 황룡국립경관구 오프라인 콜라보레이션"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116319": {
+    "decision": "collab",
+    "collab": "genshin--scenic-huanglong",
+    "date": "2020-10-31",
+    "title_ko": "원신 \"멈춤에서 여정으로\" 풍경 협업 다큐멘터리 - 황룡편"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/103775": {
+    "decision": "collab",
+    "collab": "genshin--scenic-huanglong",
+    "date": "2020-11-24",
+    "title_ko": "「제자리 걸음부터 먼 거리까지」 관광지 콜라보 다큐멘터리-황룽편"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116338": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-11-13",
+    "title_ko": "원신과 계림 풍경구의 \"멈춤에서 여정으로\" 콜라보레이션이 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/116342": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-11-17",
+    "title_ko": "원신의 \"멈춤에서 여정으로\" 오프라인 콜라보레이션이 계림 관광지와 함께 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/116344": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-11-18",
+    "title_ko": "원신 \"멈춤에서 여정으로\": 계림 풍경구 오프라인 콜라보레이션 2일차 후기"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116352": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-11-25",
+    "title_ko": "영상 요약 | 원신 \"멈춤에서 여정으로\" 구이린 풍경구 오프라인 콜라보레이션"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116365": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-12-02",
+    "title_ko": "원신 \"멈춤에서 여정으로\": 명승지 콜라보레이션 다큐멘터리 - 계림 편"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/103769": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-11-18",
+    "title_ko": "과 중국 계림의 오프라인 콜라보 오픈!"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/103785": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-12-02",
+    "title_ko": "「제자리 걸음부터 먼 거리까지」 관광지 콜라보 다큐멘터리 - 계림편"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/103769": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-11-18",
+    "title_ko": "「하라진」×중국 광서성 「계림」 콜라보레이션 사진 공개!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/161278": {
+    "decision": "exclude",
+    "reason": "버전 업데이트 안내",
+    "date": "2025-12-03",
+    "title_ko": "\"'텅 빈 달의 노래' 간주곡: 중북의 밤시\" \"달 III\" 버전 업데이트 노트"
+  },
+  "https://ys.mihoyo.com/main/news/detail/157083": {
+    "decision": "exclude",
+    "reason": "버전 업데이트 안내",
+    "date": "2025-06-18",
+    "title_ko": "\"당신이 존재하는 시공간\" 버전 5.7 업데이트 노트"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116262": {
+    "decision": "exclude",
+    "reason": "게임쇼 참가 (CICF×AGF)",
+    "date": "2020-09-22",
+    "title_ko": "원신 2020 CICF×AGF 광저우 이벤트 프리뷰"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116244": {
+    "decision": "exclude",
+    "reason": "게임쇼 참가 (CICF×AGF)",
+    "date": "2020-09-05",
+    "title_ko": "원신(Genshin Impact)이 2020 CICF×AGF 광저우 애니메이션 및 게임 페스티벌에 참가하는 것이 확정되었습니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116225": {
+    "decision": "exclude",
+    "reason": "게임쇼 참가 (빌리빌리월드)",
+    "date": "2020-07-23",
+    "title_ko": "원신이 빌리빌리월드 2020에 참가하는 것이 확정되었습니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/119334": {
+    "decision": "exclude",
+    "reason": "게임쇼 참가 (차이나조이)",
+    "date": "2020-07-17",
+    "title_ko": "원신이 차이나조이 2020에 참가하는 것이 확정되었습니다!"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/125352": {
+    "decision": "exclude",
+    "reason": "X(트위터) 영상 재게시 이벤트",
+    "date": "2024-08-19",
+    "title_ko": "원신 | 나타 아로새김 PV——「정열의 나타」 X(Twitter) 영상 재게시 이벤트 규칙"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/122274": {
+    "decision": "exclude",
+    "reason": "자체 웹 이벤트",
+    "date": "2024-02-02",
+    "title_ko": "「소등에 함께 담은 소원」 웹이벤트 오픈!"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/112480": {
+    "decision": "exclude",
+    "reason": "트위터 팔로워 감사 이벤트",
+    "date": "2023-08-23",
+    "title_ko": "원신 Twitter(X) 1,000만 팔로워 감사 이벤트"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/112738": {
+    "decision": "exclude",
+    "reason": "자체 웹 이벤트 (원석x480 표기가 걸림)",
+    "date": "2023-08-16",
+    "title_ko": "「폰타인 모험가 소집령」 웹이벤트 오픈! 참여 시 최대 원석x480 획득!"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/111611": {
+    "decision": "exclude",
+    "reason": "자체 웹 이벤트",
+    "date": "2023-05-24",
+    "title_ko": "「속세 순유의 약속」 웹이벤트 오픈! 참여 시 5,000 USD의 여행 자금 획득 기회가!"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/105268": {
+    "decision": "exclude",
+    "reason": "자체 웹 이벤트",
+    "date": "2023-02-05",
+    "title_ko": "「별빛 하늘」—— 폭죽 카드 수집 웹이벤트"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/104431": {
+    "decision": "exclude",
+    "reason": "자체 음악 콘텐츠",
+    "date": "2022-10-23",
+    "title_ko": "여행자의 몽상 - 수메르 음악 비하인드"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/104372": {
+    "decision": "exclude",
+    "reason": "자체 PV",
+    "date": "2022-09-16",
+    "title_ko": "장기 프로젝트 개시·콘셉트 PV"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/104048": {
+    "decision": "exclude",
+    "reason": "자체 음악 콘텐츠",
+    "date": "2021-09-24",
+    "title_ko": "여행자의 깊은 생각 - 이나즈마 음악 비하인드"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/104007": {
+    "decision": "exclude",
+    "reason": "자체 콘서트",
+    "date": "2021-08-26",
+    "title_ko": "원신 콘서트 2021 - Melodies of an Endless Journey (티저 1)"
+  },
+  "https://genshin.hoyoverse.com/ko/news/detail/104487": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로모션 (HoYoLAB·Google Play)",
+    "date": "2022-12-07",
+    "title_ko": "HoYoLAB x Google Play x YouTube Premium Event: 방랑자&아라타키 이토 등장! 토픽 이벤트에 참여하고 원석을 받으세요!"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/104487": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로모션 (HoYoLAB·Google Play)",
+    "date": "2022-12-07",
+    "title_ko": "HoYoLAB x Google Play x YouTube Premium Event: 방랑자 荒瀧一斗 등장! 캠페인에 참여하여 원석을 획득하세요!"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/104501": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로모션 (HoYoLAB·Prime Gaming)",
+    "date": "2022-12-27",
+    "title_ko": "HoYoLAB x Prime Gaming 캠페인 : 카미 사토 아야 뇌전 장군 복각 캠페인에 참가하여 원석을 획득"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/105373": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로모션 (Prime Gaming)",
+    "date": "2023-02-17",
+    "title_ko": "【하라진 × Prime Gaming 콜라보레이션 캠페인】 새로운 성연의 날개를 획득하고, 당신의 모험을 물들이자"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/104749": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로모션 (Google Play 기프트카드)",
+    "date": "2022-09-26",
+    "title_ko": "Google Play 기프트 카드 협업 알림"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/104660": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로모션 (Google Play 기프트카드)",
+    "date": "2021-10-31",
+    "title_ko": "Google Play 기프트 카드 협업 알림"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/127097": {
+    "decision": "exclude",
+    "reason": "게임 내 이벤트 추첨 약관",
+    "date": "2024-12-07",
+    "title_ko": "「미즈카 춤추는 유연에」추첨 캠페인 참가 규약"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/122808": {
+    "decision": "exclude",
+    "reason": "해시태그 추첨 캠페인 약관",
+    "date": "2024-03-12",
+    "title_ko": "하라진 아게리코 해시태그 추첨 캠페인 참가 약관"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/155553": {
+    "decision": "review",
+    "reason": "「원신과 곡곡 차지」 추첨 약관. 상대가 불명확해 확인 필요",
+    "date": "2025-04-28",
+    "title_ko": "「하라진과 곡곡 차지」추첨 캠페인 참가 약관"
+  },
+  "https://ys.mihoyo.com/main/news/detail/124024": {
+    "decision": "review",
+    "reason": "「묘법강신, 답풍이행」. 제목만으로는 상대를 알 수 없어 확인 필요",
+    "date": "2024-06-05",
+    "title_ko": "\"놀라운 방법이 몸을 단련시켜 바람을 타고 여행할 수 있게 해 준다.\""
+  },
+  "https://www.miyoushe.com/ys/article/1672572": {
+    "decision": "collab",
+    "collab": "genshin--scenic-zhangjiajie",
+    "date": "2020-08-31",
+    "title_ko": "원신 \"멈춤에서 여정으로\" 풍경 지역 콜라보레이션 트레일러"
+  },
+  "https://www.miyoushe.com/ys/article/1835861": {
+    "decision": "collab",
+    "collab": "genshin--scenic-zhangjiajie",
+    "date": "2020-09-23",
+    "title_ko": "원신과 장가계 풍경구의 \"멈춤에서 여정으로\" 콜라보레이션 출시"
+  },
+  "https://www.miyoushe.com/ys/article/1841832": {
+    "decision": "collab",
+    "collab": "genshin--scenic-zhangjiajie",
+    "date": "2020-09-23",
+    "title_ko": "원신 \"멈춤에서 여정으로\" 풍경 지역 협업 프로젝트가 장가계에서 시작되었습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/1946296": {
+    "decision": "collab",
+    "collab": "genshin--scenic-zhangjiajie",
+    "date": "2020-09-30",
+    "title_ko": "원신 \"멈춤에서 여정으로\" 명승지 콜라보레이션 다큐멘터리 - 장가계 편"
+  },
+  "https://www.hoyolab.com/article/89275": {
+    "decision": "collab",
+    "collab": "genshin--scenic-zhangjiajie",
+    "date": "2020-11-20",
+    "title_ko": "「제자리 걸음부터 먼 거리까지」 관광지 콜라보 다큐멘터리 - 장가계편"
+  },
+  "https://www.miyoushe.com/ys/article/2264175": {
+    "decision": "collab",
+    "collab": "genshin--scenic-huanglong",
+    "date": "2020-10-17",
+    "title_ko": "원신과 황룡 풍경구의 \"멈춤에서 여정으로\" 콜라보레이션이 시작됩니다"
+  },
+  "https://www.miyoushe.com/ys/article/2286548": {
+    "decision": "collab",
+    "collab": "genshin--scenic-huanglong",
+    "date": "2020-10-18",
+    "title_ko": "원신 \"멈춤에서 먼 여정까지\" 오프라인 이벤트, 황룽 국립경관구 사진"
+  },
+  "https://www.miyoushe.com/ys/article/2364092": {
+    "decision": "collab",
+    "collab": "genshin--scenic-huanglong",
+    "date": "2020-10-24",
+    "title_ko": "원신과 황룡국립경관구의 오프라인 협업 회고: \"정지에서 먼 여정까지\""
+  },
+  "https://www.miyoushe.com/ys/article/2458312": {
+    "decision": "collab",
+    "collab": "genshin--scenic-huanglong",
+    "date": "2020-10-31",
+    "title_ko": "원신 \"멈춤에서 여정으로\" 풍경 협업 다큐멘터리 - 황룡편"
+  },
+  "https://www.hoyolab.com/article/91899": {
+    "decision": "collab",
+    "collab": "genshin--scenic-huanglong",
+    "date": "2020-11-24",
+    "title_ko": "「제자리 걸음부터 먼 거리까지」 관광지 콜라보 다큐멘터리 - 황룽편"
+  },
+  "https://www.miyoushe.com/ys/article/2645013": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-11-13",
+    "title_ko": "원신의 \"멈춤에서 여정으로\" 콜라보레이션이 계림 풍경구와 시작됩니다"
+  },
+  "https://www.miyoushe.com/ys/article/2715879": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-11-17",
+    "title_ko": "원신의 \"멈춤에서 여정으로\" 오프라인 콜라보레이션이 계림 관광지와 함께 시작됩니다."
+  },
+  "https://www.miyoushe.com/ys/article/2730051": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-11-18",
+    "title_ko": "원신 \"멈춤에서 여정으로\": 계림 풍경구 오프라인 콜라보레이션 2일차 후기"
+  },
+  "https://www.miyoushe.com/ys/article/2825215": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-11-25",
+    "title_ko": "영상 요약 | 원신 \"멈춤에서 여정으로\" 구이린 풍경구 오프라인 콜라보레이션"
+  },
+  "https://www.miyoushe.com/ys/article/2933008": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-12-02",
+    "title_ko": "원신 \"멈춤에서 여정으로\": 명승지 콜라보레이션 다큐멘터리 - 계림 편"
+  },
+  "https://www.hoyolab.com/article/87713": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-11-18",
+    "title_ko": "과 중국 계림의 오프라인 콜라보 오픈!"
+  },
+  "https://www.hoyolab.com/article/89937": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-11-21",
+    "title_ko": "과 중국 계림의 오프라인 콜라보 제 2부"
+  },
+  "https://www.hoyolab.com/article/96359": {
+    "decision": "collab",
+    "collab": "genshin--scenic-guilin",
+    "date": "2020-12-02",
+    "title_ko": "「제자리 걸음부터 먼 거리까지」 관광지 콜라보 다큐멘터리 - 계림편"
+  },
+  "https://www.miyoushe.com/ys/article/4815534": {
+    "decision": "collab",
+    "collab": "genshin--kfc-1",
+    "date": "2021-03-06",
+    "title_ko": "KFC와 원신의 만남 | 이세계에서의 만남, 맛있는 음식을 즐겨보세요"
+  },
+  "https://www.miyoushe.com/ys/article/4845004": {
+    "decision": "collab",
+    "collab": "genshin--kfc-1",
+    "date": "2021-03-08",
+    "title_ko": "\"파이몬의 KFC 아트워크\" 콜라보레이션 테마 이모티콘이 miHoYo 커뮤니티에서 출시되었습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/5100751": {
+    "decision": "collab",
+    "collab": "genshin--kfc-1",
+    "date": "2021-03-22",
+    "title_ko": "[경품 증정 이벤트 결과 발표] KFC x 원신 | \"이세계의 맛\" 시리즈 굿즈 증정 이벤트!"
+  },
+  "https://www.miyoushe.com/ys/article/4776365": {
+    "decision": "collab",
+    "collab": "genshin--apple-store-cn",
+    "date": "2021-03-04",
+    "title_ko": "\"주말 한 시간 x 원신\" 애플 공인 매장 오프라인 이벤트"
+  },
+  "https://www.miyoushe.com/ys/article/12656629": {
+    "decision": "collab",
+    "collab": "genshin--apple-store-cn",
+    "date": "2021-12-03",
+    "title_ko": "\"주말 한 시간 x 원신\" - 애플 공인 매장에서 진행되는 특별 오프라인 이벤트"
+  },
+  "https://www.miyoushe.com/ys/article/13041712": {
+    "decision": "collab",
+    "collab": "genshin--apple-store-cn",
+    "date": "2021-12-14",
+    "title_ko": "\"주말 시간 x 원신\" 오프라인 특별 이벤트 요약"
+  },
+  "https://www.hoyolab.com/article/1125790": {
+    "decision": "collab",
+    "collab": "genshin--razer",
+    "date": "2021-10-03",
+    "title_ko": "원신 x Razer 콜라보 정보"
+  },
+  "https://www.miyoushe.com/ys/article/10261483": {
+    "decision": "collab",
+    "collab": "genshin--razer",
+    "date": "2021-10-03",
+    "title_ko": "Genshin Impact와 Razer의 콜라보레이션이 곧 출시됩니다."
+  },
+  "https://www.miyoushe.com/ys/article/11300401": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-phone",
+    "date": "2021-10-26",
+    "title_ko": "\"OnePlus 9RT Genshin Impact 한정판 선물 세트\" 예약 판매가 시작되었습니다."
+  },
+  "https://www.miyoushe.com/ys/article/13041711": {
+    "decision": "collab",
+    "collab": "genshin--suibian-1",
+    "date": "2021-12-14",
+    "title_ko": "랜덤 체인지 x 원신 | 열정적인 겨울, 함께 아이스크림을 먹자"
+  },
+  "https://www.miyoushe.com/ys/article/19137434": {
+    "decision": "collab",
+    "collab": "genshin--redmi",
+    "date": "2022-03-17",
+    "title_ko": "[추첨 결과 발표] 레드미 | 원신 클레 콜라보레이션 이어폰 지금 구매 가능"
+  },
+  "https://www.miyoushe.com/ys/article/27513462": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-1",
+    "date": "2022-08-18",
+    "title_ko": "피자헛과 원신의 콜라보레이션이 8월 29일부터 시작됩니다."
+  },
+  "https://www.miyoushe.com/ys/article/27569079": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-1",
+    "date": "2022-08-19",
+    "title_ko": "피자헛과 협업한 \"파이몬의 작품\" 이모지 팩이 miHoYo에서 정식 출시되었습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/27805805": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-1",
+    "date": "2022-08-23",
+    "title_ko": "피자헛 x 원신 | 피자헛 초대, 바람의 여정"
+  },
+  "https://www.miyoushe.com/ys/article/28153921": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-1",
+    "date": "2022-08-29",
+    "title_ko": "피자헛과 원신의 콜라보레이션 스톱모션 애니메이션 - \"피자헛 초대, 바람 속의 여정\""
+  },
+  "https://www.miyoushe.com/ys/article/28497012": {
+    "decision": "collab",
+    "collab": "genshin--heytea-1",
+    "date": "2022-09-05",
+    "title_ko": "헤이티와 원신의 만남 | 당신 덕분에 더욱 즐거워진 약속의 여정"
+  },
+  "https://www.miyoushe.com/ys/article/28585449": {
+    "decision": "collab",
+    "collab": "genshin--heytea-1",
+    "date": "2022-09-07",
+    "title_ko": "헤이티와 원신의 만남 | 당신 덕분에 더욱 즐거워진 약속의 여정"
+  },
+  "https://www.miyoushe.com/ys/article/28738127": {
+    "decision": "collab",
+    "collab": "genshin--heytea-1",
+    "date": "2022-09-10",
+    "title_ko": "\"파이몬의 작품: 헤이티 에디션\" 콜라보레이션 테마 이모지 팩이 출시되었습니다."
+  },
+  "https://www.miyoushe.com/ys/article/28932644": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2022-09-14",
+    "title_ko": "Dewu x Genshin Impact | Lide 백화점"
+  },
+  "https://www.miyoushe.com/ys/article/28970361": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2022-09-15",
+    "title_ko": "\"리벤의 사진 앨범\" - Dewu x Genshin Impact 사진 공유 이벤트가 시작되었습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/29028310": {
+    "decision": "collab",
+    "collab": "genshin--alipay-1",
+    "date": "2022-09-16",
+    "title_ko": "원신과 알리페이의 콜라보레이션이 곧 출시됩니다."
+  },
+  "https://www.miyoushe.com/ys/article/29246295": {
+    "decision": "collab",
+    "collab": "genshin--alipay-1",
+    "date": "2022-09-22",
+    "title_ko": "원신과 알리페이를 테마로 한 이벤트가 지금 진행 중입니다!"
+  },
+  "https://www.miyoushe.com/ys/article/29323492": {
+    "decision": "collab",
+    "collab": "genshin--alipay-1",
+    "date": "2022-09-24",
+    "title_ko": "원신과 알리페이의 2단계 테마 이벤트가 시작되었습니다"
+  },
+  "https://www.miyoushe.com/ys/article/29027677": {
+    "decision": "collab",
+    "collab": "genshin--cmb-card",
+    "date": "2022-09-16",
+    "title_ko": "차이나 머천츠 뱅크 신용카드 × 원신 | 가장 작은 약속이라도 용기 있는 시작입니다."
+  },
+  "https://www.miyoushe.com/ys/article/29175210": {
+    "decision": "collab",
+    "collab": "genshin--cmb-card",
+    "date": "2022-09-20",
+    "title_ko": "[경품 증정 이벤트] 중국상업은행과 원신 콜라보레이션 신용카드가 출시되었습니다. 이벤트에 참여하고 상품을 받으세요!"
+  },
+  "https://www.miyoushe.com/ys/article/32731056": {
+    "decision": "collab",
+    "collab": "genshin--cmb-card",
+    "date": "2022-12-12",
+    "title_ko": "\"가장 작은 약속이라도 용기 있는 시작입니다\" - 중국상업은행, H5 공동 출범식"
+  },
+  "https://www.miyoushe.com/ys/article/29028568": {
+    "decision": "collab",
+    "collab": "genshin--lawson",
+    "date": "2022-09-16",
+    "title_ko": "원신과 로손의 콜라보레이션 이벤트가 곧 개최됩니다."
+  },
+  "https://www.miyoushe.com/ys/article/29751766": {
+    "decision": "collab",
+    "collab": "genshin--cadillac",
+    "date": "2022-10-02",
+    "title_ko": "\"파이몬의 작품: 캐딜락 콜라보레이션 에디션\" 테마의 이모지 팩이 출시되었습니다."
+  },
+  "https://www.miyoushe.com/ys/article/30644341": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-emoji",
+    "date": "2022-10-24",
+    "title_ko": "원신과 원플러스의 콜라보레이션이 곧 출시됩니다!"
+  },
+  "https://www.miyoushe.com/ys/article/31468538": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-emoji",
+    "date": "2022-11-12",
+    "title_ko": "\"파이몬의 아트워크 원플러스 휴대폰 콜라보레이션\" 테마의 이모지 팩이 출시되었습니다."
+  },
+  "https://www.miyoushe.com/ys/article/42943261": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-emoji",
+    "date": "2023-08-30",
+    "title_ko": "원신 콜라보레이션 테마 이모티콘 팩인 \"파이몬 아트워크 원플러스 콜라보레이션 에디션\"이 출시되었습니다."
+  },
+  "https://www.miyoushe.com/ys/article/49755475": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-emoji",
+    "date": "2024-02-27",
+    "title_ko": "원신의 '파이몬 아트워크 원플러스 콜라보레이션 에디션' 테마 이모지 팩이 곧 출시됩니다!"
+  },
+  "https://www.miyoushe.com/ys/article/35876395": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-2",
+    "date": "2023-02-17",
+    "title_ko": "\"승리의 초대, 바람의 여정\": 피자헛과 원신의 두 번째 협업이 곧 시작됩니다."
+  },
+  "https://www.miyoushe.com/ys/article/35876398": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-2",
+    "date": "2023-02-17",
+    "title_ko": "피자헛과 원신의 만남 | 피자헛이 여러분을 보물찾기에 초대합니다"
+  },
+  "https://www.miyoushe.com/ys/article/36149185": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-2",
+    "date": "2023-02-24",
+    "title_ko": "원신 \"파이몬의 그림 피자헛 콜라보레이션 에디션\" 테마의 이모티콘 팩이 출시되었습니다."
+  },
+  "https://www.miyoushe.com/ys/article/36312114": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-2",
+    "date": "2023-02-28",
+    "title_ko": "[수상자 ​​발표] 피자헛 x 원신 콜라보레이션 팬아트 공모전 접수 시작"
+  },
+  "https://www.miyoushe.com/ys/article/37564755": {
+    "decision": "collab",
+    "collab": "genshin--pizzahut-cn-2",
+    "date": "2023-04-03",
+    "title_ko": "피자헛과 원신의 임팩트의 콜라보레이션이 공식 출시되었습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/39303551": {
+    "decision": "collab",
+    "collab": "genshin--kiehls",
+    "date": "2023-05-13",
+    "title_ko": "키엘과 원신의 만남, \"숲 속 모험, 편안한 메이크업\" 콜라보레이션 시작"
+  },
+  "https://www.miyoushe.com/ys/article/39303874": {
+    "decision": "collab",
+    "collab": "genshin--kiehls",
+    "date": "2023-05-13",
+    "title_ko": "키엘과 원신의 충격 콜라보레이션 PV - \"숲속의 모험, 자유로운 정화\""
+  },
+  "https://www.miyoushe.com/ys/article/39424237": {
+    "decision": "collab",
+    "collab": "genshin--kiehls",
+    "date": "2023-05-17",
+    "title_ko": "원신 콜라보레이션 테마 이모지 팩, \"파이몬의 일러스트: 키엘 콜라보레이션 에디션\"이 출시되었습니다."
+  },
+  "https://www.miyoushe.com/ys/article/40391314": {
+    "decision": "collab",
+    "collab": "genshin--kiehls",
+    "date": "2023-06-16",
+    "title_ko": "[당첨자 발표] 키엘과 원신의 만남, \"숲 속 모험, 편안한 메이크업\" 콜라보레이션 이벤트가 시작되었습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/39423828": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2023-05-17",
+    "title_ko": "\"친구들과 함께하는 산행\" - 위챗 게임과 원신이 함께하는 즐거운 공유 이벤트가 시작되었습니다."
+  },
+  "https://www.miyoushe.com/ys/article/39423896": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2023-05-17",
+    "title_ko": "원신 콜라보레이션 테마 이모티콘 팩인 \"파이몬의 그림 (위챗 게임 에디션)\"이 출시되었습니다."
+  },
+  "https://www.miyoushe.com/ys/article/40635738": {
+    "decision": "collab",
+    "collab": "genshin--keep",
+    "date": "2023-06-24",
+    "title_ko": "Genshin Impact x Keep Charity 온라인 달리기 대회가 시작되었습니다."
+  },
+  "https://www.miyoushe.com/ys/article/40618300": {
+    "decision": "collab",
+    "collab": "genshin--alipay-2",
+    "date": "2023-06-23",
+    "title_ko": "원신 | 천광기호 플레이 | 알리페이 자선 협업 출시 예정"
+  },
+  "https://www.miyoushe.com/ys/article/40925117": {
+    "decision": "collab",
+    "collab": "genshin--alipay-2",
+    "date": "2023-07-04",
+    "title_ko": "\"숲 속 모험: 몽환적인 숲속 건축\" 원신 x 새벽의 원더랜드 x 알리페이 웹 이벤트가 지금 시작되었습니다"
+  },
+  "https://www.miyoushe.com/ys/article/40925198": {
+    "decision": "collab",
+    "collab": "genshin--alipay-2",
+    "date": "2023-07-04",
+    "title_ko": "Genshin Impact x Alipay 2023 친환경 여행 캠페인의 세 번째 단계가 시작되었습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/41946388": {
+    "decision": "collab",
+    "collab": "genshin--alipay-2",
+    "date": "2023-08-02",
+    "title_ko": "원신과 알리페이가 함께하는 2023년 친환경 여행 캠페인 \"4단계\"가 곧 시작됩니다!"
+  },
+  "https://www.miyoushe.com/ys/article/42024312": {
+    "decision": "collab",
+    "collab": "genshin--heytea-2",
+    "date": "2023-08-04",
+    "title_ko": "기쁨과 기대를 가득 안고 | 헤이티와 원신의 두 번째 콜라보레이션이 곧 시작됩니다."
+  },
+  "https://www.miyoushe.com/ys/article/42142144": {
+    "decision": "collab",
+    "collab": "genshin--heytea-2",
+    "date": "2023-08-08",
+    "title_ko": "원신 콜라보레이션 테마 이모지 팩, \"파이몬의 일러스트: 헤이테아 콜라보레이션 에디션\"이 출시되었습니다."
+  },
+  "https://www.miyoushe.com/ys/article/43018297": {
+    "decision": "collab",
+    "collab": "genshin--heytea-2",
+    "date": "2023-09-01",
+    "title_ko": "헤이테아 x 원신 | 재회의 여정, 기쁨은 계속된다"
+  },
+  "https://www.miyoushe.com/ys/article/42776789": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2023-08-25",
+    "title_ko": "\"모든 것을 그리고 이해하기\"—원신 x 지후 퀴즈 이벤트가 시작되었습니다"
+  },
+  "https://www.hoyolab.com/article/21597860": {
+    "decision": "collab",
+    "collab": "genshin--sui-han",
+    "date": "2023-09-13",
+    "title_ko": "원신 | 원신 X SUI&HAN - 콜라보 단편 영상"
+  },
+  "https://www.miyoushe.com/ys/article/43384047": {
+    "decision": "collab",
+    "collab": "genshin--sui-han",
+    "date": "2023-09-13",
+    "title_ko": "원신과 수문경/한충의 협업으로 탄생한 \"얼음바람 모음곡\" 피겨 스케이팅 공연."
+  },
+  "https://www.miyoushe.com/ys/article/43385204": {
+    "decision": "collab",
+    "collab": "genshin--sui-han",
+    "date": "2023-09-13",
+    "title_ko": "원신과 수문경/한충의 콜라보레이션 제작 비하인드 스토리"
+  },
+  "https://www.miyoushe.com/ys/article/45550089": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2023-11-16",
+    "title_ko": "원신(Genshin Impact)의 \"파이몬의 작품 샤오홍슈 에디션\" 테마 이모티콘 팩이 곧 출시될 예정입니다."
+  },
+  "https://www.hoyolab.com/article/23668469": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-18",
+    "title_ko": "원신 | 원신×싼싱두이 박물관 콜라보 PV"
+  },
+  "https://www.hoyolab.com/article/23719588": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-20",
+    "title_ko": "원신 × 싼싱두이 박물관 콜라보 웹이벤트「산속의 유물」"
+  },
+  "https://www.miyoushe.com/ys/article/46336161": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-08",
+    "title_ko": "산싱두이 박물관과 원신의 신의 임팩트의 콜라보레이션 이벤트, \"천년을 올려다보며 만물을 관찰하다\"가 곧 시작됩니다."
+  },
+  "https://www.miyoushe.com/ys/article/46664085": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-18",
+    "title_ko": "원신과 삼성퇴관 콜라보레이션 뮤직비디오 - \"과거를 올려다보고 모든 것을 내려다보며\""
+  },
+  "https://www.miyoushe.com/ys/article/46727949": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-20",
+    "title_ko": "삼성퇴관과 원신의 만남을 기념하는 콜라보레이션 이벤트 \"천년을 올려다보며 만물을 관찰하다\"가 시작되었습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/46742398": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-20",
+    "title_ko": "원신과 삼성퇴 박물관 콜라보레이션 단편 영화 - \"고대 유물과 그 이야기\" - 전문가 버전"
+  },
+  "https://www.miyoushe.com/ys/article/46742447": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-20",
+    "title_ko": "원신과 삼성퇴 박물관의 콜라보레이션 H5 \"산을 탐험하고 경이로움을 발견하다\"가 온라인에 공개되었습니다."
+  },
+  "https://www.miyoushe.com/ys/article/46742458": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-20",
+    "title_ko": "원신과 삼성퇴 박물관의 협업 단편 영화 - \"고대 유물과 이야기\""
+  },
+  "https://www.miyoushe.com/ys/article/46742617": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-20",
+    "title_ko": "원신 \"파이몬의 그림: 삼성퇴 콜라보레이션 에디션\" 테마의 이모티콘 팩이 곧 출시됩니다!"
+  },
+  "https://www.miyoushe.com/ys/article/46742990": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-20",
+    "title_ko": "산싱두이 박물관과 원신 임팩트가 협업하여 제작한 '산싱두이 고급 문화 창의 선물 세트'가 곧 판매될 예정입니다!"
+  },
+  "https://www.miyoushe.com/ys/article/46838959": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-23",
+    "title_ko": "Genshin Impact와 삼성퇴관 오프라인 이벤트가 곧 개최됩니다!"
+  },
+  "https://www.miyoushe.com/ys/article/47323250": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2023-12-31",
+    "title_ko": "원신과 삼성퇴관의 콜라보레이션 프로모션 트랙이 곧 출시됩니다."
+  },
+  "https://www.miyoushe.com/ys/article/47750039": {
+    "decision": "collab",
+    "collab": "genshin--sanxingdui",
+    "date": "2024-01-09",
+    "title_ko": "[류환] 원신 x 삼흥퇴관 콜라보레이션 홍보곡 \"청동\""
+  },
+  "https://www.miyoushe.com/ys/article/46358620": {
+    "decision": "collab",
+    "collab": "genshin--netease-tiancheng",
+    "date": "2023-12-09",
+    "title_ko": "원신과 넷이즈의 톈청 펫 선물 세트가 곧 출시됩니다."
+  },
+  "https://www.miyoushe.com/ys/article/46431265": {
+    "decision": "collab",
+    "collab": "genshin--netease-tiancheng",
+    "date": "2023-12-11",
+    "title_ko": "\"원신: 파이몬 일러스트 - 넷이즈 천청 콜라보레이션 에디션\" 테마 이모티콘 팩이 곧 출시될 예정입니다."
+  },
+  "https://www.miyoushe.com/ys/article/48127099": {
+    "decision": "collab",
+    "collab": "genshin--alipay-3",
+    "date": "2024-01-19",
+    "title_ko": "원신과 알리페이의 새로운 협업 이벤트 \"하늘의 상서로운 구름과 백 개의 연\"이 곧 시작됩니다."
+  },
+  "https://www.miyoushe.com/ys/article/48668229": {
+    "decision": "collab",
+    "collab": "genshin--didi",
+    "date": "2024-02-02",
+    "title_ko": "[수상자 ​​발표] 디디추싱 x 원신 이스터 에그 자동차 오리지널 데칼 디자인 공모전 개최"
+  },
+  "https://www.hoyolab.com/article/25617231": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-01",
+    "title_ko": "원신 x Discovery 자연 보호 공익 콜라보 오픈"
+  },
+  "https://www.hoyolab.com/article/25768341": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-08",
+    "title_ko": "원신 x Discovery 자연 보호 공익 콜라보 홍보대사 예고편"
+  },
+  "https://www.hoyolab.com/article/25833118": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-11",
+    "title_ko": "원신 x Discovery 자연 보호 공익 콜라보 홍보대사 공개"
+  },
+  "https://www.hoyolab.com/article/25901943": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-14",
+    "title_ko": "원신 X Discovery 콜라보 공익 단편 다큐멘터리 「자연의 소리」"
+  },
+  "https://www.hoyolab.com/article/25945902": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-16",
+    "title_ko": "Discovery 콜라보 웹이벤트 「흔적을 따라 떠나는 자연 탐사」 오픈"
+  },
+  "https://www.hoyolab.com/article/25947671": {
+    "decision": "collab",
+    "collab": "genshin--discovery",
+    "date": "2024-03-16",
+    "title_ko": "Discovery 콜라보 웹이벤트 「흔적을 따라 떠나는 자연 탐사」 오픈"
+  },
+  "https://www.miyoushe.com/ys/article/53147933": {
+    "decision": "collab",
+    "collab": "genshin--anta",
+    "date": "2024-05-24",
+    "title_ko": "안타와 원신의 신 \"샤오\" & \"치치\" 콜라보레이션 슈즈 기프트 박스가 공식 출시되었습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/53229689": {
+    "decision": "collab",
+    "collab": "genshin--anta",
+    "date": "2024-05-27",
+    "title_ko": "원신 \"파이몬의 그림 안타 콜라보레이션 에디션\" 테마의 이모티콘 팩이 출시되었습니다."
+  },
+  "https://www.miyoushe.com/ys/article/54723910": {
+    "decision": "collab",
+    "collab": "genshin--kfc-2",
+    "date": "2024-07-05",
+    "title_ko": "KFC | 원신 콜라보레이션 PV - \"기적의 순간, 재현된 맛\""
+  },
+  "https://www.miyoushe.com/ys/article/54754801": {
+    "decision": "collab",
+    "collab": "genshin--kfc-2",
+    "date": "2024-07-06",
+    "title_ko": "KFC | 원신 - \"맛있게 재현된 기적의 순간\""
+  },
+  "https://www.miyoushe.com/ys/article/54936833": {
+    "decision": "collab",
+    "collab": "genshin--kfc-2",
+    "date": "2024-07-10",
+    "title_ko": "KFC | 원신 - 마법 조수 모집"
+  },
+  "https://www.miyoushe.com/ys/article/55017445": {
+    "decision": "collab",
+    "collab": "genshin--kfc-2",
+    "date": "2024-07-12",
+    "title_ko": "KFC와 원신의 만남 \"기적의 순간, 맛있는 재현\" 콜라보레이션 이벤트가 시작되었습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/54722609": {
+    "decision": "collab",
+    "collab": "genshin--guerlain",
+    "date": "2024-07-05",
+    "title_ko": "겔랑과 원신의 만남 | \"꽃피고, 기적을!\" 테마의 콜라보레이션 이벤트가 곧 개최됩니다."
+  },
+  "https://www.miyoushe.com/ys/article/56322225": {
+    "decision": "collab",
+    "collab": "genshin--guerlain",
+    "date": "2024-08-07",
+    "title_ko": "겔랑과 원신의 콜라보레이션 \"블룸, 미라클!\" 이벤트가 시작됩니다! 참여하시고 한정판 미라클 블룸 컬렉션을 획득하세요."
+  },
+  "https://www.miyoushe.com/ys/article/59342258": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2024-11-13",
+    "title_ko": "\"소리를 따라가면 놀라운 비밀을 발견할 수 있어요\"—원신과 더우인 웹 이벤트가 지금 시작되었습니다"
+  },
+  "https://www.miyoushe.com/ys/article/60354380": {
+    "decision": "collab",
+    "collab": "genshin--guizhou",
+    "date": "2024-12-20",
+    "title_ko": "원신과 구이저우의 콜라보레이션이 곧 시작됩니다"
+  },
+  "https://www.miyoushe.com/ys/article/63875641": {
+    "decision": "collab",
+    "collab": "genshin--pulse",
+    "date": "2025-04-25",
+    "title_ko": "Genshin Impact와 Pulse+ Electrolyte의 콜라보레이션이 공식적으로 시작되었습니다!"
+  },
+  "https://www.hoyolab.com/article/42658508": {
+    "decision": "collab",
+    "collab": "genshin--duolingo",
+    "date": "2025-12-06",
+    "title_ko": "원신x듀오링고 콜라보 이벤트가 12월 8일부터 시작됩니다!"
+  },
+  "https://www.hoyolab.com/article/42884279": {
+    "decision": "collab",
+    "collab": "genshin--duolingo",
+    "date": "2025-12-22",
+    "title_ko": "원신×듀오링고 콜라보가 12월 27일에 종료됩니다!"
+  },
+  "https://www.miyoushe.com/ys/article/72191486": {
+    "decision": "collab",
+    "collab": "genshin--shanghai-police",
+    "date": "2026-01-09",
+    "title_ko": "원신 별하늘 (Genshin Impact Starry Sky) 상하이 공안국 및 쉬후이 공안국 콜라보레이션 레벨"
+  },
+  "https://www.miyoushe.com/ys/article/77508654": {
+    "decision": "collab",
+    "collab": "genshin--meituan",
+    "date": "2026-08-16",
+    "title_ko": "\"겨울 특집: 언제 어디서나 시원함을\" 원신과 메이투안 | 디안핑 콜라보레이션 이벤트 시작"
+  },
+  "https://www.miyoushe.com/ys/article/2825137": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2020-11-25",
+    "title_ko": "원신과 샤오홍슈 리월 풍경 사진 촬영 이벤트가 오늘부터 시작됩니다"
+  },
+  "https://www.hoyolab.com/article/505117": {
+    "decision": "collab",
+    "collab": "genshin--google-play",
+    "date": "2021-06-30",
+    "title_ko": "Google Play 기프트카드 콜라보 관련 FAQ (구매처 안내 수정)"
+  },
+  "https://www.hoyolab.com/article/604929": {
+    "decision": "exclude",
+    "reason": "구독 보상 프로모션 (콜라보로 보지 않음)",
+    "date": "2021-07-26",
+    "title_ko": "HoYoLAB x Prime Gaming Event: 카미사토 아야카 등장, 댓글을 남기고 보상을 받으세요!"
+  },
+  "https://www.hoyolab.com/article/686011": {
+    "decision": "exclude",
+    "reason": "구독 보상 프로모션 (콜라보로 보지 않음)",
+    "date": "2021-08-11",
+    "title_ko": "HoYoLAB x Prime Gaming Event: 요이미야 등장, 댓글을 남기고 보상을 받으세요!"
+  },
+  "https://www.hoyolab.com/article/806516": {
+    "decision": "exclude",
+    "reason": "구독 보상 프로모션 (콜라보로 보지 않음)",
+    "date": "2021-09-02",
+    "title_ko": "HoYoLAB x Prime Gaming Event: 라이덴 쇼군 등장, 댓글을 남기고 보상을 받으세요!"
+  },
+  "https://www.hoyolab.com/article/991125": {
+    "decision": "exclude",
+    "reason": "구독 보상 프로모션 (콜라보로 보지 않음)",
+    "date": "2021-09-22",
+    "title_ko": "HoYoLAB x Prime Gaming Event: 산고노미야 코코미 등장, 댓글을 담기고 보상을 받으세요!"
+  },
+  "https://www.hoyolab.com/article/1218728": {
+    "decision": "exclude",
+    "reason": "구독 보상 프로모션 (콜라보로 보지 않음)",
+    "date": "2021-10-14",
+    "title_ko": "HoYoLAB x Prime Gaming Event: 타르탈리아 복각, 댓글을 남기고 보상을 받으세요!"
+  },
+  "https://www.hoyolab.com/article/1345257": {
+    "decision": "exclude",
+    "reason": "구독 보상 프로모션 (콜라보로 보지 않음)",
+    "date": "2021-11-03",
+    "title_ko": "HoYoLAB x Prime Gaming Event: 「츠루미」 등장, 댓글을 담기고 보상을 받으세요!"
+  },
+  "https://www.hoyolab.com/article/1460295": {
+    "decision": "exclude",
+    "reason": "구독 보상 프로모션 (콜라보로 보지 않음)",
+    "date": "2021-11-25",
+    "title_ko": "HoYoLAB x Prime Gaming Event: 눈보라 속 그림자, 댓글을 남기고 보상을 받으세요!"
+  },
+  "https://www.hoyolab.com/article/1659749": {
+    "decision": "exclude",
+    "reason": "구독 보상 프로모션 (콜라보로 보지 않음)",
+    "date": "2021-12-15",
+    "title_ko": "HoYoLAB x Prime Gaming Event: 아라타키 이토 등장, 댓글을 남기고 보상을 받으세요!"
+  },
+  "https://www.miyoushe.com/ys/article/8076860": {
+    "decision": "exclude",
+    "reason": "게임쇼 공동 전시 (콜라보로 보지 않음)",
+    "date": "2021-08-01",
+    "title_ko": "TapTap과 함께 차이나조이에서 진행된 Genshin Impact 공동 전시회를 되돌아보며"
+  },
+  "https://www.miyoushe.com/ys/article/8714354": {
+    "decision": "collab",
+    "collab": "genshin--tmall-genie",
+    "date": "2021-08-20",
+    "title_ko": "원신과 티몰 지니의 콜라보레이션 확정!"
+  },
+  "https://www.miyoushe.com/ys/article/12092304": {
+    "decision": "collab",
+    "collab": "genshin--alter",
+    "date": "2021-11-18",
+    "title_ko": "Genshin Impact x Alter에서 새로운 피규어 프로젝트 \"심판의 공주 피슬!!\"을 시작합니다!"
+  },
+  "https://www.miyoushe.com/ys/article/14728705": {
+    "decision": "collab",
+    "collab": "genshin--amazfit",
+    "date": "2022-01-18",
+    "title_ko": "원신 x 아마프 | 짜잔! 클레가 등장했습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/19612223": {
+    "decision": "collab",
+    "collab": "genshin--amazfit",
+    "date": "2022-03-28",
+    "title_ko": "원신 x 아마프 | 민들레 기사 진, 팀 합류 지원"
+  },
+  "https://www.miyoushe.com/ys/article/28667874": {
+    "decision": "collab",
+    "collab": "genshin--amazfit",
+    "date": "2022-09-09",
+    "title_ko": "원신 x 아마프 | 파이몬과 함께 즐거운 여행을 떠나세요"
+  },
+  "https://www.miyoushe.com/ys/article/15023360": {
+    "decision": "collab",
+    "collab": "genshin--meihua",
+    "date": "2022-01-25",
+    "title_ko": "원신과 매화꽃이 협업하여 제작한 \"리월\" 테마 트레이닝복 세트가 곧 출시될 예정입니다."
+  },
+  "https://www.miyoushe.com/ys/article/23208364": {
+    "decision": "collab",
+    "collab": "genshin--gsc",
+    "date": "2022-05-28",
+    "title_ko": "원신 x GSC 넨도로이드 버전으로 \"종리\"와 \"뇌장군\"이 공개되었습니다!"
+  },
+  "https://www.hoyolab.com/article/8892548": {
+    "decision": "collab",
+    "collab": "genshin--ufotable",
+    "date": "2022-09-16",
+    "title_ko": "장기 프로젝트 개시·콘셉트 PV"
+  },
+  "https://www.hoyolab.com/article/13289056": {
+    "decision": "exclude",
+    "reason": "구독 보상 프로모션 (콜라보로 보지 않음)",
+    "date": "2022-11-02",
+    "title_ko": "HoYoLAB x Google Play x YouTube Premium 이벤트: 나히다&요이미야 등장 보상 이벤트"
+  },
+  "https://www.hoyolab.com/article/14191514": {
+    "decision": "exclude",
+    "reason": "구독 보상 프로모션 (콜라보로 보지 않음)",
+    "date": "2022-12-07",
+    "title_ko": "HoYoLAB x Google Play x YouTube Premium Event: 방랑자&아라타키 이토 등장! 토픽 이벤트에 참여하고 원석을 받으세요!"
+  },
+  "https://www.hoyolab.com/article/15094883": {
+    "decision": "exclude",
+    "reason": "구독 보상 프로모션 (콜라보로 보지 않음)",
+    "date": "2023-01-18",
+    "title_ko": "HoYoLAB x Google Play x YouTube Premium 이벤트: 알하이탐&소 등장! 토픽 이벤트에 참여하고 원석을 받으세요!"
+  },
+  "https://www.hoyolab.com/article/16673445": {
+    "decision": "exclude",
+    "reason": "구독 보상 프로모션 (콜라보로 보지 않음)",
+    "date": "2023-03-01",
+    "title_ko": "HoYoLAB x Google Play x YouTube Premium 이벤트: 데히야&사이노 등장! 토픽 이벤트에 참여하고 원석을 받으세요!"
+  },
+  "https://www.hoyolab.com/article/17634169": {
+    "decision": "exclude",
+    "reason": "구독 보상 프로모션 (콜라보로 보지 않음)",
+    "date": "2023-04-12",
+    "title_ko": "HoYoLAB x Google Play x YouTube Premium 이벤트: 나히다&닐루 등장! 이벤트에 참여하고 원석을 받으세요!"
+  },
+  "https://www.miyoushe.com/ys/article/35590787": {
+    "decision": "collab",
+    "collab": "genshin--wonderful-works",
+    "date": "2023-02-11",
+    "title_ko": "원신과 원더풀웍스의 협업으로 탄생한 \"유라\" 피규어가 공개되었습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/37856210": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-ace",
+    "date": "2023-04-11",
+    "title_ko": "원플러스 에이스 2용 원신 맞춤형 선물 상자가 곧 출시됩니다!"
+  },
+  "https://www.miyoushe.com/ys/article/38109892": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-ace",
+    "date": "2023-04-17",
+    "title_ko": "[당첨자 발표] OnePlus Ace2 Genshin Impact 맞춤형 선물 상자 이벤트가 온라인에서 진행 중입니다. 댓글을 남겨 경품을 받으세요!"
+  },
+  "https://www.miyoushe.com/ys/article/38127904": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-ace",
+    "date": "2023-04-18",
+    "title_ko": "[증정 이벤트] 원플러스 에이스 2 원신 커스텀 선물 세트 공식 출시"
+  },
+  "https://www.miyoushe.com/ys/article/49792371": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-ace",
+    "date": "2024-02-28",
+    "title_ko": "[당첨자 발표] 원플러스 에이스3 원신 커칭 커스텀 에디션 이벤트에 참여하여 맞춤형 상품을 획득하세요."
+  },
+  "https://www.miyoushe.com/ys/article/43802968": {
+    "decision": "collab",
+    "collab": "genshin--funko",
+    "date": "2023-09-27",
+    "title_ko": "[증정 이벤트] 원신 x 펀코 Q 버전 피규어 출시! 3주년 기념 상품 지금 구매 가능!"
+  },
+  "https://www.miyoushe.com/ys/article/47938682": {
+    "decision": "collab",
+    "collab": "genshin--bandai",
+    "date": "2024-01-14",
+    "title_ko": "원신과 반다이의 협업으로 탄생한 SHF \"파이몬\" 액션 피규어가 공개되었습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/56076838": {
+    "decision": "collab",
+    "collab": "genshin--alipay-4",
+    "date": "2024-08-01",
+    "title_ko": "원신☆FES × 알리페이 이벤트가 시작되었습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/57551237": {
+    "decision": "collab",
+    "collab": "genshin--wanda-cinema",
+    "date": "2024-09-12",
+    "title_ko": "완다 시네마와 원신의 기념일을 맞아 한정 기간 이벤트가 곧 시작됩니다!"
+  },
+  "https://www.miyoushe.com/ys/article/59223465": {
+    "decision": "collab",
+    "collab": "genshin--shanhun",
+    "date": "2024-11-08",
+    "title_ko": "샤이닝 소울즈와 원신의 융합 게임인 \"칠현 소환 배틀 카드\"의 예약 판매가 시작되었습니다."
+  },
+  "https://www.miyoushe.com/ys/article/59301736": {
+    "decision": "collab",
+    "collab": "genshin--china-mobile",
+    "date": "2024-11-11",
+    "title_ko": "차이나 모바일과 원신 임팩트의 협업 단편 영화 - \"나타를 향하여\""
+  },
+  "https://www.miyoushe.com/ys/article/59923408": {
+    "decision": "collab",
+    "collab": "genshin--luckin",
+    "date": "2024-12-05",
+    "title_ko": "[당첨자 발표] 루킨커피 x 원신 | \"치유의 소원\" H5 이벤트 시작"
+  },
+  "https://www.miyoushe.com/ys/article/62659651": {
+    "decision": "collab",
+    "collab": "genshin--universal-beijing",
+    "date": "2025-03-14",
+    "title_ko": "유니버설 스튜디오 베이징과 원신 임팩트의 협업 뮤직비디오 - \"찬란한 꽃에 바치는 찬가\""
+  },
+  "https://www.miyoushe.com/ys/article/73611556": {
+    "decision": "collab",
+    "collab": "genshin--universal-beijing",
+    "date": "2026-02-28",
+    "title_ko": "유니버설 스튜디오 베이징 & 원신 임팩트 콜라보레이션 PV – \"축하! 붐스데이 작전\""
+  },
+  "https://www.miyoushe.com/ys/article/65820615": {
+    "decision": "collab",
+    "collab": "genshin--kfc-3",
+    "date": "2025-06-27",
+    "title_ko": "KFC | 원신 콜라보레이션 PV – 코드 K: 캐슬 레이더스"
+  },
+  "https://www.miyoushe.com/ys/article/65820617": {
+    "decision": "collab",
+    "collab": "genshin--kfc-3",
+    "date": "2025-06-27",
+    "title_ko": "KFC | 원신: 코드 K - 캐슬 레이더스 공식 출시"
+  },
+  "https://www.hoyolab.com/article/40795906": {
+    "decision": "collab",
+    "collab": "genshin--galaxy-store",
+    "date": "2025-08-29",
+    "title_ko": "🎸원신 X Galaxy Store | 라이오슬리 에디션 COMING SOON!🎸"
+  },
+  "https://www.hoyolab.com/article/41022385": {
+    "decision": "collab",
+    "collab": "genshin--galaxy-store",
+    "date": "2025-09-11",
+    "title_ko": "🎸원신 X Galaxy Store | 라이오슬리 액세서리 시리즈 상세 안내🎸"
+  },
+  "https://www.hoyolab.com/article/41340985": {
+    "decision": "collab",
+    "collab": "genshin--galaxy-store",
+    "date": "2025-09-25",
+    "title_ko": "🎸원신 X Galaxy Store | 원신 라이오슬리 테마 & 카카오 이모티콘 출시 안내🎸"
+  },
+  "https://www.miyoushe.com/ys/article/72710317": {
+    "decision": "collab",
+    "collab": "genshin--alipay-5",
+    "date": "2026-01-27",
+    "title_ko": "원신과 알리페이의 \"축복 모으기\" 얼리버드 이벤트가 시작되었습니다!"
+  },
+  "https://www.miyoushe.com/ys/article/72896090": {
+    "decision": "collab",
+    "collab": "genshin--alipay-5",
+    "date": "2026-02-03",
+    "title_ko": "원신과 알리페이의 협업 이벤트 \"행운을 모으다\"가 공식적으로 시작되었습니다! 이벤트 참여 가이드를 확인하세요!"
+  },
+  "https://www.hoyolab.com/article/43761332": {
+    "decision": "collab",
+    "collab": "genshin--momstouch",
+    "date": "2026-02-13",
+    "title_ko": "🍔원신 × 맘스터치ㅣ도전! 전설의 「터치」 세트 메뉴 공개!🍗"
+  },
+  "https://www.hoyolab.com/article/44073735": {
+    "decision": "collab",
+    "collab": "genshin--momstouch",
+    "date": "2026-03-06",
+    "title_ko": "🍔원신×맘스터치ㅣ도전! 전설의「터치」 상세 내용 공개!🍗"
+  },
+  "https://www.hoyolab.com/article/44165482": {
+    "decision": "collab",
+    "collab": "genshin--momstouch",
+    "date": "2026-03-13",
+    "title_ko": "원신 × 맘스터치ㅣ전설의 테마 매장 사전예약 오픈 D-Day"
+  },
+  "https://www.hoyolab.com/article/44310116": {
+    "decision": "collab",
+    "collab": "genshin--momstouch",
+    "date": "2026-03-24",
+    "title_ko": "원신 × 맘스터치ㅣ도전! 전설의「터치」 OPEN! 이벤트 알림🔔"
+  },
+  "https://www.hoyolab.com/article/44965161": {
+    "decision": "collab",
+    "collab": "genshin--line-friends",
+    "date": "2026-05-08",
+    "title_ko": "✨원신 × 라인프렌즈ㅣ원신 미니니 리월 팝업 스토어 상세 안내✨"
+  },
+  "https://www.miyoushe.com/ys/article/75209554": {
+    "decision": "collab",
+    "collab": "genshin--ichiban-kuji",
+    "date": "2026-05-08",
+    "title_ko": "Genshin Impact x Ichiban Kuji 신상품 프로젝트 발표"
+  },
+  "https://www.miyoushe.com/ys/article/1697677": {
+    "decision": "exclude",
+    "reason": "게임쇼 참가 공지",
+    "date": "2020-09-05",
+    "title_ko": "원신(Genshin Impact)이 2020 CICF×AGF 광저우 애니메이션 및 게임 페스티벌에 참가하는 것이 확정되었습니다!"
+  },
+  "https://www.hoyolab.com/article/21097953": {
+    "decision": "exclude",
+    "reason": "게임쇼 참가 공지",
+    "date": "2023-08-23",
+    "title_ko": "2023년 원신 쾰른 국제 게임 전시회 부스 가이드"
+  },
+  "https://www.hoyolab.com/article/1372702": {
+    "decision": "exclude",
+    "reason": "2차 창작 가이드라인",
+    "date": "2021-11-09",
+    "title_ko": ""
+  },
+  "https://www.hoyolab.com/article/13551": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2020-06-19",
+    "title_ko": "원신| OST 풀버전 공개"
+  },
+  "https://www.hoyolab.com/article/47779": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2020-10-16",
+    "title_ko": "OST - ﻿몬드편 앨범"
+  },
+  "https://www.hoyolab.com/article/170270": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2021-02-04",
+    "title_ko": "캐릭터 테마 OST - 빛나는 뭇별 The Stellar Moments"
+  },
+  "https://www.hoyolab.com/article/278140": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2021-04-02",
+    "title_ko": "소용돌이, 별부름과 빙산 Vortex of Legends"
+  },
+  "https://www.hoyolab.com/article/2035481": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2022-01-26",
+    "title_ko": "빛나는 뭇별2 The Stellar Moments Vol. 2"
+  },
+  "https://www.hoyolab.com/article/736107": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2021-08-21",
+    "title_ko": "고요한 무망의 국가: 이나즈마 오케스트라 현장"
+  },
+  "https://www.hoyolab.com/article/758963": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2021-08-25",
+    "title_ko": "원신 콘서트 2021 - Melodies of an Endless Journey (티저 1)"
+  },
+  "https://www.hoyolab.com/article/972264": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2021-09-21",
+    "title_ko": "「안갯속의 결투」 - 〈원신〉 이나즈마 OST 전투 음악 MV"
+  },
+  "https://www.hoyolab.com/article/984746": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2021-09-22",
+    "title_ko": "OST - 고요한 무망의 국가 Realm of Tranquil Eternity"
+  },
+  "https://www.hoyolab.com/article/1007812": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2021-09-24",
+    "title_ko": "여행자의 깊은 생각 - 이나즈마 음악 비하인드"
+  },
+  "https://www.hoyolab.com/article/9001235": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2022-09-20",
+    "title_ko": "원신 | 유성의 궤적"
+  },
+  "https://www.hoyolab.com/article/12910720": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2022-10-23",
+    "title_ko": "원신 | 여행자의 몽상 - 수메르 음악 비하인드"
+  },
+  "https://www.hoyolab.com/article/14935395": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2023-01-10",
+    "title_ko": "원신 | 빛나는 뭇별3"
+  },
+  "https://www.hoyolab.com/article/24393747": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2024-01-17",
+    "title_ko": "원신 | 빛나는 뭇별4"
+  },
+  "https://www.hoyolab.com/article/29137864": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2024-05-28",
+    "title_ko": "〈원신〉 게임 오리지널 EP 앨범 〈가지 않은 길 The Road Not Taken〉이 정식 출시되었습니다."
+  },
+  "https://www.hoyolab.com/article/31952792": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2024-08-09",
+    "title_ko": "원신 | 유성의 궤적 Vol.3"
+  },
+  "https://www.hoyolab.com/article/36359595": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2025-01-15",
+    "title_ko": "원신 | 빛나는 뭇별5"
+  },
+  "https://www.hoyolab.com/article/37010358": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2025-02-12",
+    "title_ko": "〈원신〉 게임 오리지널 EP 앨범 〈푸른 등불과 옥빛 벼루 Azure Lantern, Jade Inkstone〉 정식 출시!"
+  },
+  "https://www.hoyolab.com/article/39306509": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2025-06-13",
+    "title_ko": "〈원신〉 게임 오리지널 EP 〈속세를 떠도는 수정별 Star Odyssey〉 정식 출시!"
+  },
+  "https://www.hoyolab.com/article/40193967": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2025-07-25",
+    "title_ko": "〈원신〉 네 번째 버전 PV 테마 OST 〈유성의 궤적 Vol. 4〉 출시!"
+  },
+  "https://www.hoyolab.com/article/42050736": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2025-10-29",
+    "title_ko": "원신 | 스토리 PV-「뒤집힌 달의 그림자」"
+  },
+  "https://www.hoyolab.com/article/43399245": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2026-01-21",
+    "title_ko": "원신 | 빛나는 뭇별6"
+  },
+  "https://www.hoyolab.com/article/43645179": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2026-02-06",
+    "title_ko": "〈원신〉 게임 오리지널 EP 앨범 「달을 비추는 소등 When Lanterns Echo the Moon」 정식 출시"
+  },
+  "https://www.hoyolab.com/article/45673952": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2026-07-01",
+    "title_ko": "〈원신〉 다섯 번째 버전 PV 테마 OST 〈유성의 궤적 Vol.5〉 정식 출시!"
+  },
+  "https://www.hoyolab.com/article/4243581": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2022-04-13",
+    "title_ko": "원신 | 기억에서 잃어버린 섬"
+  },
+  "https://www.hoyolab.com/article/38627457": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2025-05-06",
+    "title_ko": "원신 | 캐릭터 트레일러-「에스코피에: 맛의 교향곡」"
+  },
+  "https://www.miyoushe.com/ys/article/33961186": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2023-01-09",
+    "title_ko": "리월 OST 기프트 박스 출시! 다양한 콜라보레이션 상품을 지금 만나보세요"
+  },
+  "https://www.miyoushe.com/ys/article/6404939": {
+    "decision": "exclude",
+    "reason": "자체 OST·음악 발매",
+    "date": "2021-05-27",
+    "title_ko": "원신의 음악이 애플 뮤직에 소개되었습니다!"
+  },
+  "https://www.hoyolab.com/article/13050": {
+    "decision": "exclude",
+    "reason": "캐릭터·자체 콘텐츠 소개",
+    "date": "2020-06-03",
+    "title_ko": "태양 같고 얼음 같은 얼굴 - 중운"
+  },
+  "https://www.hoyolab.com/article/3997039": {
+    "decision": "exclude",
+    "reason": "캐릭터·자체 콘텐츠 소개",
+    "date": "2022-03-28",
+    "title_ko": "다재다능한 오니의 조력자"
+  },
+  "https://www.hoyolab.com/article/14263691": {
+    "decision": "exclude",
+    "reason": "캐릭터·자체 콘텐츠 소개",
+    "date": "2022-12-09",
+    "title_ko": "학습과 사고 그리고 처세술"
+  },
+  "https://www.hoyolab.com/article/16573707": {
+    "decision": "exclude",
+    "reason": "캐릭터·자체 콘텐츠 소개",
+    "date": "2023-02-24",
+    "title_ko": "이해와 자애 그리고 미학에 대한 깨달음"
+  },
+  "https://www.hoyolab.com/article/21469197": {
+    "decision": "exclude",
+    "reason": "캐릭터·자체 콘텐츠 소개",
+    "date": "2023-09-07",
+    "title_ko": "「9월의 생일 파티」 댓글 이벤트"
+  },
+  "https://www.hoyolab.com/article/24826201": {
+    "decision": "exclude",
+    "reason": "캐릭터·자체 콘텐츠 소개",
+    "date": "2024-02-02",
+    "title_ko": "「소등에 함께 담은 소원」 웹이벤트 오픈!"
+  },
+  "https://www.hoyolab.com/article/42564013": {
+    "decision": "exclude",
+    "reason": "캐릭터·자체 콘텐츠 소개",
+    "date": "2025-12-01",
+    "title_ko": "「마녀의 과제」 임무 완료 시 원하는 ★4 마도 캐릭터 초대 가능"
+  },
+  "https://www.hoyolab.com/article/1413459": {
+    "decision": "exclude",
+    "reason": "캐릭터·자체 콘텐츠 소개",
+    "date": "2021-11-18",
+    "title_ko": "[모험가 길드 on Twitch] 이벤트 오픈 예정 안내"
+  },
+  "https://www.hoyolab.com/article/1861082": {
+    "decision": "exclude",
+    "reason": "버전 업데이트·오류 안내",
+    "date": "2022-01-05",
+    "title_ko": "2.4 버전 발견한 오류 & 업데이트 공지 (1월 29일)"
+  },
+  "https://www.hoyolab.com/article/3387089": {
+    "decision": "exclude",
+    "reason": "버전 업데이트·오류 안내",
+    "date": "2022-02-16",
+    "title_ko": "2.5 버전 발견한 오류 & 업데이트 공지 (3월 17일)"
+  },
+  "https://www.hoyolab.com/article/4031377": {
+    "decision": "exclude",
+    "reason": "버전 업데이트·오류 안내",
+    "date": "2022-03-30",
+    "title_ko": "2.6 버전 발견한 오류 & 업데이트 공지 (5월 14일)"
+  },
+  "https://www.hoyolab.com/article/23668468": {
+    "decision": "exclude",
+    "reason": "버전 업데이트·오류 안내",
+    "date": "2023-12-18",
+    "title_ko": "4.3 버전 이벤트 공지 모음"
+  },
+  "https://www.hoyolab.com/article/34066691": {
+    "decision": "exclude",
+    "reason": "버전 업데이트·오류 안내",
+    "date": "2024-10-08",
+    "title_ko": "5.1 버전 「타오를 운명의 무지개」 업데이트 안내"
+  },
+  "https://www.hoyolab.com/article/38641236": {
+    "decision": "exclude",
+    "reason": "버전 업데이트·오류 안내",
+    "date": "2025-05-06",
+    "title_ko": "「배리의 순간」 5.6 버전 업데이트 안내"
+  },
+  "https://www.hoyolab.com/article/41874586": {
+    "decision": "exclude",
+    "reason": "버전 업데이트·오류 안내",
+    "date": "2025-10-21",
+    "title_ko": "「『공월의 노래·반복』 사라진 달빛의 애가」 「두 번째 달」 버전 업데이트 안내"
+  },
+  "https://www.hoyolab.com/article/42588332": {
+    "decision": "exclude",
+    "reason": "버전 업데이트·오류 안내",
+    "date": "2025-12-02",
+    "title_ko": "「『공월의 노래·간주』 극북의 야행시」 「세 번째 달」 버전 업데이트 안내"
+  },
+  "https://www.hoyolab.com/article/43220659": {
+    "decision": "exclude",
+    "reason": "버전 업데이트·오류 안내",
+    "date": "2026-01-13",
+    "title_ko": "「『공월의 노래·종곡』 어느 겨울밤, 한 여행자」 「네 번째 달」 버전 업데이트 안내"
+  },
+  "https://www.hoyolab.com/article/45076841": {
+    "decision": "exclude",
+    "reason": "버전 업데이트·오류 안내",
+    "date": "2026-05-18",
+    "title_ko": "「일곱 번째 달」 버전 이벤트 기원 알림 제1회"
+  },
+  "https://www.hoyolab.com/article/45096719": {
+    "decision": "exclude",
+    "reason": "버전 업데이트·오류 안내",
+    "date": "2026-05-19",
+    "title_ko": "「『공월의 노래·안단테』 공허 겁회의 푸라나」 「일곱 번째 달」 버전 업데이트 안내"
+  },
+  "https://www.hoyolab.com/article/45670084": {
+    "decision": "exclude",
+    "reason": "버전 업데이트·오류 안내",
+    "date": "2026-06-30",
+    "title_ko": "「『공월의 노래·해학곡』 여름! 귀향? 폰티날리아 축제!」「여덟 번째 달」 버전 업데이트 안내"
+  },
+  "https://www.hoyolab.com/article/46233468": {
+    "decision": "exclude",
+    "reason": "버전 업데이트·오류 안내",
+    "date": "2026-08-11",
+    "title_ko": "「신이 사랑하지 않은 설국」 7.0 버전 업데이트 안내"
+  },
+  "https://www.hoyolab.com/article/1861501": {
+    "decision": "exclude",
+    "reason": "버전 업데이트·오류 안내",
+    "date": "2022-01-05",
+    "title_ko": "Apple 계정 시스템 점검 공지"
+  },
+  "https://www.hoyolab.com/article/9001449": {
+    "decision": "exclude",
+    "reason": "자체 서비스·웹이벤트",
+    "date": "2022-09-20",
+    "title_ko": "원신 x HoYoQuiz Quiz Show"
+  },
+  "https://www.hoyolab.com/article/22831605": {
+    "decision": "exclude",
+    "reason": "자체 서비스·웹이벤트",
+    "date": "2023-11-08",
+    "title_ko": "「만남·티바트」——〈원신〉 × HoYoLAB 특별 웹이벤트 오픈!"
+  },
+  "https://www.hoyolab.com/article/74601": {
+    "decision": "exclude",
+    "reason": "성우 공개 (브랜드 아님)",
+    "date": "2020-11-02",
+    "title_ko": "성우 공개 - 레이저"
+  },
+  "https://www.hoyolab.com/article/7041862": {
+    "decision": "exclude",
+    "reason": "상대가 명시되지 않은 콜라보 예고",
+    "date": "2022-08-18",
+    "title_ko": "미식의 여름에 놀라움이 함께합니다~"
+  },
+  "https://www.miyoushe.com/ys/article/42937478": {
+    "decision": "exclude",
+    "reason": "미호요 결제 센터 안내 (콜라보 아님)",
+    "date": "2023-08-30",
+    "title_ko": "[복권 결과 발표 완료] 알리페이 미호요 결제 센터 온라인 운영 시작"
+  },
+  "https://www.miyoushe.com/ys/article/57980278": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2024-09-27",
+    "title_ko": "\"산호해로의 이주\" 협업 페이지가 공개되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/116351": {
+    "decision": "exclude",
+    "reason": "플랫폼 프로그램 (콜라보로 보지 않음)",
+    "date": "2020-11-25",
+    "title_ko": "원신과 샤오홍슈 리월 풍경 사진 촬영 이벤트가 오늘부터 시작됩니다"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116305": {
+    "decision": "collab",
+    "collab": "genshin--scenic-huanglong",
+    "date": "2020-10-18",
+    "title_ko": "원신 \"멈춤에서 먼 여정까지\" 오프라인 이벤트, 황룽 국립경관구 사진"
+  },
+  "https://ys.mihoyo.com/main/news/detail/116832": {
+    "decision": "exclude",
+    "reason": "게임쇼 공동 전시 (콜라보로 보지 않음)",
+    "date": "2021-08-02",
+    "title_ko": "Genshin Impact x TapTap 2021 ChinaJoy 합동 전시 영상 회고전"
+  },
+  "https://ys.mihoyo.com/main/news/detail/160992": {
+    "decision": "collab",
+    "collab": "genshin--oneplus-ace",
+    "date": "2025-11-21",
+    "title_ko": "\"흰 왜가리가 우아하게 길을 따라 날아오르고, 마음은 여정 속에서 하나로 뭉친다.\" 원플러스 에이스 6T 원신 임팩트 아야카 카미사토 커스텀 에디션이 곧 출시됩니다."
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/162179": {
+    "decision": "collab",
+    "collab": "genshin--tabelog",
+    "date": "2026-01-15",
+    "title_ko": "「음식 구루 여행 먹어 로그 in하라진」개최 기념! 하라진 젓가락 de 포즈 shot 챌린지 캠페인 참가 약관"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118436": {
+    "decision": "exclude",
+    "reason": "미호요 결제 센터 안내 (콜라보 아님)",
+    "date": "2023-08-30",
+    "title_ko": "알리페이 미호요 결제 센터 출시"
+  },
+  "https://ys.mihoyo.com/main/news/detail/126849": {
+    "decision": "exclude",
+    "reason": "자체 음원·기능의 플랫폼 유통",
+    "date": "2024-11-08",
+    "title_ko": "원신 OST 앨범 전체가 Douyin과 Soda Music에서 발매되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/159536": {
+    "decision": "exclude",
+    "reason": "자체 음원·기능의 플랫폼 유통",
+    "date": "2025-09-16",
+    "title_ko": "원신의 신의 목소리 음성 채팅 기능인 \"신앙에 귀 기울이기\"가 QQ 뮤직, 쿠고 뮤직, 쿠워 뮤직 플랫폼에서 이용 가능해졌습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117380": {
+    "decision": "exclude",
+    "reason": "자체 SNS 팔로워 달성 소식",
+    "date": "2022-04-20",
+    "title_ko": "\"더우인에서 팔로워 500만 명을 달성했습니다!\""
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/122274": {
+    "decision": "exclude",
+    "reason": "경품·약관에 브랜드 이름만 언급 (제휴 아님)",
+    "date": "2024-02-02",
+    "title_ko": "'등등을 켜고 함께 기도하자' 웹 이벤트 공식 출시"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/111611": {
+    "decision": "exclude",
+    "reason": "경품·약관에 브랜드 이름만 언급 (제휴 아님)",
+    "date": "2023-05-24",
+    "title_ko": "Web캠페인 「우키를 둘러보는 약속」개최중! 캠페인에 참여하여 5,000달러의 여행 기금을 받을 수 있는 기회!"
+  },
+  "https://genshin.hoyoverse.com/ja/news/detail/104529": {
+    "decision": "exclude",
+    "reason": "개발자 코멘터리의 지명 언급",
+    "date": "2020-07-22",
+    "title_ko": "개발자 공연계획--璃月編 01"
+  },
+  "https://ys.mihoyo.com/main/news/detail/165677": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2026-08-11",
+    "title_ko": "빌리빌리의 원신 7.0 크리에이터 인센티브 프로그램이 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/165679": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2026-08-11",
+    "title_ko": "원신 7.0 버전 크리에이터 인센티브 프로그램이 더우인에서 곧 시작될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/165064": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2026-06-30",
+    "title_ko": "빌리빌리의 원신 달 8 업데이트 크리에이터 인센티브 프로그램이 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/165065": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2026-06-30",
+    "title_ko": "원신 \"문 에이트\" 버전 제작자 인센티브 프로그램이 더우인에서 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/164253": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2026-05-19",
+    "title_ko": "빌리빌리의 원신 크리에이터 인센티브 프로그램이 '달의 일곱 번째' 업데이트 출시를 앞두고 있습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/164254": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2026-05-19",
+    "title_ko": "원신 \"달의 일곱 번째\" 버전 제작자 인센티브 프로그램이 틱톡에서 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/163457": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2026-04-07",
+    "title_ko": "빌리빌리의 원신 크리에이터 인센티브 프로그램이 설월 6차 업데이트를 맞아 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/163458": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2026-04-07",
+    "title_ko": "원신 \"문 6\" 버전 제작자 인센티브 프로그램이 틱톡에서 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/162815": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2026-02-24",
+    "title_ko": "빌리빌리의 원신 크리에이터 인센티브 프로그램 5개월차 업데이트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/162816": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2026-02-24",
+    "title_ko": "원신 \"문 V\" 버전 제작자 인센티브 프로그램이 틱톡에서 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/161276": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2025-12-02",
+    "title_ko": "원신 \"문 3\" 버전 제작자 인센티브 프로그램이 틱톡에서 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/161277": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2025-12-02",
+    "title_ko": "빌리빌리의 원신 크리에이터 인센티브 프로그램이 설날 3차 업데이트를 맞아 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/159343": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2025-09-09",
+    "title_ko": "빌리빌리의 원신 월간 업데이트 제작자 인센티브 프로그램에 곧 더 많은 주제 트랙이 추가될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/159344": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2025-09-09",
+    "title_ko": "원신 \"이달의 특별 버전\" 제작자 인센티브 프로그램이 틱톡에서 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/157063": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2025-06-17",
+    "title_ko": "빌리빌리의 원신 5.7 크리에이터 인센티브 프로그램이 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/157065": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2025-06-17",
+    "title_ko": "원신 5.7 버전 크리에이터 인센티브 프로그램이 더우인에서 곧 시작될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/155808": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2025-05-06",
+    "title_ko": "원신 5.6 버전 크리에이터 인센티브 프로그램이 더우인에서 곧 시작될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/155175": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2025-03-25",
+    "title_ko": "원신 5.5 버전 크리에이터 인센티브 프로그램이 더우인에서 곧 시작될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/154313": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2025-02-11",
+    "title_ko": "원신 5.4 버전 크리에이터 인센티브 프로그램이 더우인에서 곧 시작될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/127818": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2025-01-01",
+    "title_ko": "원신 5.3 버전 위챗 게임 크리에이터 인센티브 프로그램이 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/127781": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-12-31",
+    "title_ko": "원신 5.3 버전 크리에이터 인센티브 프로그램이 더우인에서 곧 시작될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/127783": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-12-31",
+    "title_ko": "샤오홍슈에서 진행되는 원신 5.3 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/127050": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-11-20",
+    "title_ko": "원신 5.2 버전 출시 기념 위챗 게임 서클 독점 혜택 이벤트가 진행 중입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/127010": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-11-19",
+    "title_ko": "샤오홍슈에서 진행되는 원신 5.2 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/126322": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-10-09",
+    "title_ko": "원신 5.1 버전 출시 기념 위챗 게임 서클 독점 혜택 이벤트가 진행 중입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/126298": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-10-08",
+    "title_ko": "원신 크리에이터 인센티브 프로그램이 5.1 버전에서 더우인에 출시될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/126301": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-10-08",
+    "title_ko": "샤오홍슈에서 진행되는 원신 5.1 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/125977": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-09-17",
+    "title_ko": "원신 5.0 버전의 샤오홍슈 게임 보상 페이지에서 일일 출석 이벤트가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/125575": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-08-28",
+    "title_ko": "원신 5.0 버전 전용 위챗 게임 서클 복지 이벤트가 시작되었습니다. 참여하셔서 원석, 게임 굿즈 등 다양한 보상을 획득하세요!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/125547": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-08-27",
+    "title_ko": "원신 5.0 버전 크리에이터 인센티브 프로그램이 더우인에서 곧 시작될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/125549": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-08-27",
+    "title_ko": "샤오홍슈에서 진행되는 원신 5.0 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/124868": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-07-17",
+    "title_ko": "원신 4.8 버전 출시 기념 위챗 게임 서클 독점 혜택 이벤트가 진행 중입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/124845": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-07-16",
+    "title_ko": "원신 4.8 버전 크리에이터 인센티브 프로그램이 더우인에서 곧 시작될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/124848": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-07-16",
+    "title_ko": "샤오홍슈에서 진행되는 원신 4.8 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/124290": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-06-26",
+    "title_ko": "원신 4.7 버전 샤오홍슈 게임 보상 이벤트가 현재 진행 중입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/124034": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-06-05",
+    "title_ko": "원신 4.7 버전 크리에이터 인센티브 프로그램이 더우인에서 곧 시작될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/124036": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-06-05",
+    "title_ko": "샤오홍슈에서 진행되는 원신 4.7 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/124040": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-06-05",
+    "title_ko": "원신 4.7 버전 출시 기념 위챗 게임 서클 독점 혜택 이벤트가 진행 중입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/123716": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-05-14",
+    "title_ko": "원신 4.6 버전의 샤오홍슈 게임 보상 페이지에서 일일 출석 이벤트가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/123441": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-04-24",
+    "title_ko": "원신 4.6 버전 출시 기념 위챗 게임 서클 독점 혜택 이벤트가 진행 중입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/123404": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-04-23",
+    "title_ko": "원신 4.6 버전 크리에이터 인센티브 프로그램이 더우인에서 곧 시작될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/123406": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-04-23",
+    "title_ko": "샤오홍슈에서 진행되는 원신 4.6 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/123112": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-04-02",
+    "title_ko": "원신 4.5 버전의 샤오홍슈 게임 보상 페이지에서 일일 출석 이벤트가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/122857": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-03-13",
+    "title_ko": "원신 4.5 버전 위챗 게임 서클 독점 혜택 이벤트가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/122823": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-03-12",
+    "title_ko": "원신 4.5 버전 크리에이터 인센티브 프로그램이 더우인에서 곧 시작될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/122827": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-03-12",
+    "title_ko": "샤오홍슈에서 진행되는 원신 4.5 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/122279": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-02-02",
+    "title_ko": "원신 위챗 게임 커뮤니티의 설날 특집 이벤트 2단계가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/122245": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-01-31",
+    "title_ko": "원신 4.4 버전 출시 기념 위챗 게임 서클 독점 혜택 이벤트가 진행 중입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/122162": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-01-30",
+    "title_ko": "원신 4.4 버전 크리에이터 인센티브 프로그램이 더우인에서 곧 시작될 예정입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/122164": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2024-01-30",
+    "title_ko": "샤오홍슈에서 진행되는 원신 4.4 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118713": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-12-20",
+    "title_ko": "원신 4.3 버전 출시 기념 위챗 게임 서클 독점 혜택 이벤트가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118701": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-12-19",
+    "title_ko": "원신 크리에이터 인센티브 프로그램과 틱톡(Douyin) 라이브 스트리밍 인센티브 이벤트가 버전 4.3부터 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118703": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-12-19",
+    "title_ko": "Huya Live의 원신 4.3 버전 생방송 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118620": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-11-08",
+    "title_ko": "원신 4.2 버전 위챗 독점 이벤트가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118609": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-11-07",
+    "title_ko": "원신 크리에이터 인센티브 프로그램과 틱톡(Douyin) 라이브 스트리밍 인센티브 이벤트가 버전 4.2부터 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118611": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-11-07",
+    "title_ko": "Huya Live의 Genshin Impact 4.2 버전 라이브 스트리밍 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118613": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-11-07",
+    "title_ko": "샤오홍슈에서 진행되는 원신 4.2 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118520": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-09-27",
+    "title_ko": "원신 3주년 기념 위챗 게임 서클 혜택 목록"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118507": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-09-26",
+    "title_ko": "원신 크리에이터 인센티브 프로그램과 틱톡(Douyin) 라이브 스트리밍 인센티브 이벤트가 버전 4.1부터 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118509": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-09-26",
+    "title_ko": "Huya Live의 Genshin Impact 4.1 버전 라이브 스트리밍 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118511": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-09-26",
+    "title_ko": "샤오홍슈에서 진행되는 원신 4.1 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118422": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-08-16",
+    "title_ko": "원신 4.0 버전 위챗 독점 이벤트가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118407": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-08-15",
+    "title_ko": "원신 4.0 크리에이터 인센티브 프로그램과 틱톡 라이브 스트리밍 인센티브 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118409": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-08-15",
+    "title_ko": "Huya Live의 Genshin Impact 4.0 버전 라이브 스트리밍 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118411": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-08-15",
+    "title_ko": "샤오홍슈에서 진행되는 원신 4.0 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118313": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-07-05",
+    "title_ko": "원신 3.8 버전 한정 이벤트가 위챗 게임즈에서 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118302": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-07-04",
+    "title_ko": "원신 3.8 버전 크리에이터 인센티브 프로그램과 라이브 스트리밍 인센티브 이벤트가 Douyin에서 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118304": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-07-04",
+    "title_ko": "Huya Live의 Genshin Impact 3.8 버전 라이브 스트리밍 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118306": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-07-04",
+    "title_ko": "샤오홍슈에서 진행되는 원신 3.8 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118225": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-05-24",
+    "title_ko": "#원신 3.7 버전 인센티브 프로그램 - 위챗 게임 커뮤니티 게시글 이벤트 시작"
+  },
+  "https://ys.mihoyo.com/main/news/detail/118228": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-05-24",
+    "title_ko": "원신 3.7 업데이트 \"결투! 소환의 정상!\"이 위챗 게임즈 독점 이벤트로 진행 중입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118214": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-05-23",
+    "title_ko": "원신 크리에이터 인센티브 프로그램과 틱톡(Douyin) 3.7 버전 라이브 스트리밍 인센티브 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118216": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-05-23",
+    "title_ko": "Huya Live의 Genshin Impact 3.7 버전 라이브 스트리밍 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118218": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-05-23",
+    "title_ko": "샤오홍슈에서 진행되는 원신 3.7 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118132": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-04-11",
+    "title_ko": "원신 크리에이터 인센티브 프로그램과 틱톡(Douyin) 3.6 버전 라이브 스트리밍 인센티브 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118134": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-04-11",
+    "title_ko": "Huya Live의 Genshin Impact 3.6 버전 생방송 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118136": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-04-11",
+    "title_ko": "샤오홍슈에서 진행되는 원신 3.6 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118069": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-02-28",
+    "title_ko": "원신 3.5 크리에이터 인센티브 프로그램과 틱톡 라이브 스트리밍 인센티브 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118071": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-02-28",
+    "title_ko": "Huya Live의 Genshin Impact 3.5 버전 생방송 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118073": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-02-28",
+    "title_ko": "샤오홍슈에서 진행되는 원신 3.5 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/118004": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-01-19",
+    "title_ko": "원신 3.4 제작자 인센티브 프로그램이 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117990": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-01-17",
+    "title_ko": "원신 크리에이터 인센티브 프로그램과 틱톡(Douyin) 3.4 버전 라이브 스트리밍 인센티브 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117991": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-01-17",
+    "title_ko": "Huya Live의 Genshin Impact 3.4 버전 라이브 스트리밍 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117993": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2023-01-17",
+    "title_ko": "샤오홍슈에서 진행되는 원신 3.4 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117907": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-12-08",
+    "title_ko": "Dewu에서 Genshin Impact 3.3 버전 인센티브 프로그램이 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117878": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-12-04",
+    "title_ko": "원신 크리에이터 인센티브 프로그램과 틱톡(Douyin) 3.3 버전 라이브 스트리밍 인센티브 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117880": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-12-04",
+    "title_ko": "Huya Live의 원신 3.3 버전 생방송 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117882": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-12-04",
+    "title_ko": "샤오홍슈에서 진행되는 원신 3.3 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117826": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-11-02",
+    "title_ko": "Dewu 3.2 버전 인센티브 프로그램이 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117814": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-11-01",
+    "title_ko": "원신 크리에이터 인센티브 프로그램과 틱톡(Douyin) 라이브 스트리밍 인센티브 이벤트(버전 3.2)가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117816": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-11-01",
+    "title_ko": "Huya Live의 Genshin Impact 3.2 버전 생방송 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117818": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-11-01",
+    "title_ko": "샤오홍슈에서 진행되는 원신 3.2 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117745": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-09-29",
+    "title_ko": "빌리빌리의 \"원신: 사막의 신기루\" 사진 이벤트가 오늘 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117742": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-09-28",
+    "title_ko": "원신(Genshin Impact)의 \"시간의 교향곡\" 2주년 기념 창작 이벤트가 오늘 위챗 게임즈에서 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117725": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-09-27",
+    "title_ko": "원신 크리에이터 인센티브 프로그램과 틱톡(Douyin) 라이브 스트리밍 인센티브 이벤트가 버전 3.1부터 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117727": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-09-27",
+    "title_ko": "Huya Live의 Genshin Impact 3.1 버전 라이브 스트리밍 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117729": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-09-27",
+    "title_ko": "샤오홍슈에서 진행되는 원신 3.1 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117624": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-08-23",
+    "title_ko": "Huya Live의 Genshin Impact 3.0 버전 생방송 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117625": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-08-23",
+    "title_ko": "원신 3.0 크리에이터 인센티브 프로그램과 틱톡 라이브 스트리밍 인센티브 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117627": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-08-23",
+    "title_ko": "샤오홍슈에서 진행되는 원신 3.0 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117575": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-08-09",
+    "title_ko": "\"최고의 파트너\" - 원신 x 지후 친구 Q&A 웹페이지 이벤트가 시작되었습니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117549": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-07-20",
+    "title_ko": "원신(Genshin Impact)의 \"파이몬의 그림\" 이모지 팩이 이제 더우인(TikTok)에서 이용 가능합니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117523": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-07-12",
+    "title_ko": "원신 후야 시즌 2.8 이벤트 라이브 스트리밍이 곧 시작됩니다"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117525": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-07-12",
+    "title_ko": "원신(Genshin Impact)의 더우인(틱톡) 2.8 크리에이터 인센티브 프로그램 및 라이브 스트리밍 인센티브 이벤트가 곧 출시됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117527": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-07-12",
+    "title_ko": "원신 샤오홍슈 2.8 버전 노트 수집 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117451": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-06-01",
+    "title_ko": "원신 샤오홍슈 2.7 버전 노트 수집 이벤트가 오늘부터 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117445": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-05-31",
+    "title_ko": "원신 지후 2.7 인센티브 프로그램이 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117436": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-05-30",
+    "title_ko": "원신 후야 시즌 2.7 이벤트 라이브 스트리밍이 곧 시작됩니다"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117437": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-05-30",
+    "title_ko": "원신의 틱톡(TikTok) 크리에이터 인센티브 프로그램과 라이브 스트리밍 인센티브 이벤트 2.7이 곧 출시됩니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117394": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-05-10",
+    "title_ko": "Genshin Impact Adventure 스트리밍 시즌 이벤트가 Huya Live에서 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117395": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-05-10",
+    "title_ko": "원신 틱톡 크리에이터 인센티브 프로그램 및 라이브 스트리밍 인센티브 이벤트가 곧 시작됩니다"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117397": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-05-10",
+    "title_ko": "원신의 샤오홍슈 창작자 인센티브 프로그램이 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117341": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-03-29",
+    "title_ko": "원신 후야 시즌 2.6 이벤트 라이브 스트리밍이 곧 시작됩니다"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117343": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-03-29",
+    "title_ko": "원신(Genshin Impact)의 더우인(틱톡) 2.6 크리에이터 인센티브 프로그램 및 라이브 스트리밍 시즌이 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117345": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-03-29",
+    "title_ko": "원신 샤오홍슈 창작자 인센티브 프로그램 2.6 버전이 곧 출시됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117283": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-03-02",
+    "title_ko": "원신의 \"신의 솜씨\" 빌리빌리 플랫폼 도전 영상 제출 이벤트가 오늘부터 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117264": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-02-15",
+    "title_ko": "원신 후야 라이브 2.5 버전 스트리밍 시즌 이벤트가 곧 시작됩니다"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117265": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-02-15",
+    "title_ko": "원신의 Douyin 2.5 크리에이터 인센티브 프로그램과 봄 라이브 스트리밍 시즌이 곧 시작됩니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117267": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-02-15",
+    "title_ko": "원신 샤오홍슈 창작자 인센티브 프로그램 2.5 버전이 곧 출시됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117221": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-01-27",
+    "title_ko": "지후 게임즈의 원신 체크인 챌린지가 시작되었습니다!"
+  },
+  "https://ys.mihoyo.com/main/news/detail/117175": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-01-04",
+    "title_ko": "Huya Live의 Genshin Impact 2.4 버전 라이브 스트리밍 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117176": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-01-04",
+    "title_ko": "Douyin에서 Genshin Impact 2.4 버전 제작자 인센티브 프로그램과 라이브 스트리밍 참가자 모집을 곧 시작합니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117178": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2022-01-04",
+    "title_ko": "샤오홍슈의 원신 2.4 크리에이터 인센티브 프로그램이 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117081": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2021-11-23",
+    "title_ko": "원신 크리에이터 인센티브 프로그램이 더우인에서 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117082": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2021-11-23",
+    "title_ko": "샤오홍슈의 원신 크리에이터 인센티브 프로그램이 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117000": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2021-10-12",
+    "title_ko": "Huya Live의 Genshin Impact 2.2 라이브 스트리밍 시즌 이벤트가 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/117002": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2021-10-12",
+    "title_ko": "Douyin에서 Genshin Impact 가을 스트리머 모집, 시청 이벤트 및 크리에이터 인센티브 프로그램을 시작했습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/116968": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2021-09-27",
+    "title_ko": "\"원신 기념일을 위한 20가지 질문\" - 원신과 지후가 함께하는 웹페이지 퀴즈 이벤트가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/116907": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2021-08-31",
+    "title_ko": "원신 1주년 기념 스트리머 모집 및 영상 제출 이벤트가 Douyin에서 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/116806": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2021-07-20",
+    "title_ko": "Douyin에서 Genshin Impact 2.0 버전 스트리머 모집 이벤트 및 크리에이터 인센티브 프로그램이 곧 시작됩니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/116769": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2021-07-08",
+    "title_ko": "Zhihu에서 진행 중인 Genshin Impact 팬아트 공모전이 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/116716": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2021-06-10",
+    "title_ko": "원신 1.6 버전 스트리머 모집 이벤트 및 크리에이터 인센티브 프로그램이 더우인에서 진행 중입니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/116640": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2021-04-30",
+    "title_ko": "원신 스트리머 인센티브 프로그램과 더우인 영상 제출 이벤트가 시작되었습니다."
+  },
+  "https://ys.mihoyo.com/main/news/detail/119342": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2020-09-28",
+    "title_ko": "\"인간 세상에서의 만남\" - 원신 오픈 베타 스트리머 모집 (도우인)"
+  },
+  "https://ys.mihoyo.com/main/news/detail/119337": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2020-09-16",
+    "title_ko": "\"인간 세상에서의 만남\" - 빌리빌리 원신 오픈 베타 스트리머 모집"
+  },
+  "https://ys.mihoyo.com/main/news/detail/119340": {
+    "decision": "exclude",
+    "reason": "플랫폼 크리에이터 인센티브·방송 시즌 프로그램 (버전마다 반복)",
+    "date": "2020-09-16",
+    "title_ko": "\"인간 세상에서의 만남\" - 후야 라이브의 원신 스트리머 모집 이벤트가 시작됩니다!"
+  }
+}

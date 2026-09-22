@@ -1,0 +1,1782 @@
+{
+  "game": "genshin",
+  "reviewed": false,
+  "campaigns": [],
+  "collabs": [
+    {
+      "id": "genshin--meituan",
+      "ip": "meituan",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2026-08-16",
+      "campaign": null,
+      "note": "메이투안·다중뎬핑 겨울 테마 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/165750",
+          "date": "2026-08-16"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/77508654",
+          "locale": "hoyolab-zh",
+          "date": "2026-08-16"
+        }
+      ]
+    },
+    {
+      "id": "genshin--line-friends",
+      "ip": "line-friends",
+      "form": "카페·팝업",
+      "regions": [
+        "한국"
+      ],
+      "date": "2026-05-08",
+      "campaign": null,
+      "note": "라인프렌즈 미니니 리월 팝업 스토어",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/44965161",
+          "locale": "hoyolab-ko",
+          "date": "2026-05-08"
+        }
+      ]
+    },
+    {
+      "id": "genshin--ichiban-kuji",
+      "ip": "ichiban-kuji",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-05-08",
+      "campaign": null,
+      "note": "이치반쿠지 신상품 프로젝트",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/75209554",
+          "locale": "hoyolab-zh",
+          "date": "2026-05-08"
+        }
+      ]
+    },
+    {
+      "id": "genshin--momstouch",
+      "ip": "momstouch",
+      "form": "식음료",
+      "regions": [
+        "한국"
+      ],
+      "date": "2026-03-24",
+      "campaign": null,
+      "note": "맘스터치 「도전! 전설의 터치」 세트와 테마 매장",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/43761332",
+          "locale": "hoyolab-ko",
+          "date": "2026-02-13"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/44073735",
+          "locale": "hoyolab-ko",
+          "date": "2026-03-06"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/44165482",
+          "locale": "hoyolab-ko",
+          "date": "2026-03-13"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/44310116",
+          "locale": "hoyolab-ko",
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "genshin--alipay-5",
+      "ip": "alipay",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2026-01-27",
+      "campaign": null,
+      "note": "알리페이 「축복 모으기」 춘절 이벤트",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/72710317",
+          "locale": "hoyolab-zh",
+          "date": "2026-01-27"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/72896090",
+          "locale": "hoyolab-zh",
+          "date": "2026-02-03"
+        }
+      ]
+    },
+    {
+      "id": "genshin--tabelog",
+      "ip": "tabelog",
+      "form": "브랜드",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-01-14",
+      "campaign": null,
+      "note": "맛집 앱에 원신 비주얼 적용",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://genshin.hoyoverse.com/ja/news/detail/162174",
+          "date": "2026-01-14"
+        },
+        {
+          "url": "https://genshin.hoyoverse.com/ja/news/detail/162179",
+          "locale": "ja-jp",
+          "date": "2026-01-15"
+        }
+      ]
+    },
+    {
+      "id": "genshin--duolingo",
+      "ip": "duolingo",
+      "form": "브랜드",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2025-12-08",
+      "campaign": null,
+      "note": "학습 앱 콜라보 이벤트",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://genshin.hoyoverse.com/ko/news/detail/161317",
+          "date": "2025-12-06"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://genshin.hoyoverse.com/ja/news/detail/161317",
+          "date": "2025-12-06"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/42658508",
+          "locale": "hoyolab-ko",
+          "date": "2025-12-06"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/42884279",
+          "locale": "hoyolab-ko",
+          "date": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "id": "genshin--galaxy-store",
+      "ip": "samsung",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "한국"
+      ],
+      "date": "2025-09-11",
+      "campaign": null,
+      "note": "갤럭시 스토어 라이오슬리 에디션 액세서리·테마·이모티콘",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/40795906",
+          "locale": "hoyolab-ko",
+          "date": "2025-08-29"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/41022385",
+          "locale": "hoyolab-ko",
+          "date": "2025-09-11"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/41340985",
+          "locale": "hoyolab-ko",
+          "date": "2025-09-25"
+        }
+      ]
+    },
+    {
+      "id": "genshin--kfc-3",
+      "ip": "kfc",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2025-06-27",
+      "campaign": null,
+      "note": "KFC 3차 콜라보 「코드 K: 캐슬 레이더스」",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/65820615",
+          "locale": "hoyolab-zh",
+          "date": "2025-06-27"
+        }
+      ]
+    },
+    {
+      "id": "genshin--pulse",
+      "ip": "pulse",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2025-04-25",
+      "campaign": null,
+      "note": "맥동+ 전해질 음료 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/155661",
+          "date": "2025-04-25"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/63875641",
+          "locale": "hoyolab-zh",
+          "date": "2025-04-25"
+        }
+      ]
+    },
+    {
+      "id": "genshin--universal-beijing",
+      "ip": "universal-beijing",
+      "form": "기타",
+      "regions": [
+        "중국"
+      ],
+      "date": "2025-03-14",
+      "campaign": null,
+      "note": "유니버설 스튜디오 베이징 콜라보. 2026년 2월에 2차 진행",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/62659651",
+          "locale": "hoyolab-zh",
+          "date": "2025-03-14"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/73611556",
+          "locale": "hoyolab-zh",
+          "date": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "id": "genshin--shanghai-police",
+      "ip": "shanghai-police",
+      "form": "기타",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-12-23",
+      "campaign": null,
+      "note": "상하이·쉬후이 공안국 공익 캠페인",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/127577",
+          "date": "2024-12-23"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/72191486",
+          "locale": "hoyolab-zh",
+          "date": "2026-01-09"
+        }
+      ]
+    },
+    {
+      "id": "genshin--guizhou",
+      "ip": "guizhou",
+      "form": "기타",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-12-20",
+      "campaign": null,
+      "note": "구이저우 지역 관광 협업",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/127541",
+          "date": "2024-12-20"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/60354380",
+          "locale": "hoyolab-zh",
+          "date": "2024-12-20"
+        }
+      ]
+    },
+    {
+      "id": "genshin--luckin",
+      "ip": "luckin",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-12-05",
+      "campaign": null,
+      "note": "루이싱커피 「치유의 소원」 웹이벤트와 콜라보 음료",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/59923408",
+          "locale": "hoyolab-zh",
+          "date": "2024-12-05"
+        }
+      ]
+    },
+    {
+      "id": "genshin--china-mobile",
+      "ip": "china-mobile",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-11-11",
+      "campaign": null,
+      "note": "차이나 모바일 콜라보 단편 「나타를 향하여」",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/59301736",
+          "locale": "hoyolab-zh",
+          "date": "2024-11-11"
+        }
+      ]
+    },
+    {
+      "id": "genshin--shanhun",
+      "ip": "shanhun",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-11-08",
+      "campaign": null,
+      "note": "산훈과 만든 실물 「칠성 소환」 대전 카드",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/59223465",
+          "locale": "hoyolab-zh",
+          "date": "2024-11-08"
+        }
+      ]
+    },
+    {
+      "id": "genshin--wanda-cinema",
+      "ip": "wanda-cinema",
+      "form": "기타",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-09-12",
+      "campaign": null,
+      "note": "완다 시네마 4주년 기념 기간 한정 이벤트",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/57551237",
+          "locale": "hoyolab-zh",
+          "date": "2024-09-12"
+        }
+      ]
+    },
+    {
+      "id": "genshin--alipay-4",
+      "ip": "alipay",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-08-01",
+      "campaign": null,
+      "note": "원신☆FES 현장과 연계한 알리페이 이벤트",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/56076838",
+          "locale": "hoyolab-zh",
+          "date": "2024-08-01"
+        }
+      ]
+    },
+    {
+      "id": "genshin--guerlain",
+      "ip": "guerlain",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-07-05",
+      "campaign": null,
+      "note": "겔랑 화장품 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/124639",
+          "date": "2024-07-05"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/125333",
+          "date": "2024-08-16"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/54722609",
+          "locale": "hoyolab-zh",
+          "date": "2024-07-05"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/56322225",
+          "locale": "hoyolab-zh",
+          "date": "2024-08-07"
+        }
+      ]
+    },
+    {
+      "id": "genshin--kfc-2",
+      "ip": "kfc",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-07-05",
+      "campaign": null,
+      "note": "중국 KFC 2차 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/124646",
+          "date": "2024-07-05"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/124667",
+          "date": "2024-07-06"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/124755",
+          "date": "2024-07-12"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/54723910",
+          "locale": "hoyolab-zh",
+          "date": "2024-07-05"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/55017445",
+          "locale": "hoyolab-zh",
+          "date": "2024-07-12"
+        }
+      ]
+    },
+    {
+      "id": "genshin--anta",
+      "ip": "anta",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-05-27",
+      "campaign": null,
+      "note": "안타 스포츠 이모티콘 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/123838",
+          "date": "2024-05-27"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/53147933",
+          "locale": "hoyolab-zh",
+          "date": "2024-05-24"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/53229689",
+          "locale": "hoyolab-zh",
+          "date": "2024-05-27"
+        }
+      ]
+    },
+    {
+      "id": "genshin--discovery",
+      "ip": "discovery",
+      "form": "기타",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2024-03-01",
+      "campaign": null,
+      "note": "디스커버리 채널 자연 보호 공익 콜라보",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://genshin.hoyoverse.com/ko/news/detail/122691",
+          "date": "2024-03-01"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://genshin.hoyoverse.com/ja/news/detail/122691",
+          "date": "2024-03-01"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://genshin.hoyoverse.com/ko/news/detail/122763",
+          "date": "2024-03-08"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://genshin.hoyoverse.com/ja/news/detail/122763",
+          "date": "2024-03-08"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://genshin.hoyoverse.com/ko/news/detail/122764",
+          "date": "2024-03-11"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://genshin.hoyoverse.com/ja/news/detail/122764",
+          "date": "2024-03-11"
+        }
+      ]
+    },
+    {
+      "id": "genshin--didi",
+      "ip": "didi",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-02-02",
+      "campaign": null,
+      "note": "디디추싱 테마 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/122275",
+          "date": "2024-02-02"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/48668229",
+          "locale": "hoyolab-zh",
+          "date": "2024-02-02"
+        }
+      ]
+    },
+    {
+      "id": "genshin--kugou",
+      "ip": "kugou",
+      "form": "음악",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-01-29",
+      "campaign": null,
+      "note": "쿠고뮤직 테마 스킨",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/122121",
+          "date": "2024-01-29"
+        }
+      ]
+    },
+    {
+      "id": "genshin--alipay-3",
+      "ip": "alipay",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-01-19",
+      "campaign": null,
+      "note": "알리페이 「명소서애」 테마 이벤트",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/119489",
+          "date": "2024-01-19"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/48127099",
+          "locale": "hoyolab-zh",
+          "date": "2024-01-19"
+        }
+      ]
+    },
+    {
+      "id": "genshin--tokyo-skytree",
+      "ip": "tokyo-skytree",
+      "form": "기타",
+      "regions": [
+        "일본"
+      ],
+      "date": "2024-01-17",
+      "campaign": null,
+      "note": "도쿄 스카이트리 콜라보 기념 캠페인",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://genshin.hoyoverse.com/ja/news/detail/113838",
+          "date": "2024-01-17"
+        }
+      ]
+    },
+    {
+      "id": "genshin--bandai",
+      "ip": "bandai",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "일본"
+      ],
+      "date": "2024-01-14",
+      "campaign": null,
+      "note": "반다이 S.H.Figuarts 「파이몬」 액션 피규어",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/47938682",
+          "locale": "hoyolab-zh",
+          "date": "2024-01-14"
+        }
+      ]
+    },
+    {
+      "id": "genshin--japan-post",
+      "ip": "japan-post",
+      "form": "브랜드",
+      "regions": [
+        "일본"
+      ],
+      "date": "2023-12-28",
+      "campaign": null,
+      "note": "일본우편 콜라보 기념 캠페인",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://genshin.hoyoverse.com/ja/news/detail/113836",
+          "date": "2023-12-28"
+        }
+      ]
+    },
+    {
+      "id": "genshin--netease-tiancheng",
+      "ip": "netease-tiancheng",
+      "form": "기타",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-12-11",
+      "campaign": null,
+      "note": "넷이즈 톈청 이모티콘",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118673",
+          "date": "2023-12-11"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/46358620",
+          "locale": "hoyolab-zh",
+          "date": "2023-12-09"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/46431265",
+          "locale": "hoyolab-zh",
+          "date": "2023-12-11"
+        }
+      ]
+    },
+    {
+      "id": "genshin--sanxingdui",
+      "ip": "sanxingdui",
+      "form": "기타",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2023-12-08",
+      "campaign": null,
+      "note": "싼싱두이 박물관 콜라보. 오프라인 전시, 홍보곡, 단편 영상",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118666",
+          "date": "2023-12-08"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118684",
+          "date": "2023-12-18"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118689",
+          "date": "2023-12-18"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://genshin.hoyoverse.com/ko/news/detail/114073",
+          "date": "2023-12-18"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://genshin.hoyoverse.com/ja/news/detail/114073",
+          "date": "2023-12-18"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118712",
+          "date": "2023-12-20"
+        }
+      ]
+    },
+    {
+      "id": "genshin--funko",
+      "ip": "funko",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2023-09-27",
+      "campaign": null,
+      "note": "펀코 Q 버전 피규어. 3주년 기념 상품",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/43802968",
+          "locale": "hoyolab-zh",
+          "date": "2023-09-27"
+        }
+      ]
+    },
+    {
+      "id": "genshin--sui-han",
+      "ip": "sui-han",
+      "form": "기타",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2023-09-13",
+      "campaign": null,
+      "note": "피겨 스케이팅 선수 수이원징·한충과 「빙풍 조곡」 연기",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118466",
+          "date": "2023-09-13"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118467",
+          "date": "2023-09-13"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://genshin.hoyoverse.com/ko/news/detail/112985",
+          "date": "2023-09-13"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://genshin.hoyoverse.com/ja/news/detail/112985",
+          "date": "2023-09-13"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/21597860",
+          "locale": "hoyolab-ko",
+          "date": "2023-09-13"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/43384047",
+          "locale": "hoyolab-zh",
+          "date": "2023-09-13"
+        }
+      ]
+    },
+    {
+      "id": "genshin--heytea-2",
+      "ip": "heytea",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-08-04",
+      "campaign": null,
+      "note": "희차 2차 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118358",
+          "date": "2023-08-04"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118364",
+          "date": "2023-08-08"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118376",
+          "date": "2023-08-11"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118448",
+          "date": "2023-09-01"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/42024312",
+          "locale": "hoyolab-zh",
+          "date": "2023-08-04"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/42142144",
+          "locale": "hoyolab-zh",
+          "date": "2023-08-08"
+        }
+      ]
+    },
+    {
+      "id": "genshin--keep",
+      "ip": "keep",
+      "form": "기타",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-06-24",
+      "campaign": null,
+      "note": "Keep 공익 온라인 러닝",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118273",
+          "date": "2023-06-24"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/40635738",
+          "locale": "hoyolab-zh",
+          "date": "2023-06-24"
+        }
+      ]
+    },
+    {
+      "id": "genshin--kiehls",
+      "ip": "kiehls",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-05-13",
+      "campaign": null,
+      "note": "키엘 화장품 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118182",
+          "date": "2023-05-13"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118183",
+          "date": "2023-05-13"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118193",
+          "date": "2023-05-17"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/39303551",
+          "locale": "hoyolab-zh",
+          "date": "2023-05-13"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/39303874",
+          "locale": "hoyolab-zh",
+          "date": "2023-05-13"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/39424237",
+          "locale": "hoyolab-zh",
+          "date": "2023-05-17"
+        }
+      ]
+    },
+    {
+      "id": "genshin--pizzahut-jp",
+      "ip": "pizzahut",
+      "form": "식음료",
+      "regions": [
+        "일본"
+      ],
+      "date": "2023-05-09",
+      "campaign": null,
+      "note": "일본 피자헛 콜라보 캠페인",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://genshin.hoyoverse.com/ja/news/detail/111392",
+          "date": "2023-05-09"
+        }
+      ]
+    },
+    {
+      "id": "genshin--alipay-2",
+      "ip": "alipay",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-04-21",
+      "campaign": null,
+      "note": "알리페이 2023 친환경 이동 캠페인 (4단계)",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118151",
+          "date": "2023-04-21"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118269",
+          "date": "2023-06-23"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118300",
+          "date": "2023-07-04"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118301",
+          "date": "2023-07-04"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118352",
+          "date": "2023-08-02"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/40925117",
+          "locale": "hoyolab-zh",
+          "date": "2023-07-04"
+        }
+      ]
+    },
+    {
+      "id": "genshin--oneplus-ace",
+      "ip": "oneplus",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-04-18",
+      "campaign": null,
+      "note": "원플러스 에이스2 커스텀 기프트 박스. 에이스3 커칭 에디션(2024), 에이스 6T 에디션(2025)으로 이어짐",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/37856210",
+          "locale": "hoyolab-zh",
+          "date": "2023-04-11"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/38109892",
+          "locale": "hoyolab-zh",
+          "date": "2023-04-17"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/38127904",
+          "locale": "hoyolab-zh",
+          "date": "2023-04-18"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/49792371",
+          "locale": "hoyolab-zh",
+          "date": "2024-02-28"
+        },
+        {
+          "url": "https://ys.mihoyo.com/main/news/detail/160992",
+          "locale": "zh-cn",
+          "date": "2025-11-21"
+        }
+      ]
+    },
+    {
+      "id": "genshin--pizzahut-cn-2",
+      "ip": "pizzahut",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2023-02-17",
+      "campaign": null,
+      "note": "중국 피자헛 2차 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118043",
+          "date": "2023-02-17"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118044",
+          "date": "2023-02-17"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118052",
+          "date": "2023-02-24"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/35876395",
+          "locale": "hoyolab-zh",
+          "date": "2023-02-17"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/35876398",
+          "locale": "hoyolab-zh",
+          "date": "2023-02-17"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/36149185",
+          "locale": "hoyolab-zh",
+          "date": "2023-02-24"
+        }
+      ]
+    },
+    {
+      "id": "genshin--wonderful-works",
+      "ip": "wonderful-works",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "일본"
+      ],
+      "date": "2023-02-11",
+      "campaign": null,
+      "note": "원더풀웍스 「유라」 피규어",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/35590787",
+          "locale": "hoyolab-zh",
+          "date": "2023-02-11"
+        }
+      ]
+    },
+    {
+      "id": "genshin--oneplus-emoji",
+      "ip": "oneplus",
+      "form": "기타",
+      "regions": [
+        "중국"
+      ],
+      "date": "2022-11-12",
+      "campaign": null,
+      "note": "파이몬 그림 이모티콘 시리즈. 2022년부터 매년 출시",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117838",
+          "date": "2022-11-12"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/118437",
+          "date": "2023-08-30"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/122655",
+          "date": "2024-02-27"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/161599",
+          "date": "2025-12-20"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/30644341",
+          "locale": "hoyolab-zh",
+          "date": "2022-10-24"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/31468538",
+          "locale": "hoyolab-zh",
+          "date": "2022-11-12"
+        }
+      ]
+    },
+    {
+      "id": "genshin--lawson",
+      "ip": "lawson",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2022-09-26",
+      "campaign": null,
+      "note": "중국 로손 편의점 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117673",
+          "date": "2022-09-16"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/29028568",
+          "locale": "hoyolab-zh",
+          "date": "2022-09-16"
+        }
+      ]
+    },
+    {
+      "id": "genshin--alipay-1",
+      "ip": "alipay",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2022-09-16",
+      "campaign": null,
+      "note": "알리페이 1차 테마 이벤트",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117675",
+          "date": "2022-09-16"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117699",
+          "date": "2022-09-22"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117700",
+          "date": "2022-09-22"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117705",
+          "date": "2022-09-24"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/29028310",
+          "locale": "hoyolab-zh",
+          "date": "2022-09-16"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/29246295",
+          "locale": "hoyolab-zh",
+          "date": "2022-09-22"
+        }
+      ]
+    },
+    {
+      "id": "genshin--cadillac",
+      "ip": "cadillac",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2022-09-16",
+      "campaign": null,
+      "note": "캐딜락 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117674",
+          "date": "2022-09-16"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117748",
+          "date": "2022-10-02"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/29751766",
+          "locale": "hoyolab-zh",
+          "date": "2022-10-02"
+        }
+      ]
+    },
+    {
+      "id": "genshin--cmb-card",
+      "ip": "cmb-card",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2022-09-16",
+      "campaign": null,
+      "note": "초상은행 신용카드 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117676",
+          "date": "2022-09-16"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/29027677",
+          "locale": "hoyolab-zh",
+          "date": "2022-09-16"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/29175210",
+          "locale": "hoyolab-zh",
+          "date": "2022-09-20"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/32731056",
+          "locale": "hoyolab-zh",
+          "date": "2022-12-12"
+        }
+      ]
+    },
+    {
+      "id": "genshin--ufotable",
+      "ip": "ufotable",
+      "form": "기타",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2022-09-16",
+      "campaign": null,
+      "note": "ufotable과 진행하는 장기 애니메이션 프로젝트. 콘셉트 PV 공개",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/8892548",
+          "locale": "hoyolab-ko",
+          "date": "2022-09-16"
+        }
+      ]
+    },
+    {
+      "id": "genshin--heytea-1",
+      "ip": "heytea",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2022-09-05",
+      "campaign": null,
+      "note": "희차 1차 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117645",
+          "date": "2022-09-05"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117651",
+          "date": "2022-09-07"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117662",
+          "date": "2022-09-10"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/28497012",
+          "locale": "hoyolab-zh",
+          "date": "2022-09-05"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/28585449",
+          "locale": "hoyolab-zh",
+          "date": "2022-09-07"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/28738127",
+          "locale": "hoyolab-zh",
+          "date": "2022-09-10"
+        }
+      ]
+    },
+    {
+      "id": "genshin--pizzahut-cn-1",
+      "ip": "pizzahut",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2022-08-18",
+      "campaign": null,
+      "note": "중국 피자헛 1차 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117602",
+          "date": "2022-08-18"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117605",
+          "date": "2022-08-19"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117640",
+          "date": "2022-08-29"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/27513462",
+          "locale": "hoyolab-zh",
+          "date": "2022-08-18"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/27569079",
+          "locale": "hoyolab-zh",
+          "date": "2022-08-19"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/27805805",
+          "locale": "hoyolab-zh",
+          "date": "2022-08-23"
+        }
+      ]
+    },
+    {
+      "id": "genshin--suibian-2",
+      "ip": "suibian",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2022-07-08",
+      "campaign": null,
+      "note": "멍뉴 수이볜 아이스크림 여름 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117508",
+          "date": "2022-07-08"
+        }
+      ]
+    },
+    {
+      "id": "genshin--gsc",
+      "ip": "gsc",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "일본"
+      ],
+      "date": "2022-05-28",
+      "campaign": null,
+      "note": "굿스마일컴퍼니 넨도로이드 종려·라이덴 쇼군",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/23208364",
+          "locale": "hoyolab-zh",
+          "date": "2022-05-28"
+        }
+      ]
+    },
+    {
+      "id": "genshin--redmi",
+      "ip": "redmi",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "중국"
+      ],
+      "date": "2022-03-17",
+      "campaign": null,
+      "note": "레드미 클레 콜라보 이어폰",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117312",
+          "date": "2022-03-17"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/19137434",
+          "locale": "hoyolab-zh",
+          "date": "2022-03-17"
+        }
+      ]
+    },
+    {
+      "id": "genshin--meihua",
+      "ip": "meihua",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2022-01-25",
+      "campaign": null,
+      "note": "메이화 스포츠웨어 「리월」 테마 트레이닝복",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/15023360",
+          "locale": "hoyolab-zh",
+          "date": "2022-01-25"
+        }
+      ]
+    },
+    {
+      "id": "genshin--amazfit",
+      "ip": "amazfit",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "중국"
+      ],
+      "date": "2022-01-18",
+      "campaign": null,
+      "note": "아마즈핏 스마트워치 콜라보 에디션. 클레·진·파이몬 테마로 반복 진행",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/14728705",
+          "locale": "hoyolab-zh",
+          "date": "2022-01-18"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/19612223",
+          "locale": "hoyolab-zh",
+          "date": "2022-03-28"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/28667874",
+          "locale": "hoyolab-zh",
+          "date": "2022-09-09"
+        }
+      ]
+    },
+    {
+      "id": "genshin--suibian-1",
+      "ip": "suibian",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2021-12-14",
+      "campaign": null,
+      "note": "멍뉴 수이볜 아이스크림 겨울 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117118",
+          "date": "2021-12-14"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/13041711",
+          "locale": "hoyolab-zh",
+          "date": "2021-12-14"
+        }
+      ]
+    },
+    {
+      "id": "genshin--apple-store-cn",
+      "ip": "apple-store",
+      "form": "카페·팝업",
+      "regions": [
+        "중국"
+      ],
+      "date": "2021-12-03",
+      "campaign": null,
+      "note": "애플 공인 매장 「주말 한 시간」 오프라인 행사",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117098",
+          "date": "2021-12-03"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/4776365",
+          "locale": "hoyolab-zh",
+          "date": "2021-03-04"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/12656629",
+          "locale": "hoyolab-zh",
+          "date": "2021-12-03"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/13041712",
+          "locale": "hoyolab-zh",
+          "date": "2021-12-14"
+        }
+      ]
+    },
+    {
+      "id": "genshin--alter",
+      "ip": "alter",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "일본"
+      ],
+      "date": "2021-11-18",
+      "campaign": null,
+      "note": "알터 「심판의 공주 피슬!!」 피규어",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/12092304",
+          "locale": "hoyolab-zh",
+          "date": "2021-11-18"
+        }
+      ]
+    },
+    {
+      "id": "genshin--oneplus-phone",
+      "ip": "oneplus",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "중국"
+      ],
+      "date": "2021-10-26",
+      "campaign": null,
+      "note": "원플러스 9RT 원신 한정판 패키지",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/117027",
+          "date": "2021-10-26"
+        }
+      ]
+    },
+    {
+      "id": "genshin--razer",
+      "ip": "razer",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "중국",
+        "일본"
+      ],
+      "date": "2021-10-03",
+      "campaign": null,
+      "note": "레이저 콜라보 주변기기",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/116980",
+          "date": "2021-10-03"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://genshin.hoyoverse.com/ja/news/detail/104054",
+          "date": "2021-10-03"
+        },
+        {
+          "url": "https://www.hoyolab.com/article/1125790",
+          "locale": "hoyolab-ko",
+          "date": "2021-10-03"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/10261483",
+          "locale": "hoyolab-zh",
+          "date": "2021-10-03"
+        }
+      ]
+    },
+    {
+      "id": "genshin--tmall-genie",
+      "ip": "tmall-genie",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "중국"
+      ],
+      "date": "2021-08-20",
+      "campaign": null,
+      "note": "티몰 지니 스마트 스피커 콜라보 에디션",
+      "articles": [
+        {
+          "url": "https://www.miyoushe.com/ys/article/8714354",
+          "locale": "hoyolab-zh",
+          "date": "2021-08-20"
+        }
+      ]
+    },
+    {
+      "id": "genshin--google-play",
+      "ip": "google-play",
+      "form": "브랜드",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2021-06-30",
+      "campaign": null,
+      "note": "구글 플레이 기프트카드 콜라보 에디션",
+      "articles": [
+        {
+          "url": "https://www.hoyolab.com/article/505117",
+          "locale": "hoyolab-ko",
+          "date": "2021-06-30"
+        }
+      ]
+    },
+    {
+      "id": "genshin--kfc-1",
+      "ip": "kfc",
+      "form": "식음료",
+      "regions": [
+        "중국"
+      ],
+      "date": "2021-03-06",
+      "campaign": null,
+      "note": "중국 KFC 1차 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/116528",
+          "date": "2021-03-06"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/116530",
+          "date": "2021-03-06"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/116531",
+          "date": "2021-03-08"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/116533",
+          "date": "2021-03-09"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/4815534",
+          "locale": "hoyolab-zh",
+          "date": "2021-03-06"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/4845004",
+          "locale": "hoyolab-zh",
+          "date": "2021-03-08"
+        }
+      ]
+    },
+    {
+      "id": "genshin--scenic-guilin",
+      "ip": "scenic-guilin",
+      "form": "기타",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2020-11-13",
+      "campaign": null,
+      "note": "「멈춤에서 여정으로」 구이린 관광지 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/116338",
+          "date": "2020-11-13"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/116342",
+          "date": "2020-11-17"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/116344",
+          "date": "2020-11-18"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://genshin.hoyoverse.com/ko/news/detail/103769",
+          "date": "2020-11-18"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://genshin.hoyoverse.com/ja/news/detail/103769",
+          "date": "2020-11-18"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/116352",
+          "date": "2020-11-25"
+        }
+      ]
+    },
+    {
+      "id": "genshin--scenic-huanglong",
+      "ip": "scenic-huanglong",
+      "form": "기타",
+      "regions": [
+        "중국",
+        "한국"
+      ],
+      "date": "2020-10-17",
+      "campaign": null,
+      "note": "「멈춤에서 여정으로」 황룽 관광지 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/116301",
+          "date": "2020-10-17"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/116311",
+          "date": "2020-10-24"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/116319",
+          "date": "2020-10-31"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://genshin.hoyoverse.com/ko/news/detail/103775",
+          "date": "2020-11-24"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/2264175",
+          "locale": "hoyolab-zh",
+          "date": "2020-10-17"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/2364092",
+          "locale": "hoyolab-zh",
+          "date": "2020-10-24"
+        }
+      ]
+    },
+    {
+      "id": "genshin--scenic-zhangjiajie",
+      "ip": "scenic-zhangjiajie",
+      "form": "기타",
+      "regions": [
+        "중국",
+        "한국"
+      ],
+      "date": "2020-09-23",
+      "campaign": null,
+      "note": "「멈춤에서 여정으로」 장가계 관광지 콜라보",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/116264",
+          "date": "2020-09-23"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://ys.mihoyo.com/main/news/detail/116282",
+          "date": "2020-09-30"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://genshin.hoyoverse.com/ko/news/detail/103772",
+          "date": "2020-11-20"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/1672572",
+          "locale": "hoyolab-zh",
+          "date": "2020-08-31"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/1835861",
+          "locale": "hoyolab-zh",
+          "date": "2020-09-23"
+        },
+        {
+          "url": "https://www.miyoushe.com/ys/article/1841832",
+          "locale": "hoyolab-zh",
+          "date": "2020-09-23"
+        }
+      ]
+    }
+  ]
+}

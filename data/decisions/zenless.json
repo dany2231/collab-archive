@@ -1,0 +1,806 @@
+{
+  "https://zenless.hoyoverse.com/en-us/news/165746": {
+    "decision": "collab",
+    "collab": "zenless--hoyoverse-cafe",
+    "date": "2026-08-14",
+    "title_ko": "오퍼레이션 얌 × 호요버스 카페 2026 최종 영상"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/165605": {
+    "decision": "collab",
+    "collab": "zenless--hoyoverse-cafe",
+    "date": "2026-08-08",
+    "title_ko": "오퍼레이션 얌 × 호요버스 카페 2026 이벤트 하이라이트"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/165427": {
+    "decision": "exclude",
+    "reason": "캐릭터 생일 스토리 속 표현",
+    "date": "2026-07-30",
+    "title_ko": "네코마타 생일 축하해 | 알려진 출처의 선물"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/165427": {
+    "decision": "exclude",
+    "reason": "캐릭터 생일 스토리 속 표현",
+    "date": "2026-07-30",
+    "title_ko": "생일 축하해, 네코마타 | 출처가 확실한 선물"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/165407": {
+    "decision": "exclude",
+    "reason": "웹 이벤트 경품 목록 속 표현",
+    "date": "2026-07-29",
+    "title_ko": "🎁 프록시 여러분, 버전 3.1 \"리두로의 귀환: 재회의 깃털\" 웹 이벤트가 아직 진행 중입니다!"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/165407": {
+    "decision": "exclude",
+    "reason": "웹 이벤트 경품 목록 속 표현",
+    "date": "2026-07-29",
+    "title_ko": "🎁친애하는 프록시님, Ver.3.1 「에리에의 귀환 날개의 순회」Web 이벤트 개최중!"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/165407": {
+    "decision": "exclude",
+    "reason": "웹 이벤트 경품 목록 속 표현",
+    "date": "2026-07-29",
+    "title_ko": "🎁To. 로프꾼, 3.1 버전 「리두로의 귀환: 깃털이 내려앉을 때」 웹이벤트가 진행 중입니다!"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/165276": {
+    "decision": "collab",
+    "collab": "zenless--kyuramen",
+    "date": "2026-07-20",
+    "title_ko": "[젠리스 존 제로 × 큐라멘 콜라보레이션]"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/165296": {
+    "decision": "collab",
+    "collab": "zenless--hoyoverse-cafe",
+    "date": "2026-07-20",
+    "title_ko": "오퍼레이션 얌과 호요버스 카페의 콜라보레이션이 곧 출시됩니다"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/165275": {
+    "decision": "collab",
+    "collab": "zenless--haidilao",
+    "date": "2026-07-18",
+    "title_ko": "젠리스 존 제로와 하이디라오 훠궈의 콜라보레이션이 싱가포르에 곧 출시됩니다!"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/165241": {
+    "decision": "exclude",
+    "reason": "웹 이벤트 경품 목록 속 표현",
+    "date": "2026-07-17",
+    "title_ko": "🎁1세대 보이드 헌터가 돌아왔습니다"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/165247": {
+    "decision": "campaign",
+    "campaign": "operation-yum-2026",
+    "date": "2026-07-17",
+    "title_ko": "🎁Operation Yum 2026이 공식적으로 시작되었습니다!"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/165250": {
+    "decision": "collab",
+    "collab": "zenless--honkai-star-rail",
+    "date": "2026-07-17",
+    "title_ko": "젠리스 존 제로 × 붕괴: 스타 레일 크로스오버 확정!"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/165241": {
+    "decision": "exclude",
+    "reason": "웹 이벤트 경품 목록 속 표현",
+    "date": "2026-07-17",
+    "title_ko": "🎁초대 허 사냥, 귀환"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/165247": {
+    "decision": "campaign",
+    "campaign": "operation-yum-2026",
+    "date": "2026-07-17",
+    "title_ko": "🎁「2026 음식 대작전!」개최!"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/165250": {
+    "decision": "collab",
+    "collab": "zenless--honkai-star-rail",
+    "date": "2026-07-17",
+    "title_ko": "『젠레스존 제로』×『붕괴：스타 레일』 콜라보 결정!"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/165241": {
+    "decision": "exclude",
+    "reason": "웹 이벤트 경품 목록 속 표현",
+    "date": "2026-07-17",
+    "title_ko": "🎁초대 공허 사냥꾼 귀환"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/165247": {
+    "decision": "campaign",
+    "campaign": "operation-yum-2026",
+    "date": "2026-07-17",
+    "title_ko": "🎁2026 냠냠대작전 정식 오픈!"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/165250": {
+    "decision": "collab",
+    "collab": "zenless--honkai-star-rail",
+    "date": "2026-07-17",
+    "title_ko": "〈젠레스 존 제로〉×〈붕괴: 스타레일〉 콜라보 확정!"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/164715": {
+    "decision": "collab",
+    "collab": "zenless--the-venti",
+    "date": "2026-06-12",
+    "title_ko": "별빛 축제로의 초대 | 젠레스 존 제로 X 더벤티 콜라보 Coming Soon!"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/163712": {
+    "decision": "collab",
+    "collab": "zenless--yamaha",
+    "date": "2026-04-24",
+    "title_ko": "젠 제로 × 야마하 모터 사이클 콜라보레이션 공개"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/162388": {
+    "decision": "review",
+    "reason": "엔젤디 응원 이벤트. 애니플러스·애플 팝업과 연계된 것으로 보이나 본문만으로는 불확실",
+    "date": "2026-01-30",
+    "title_ko": "슈가 러시 — 지원, 시작!"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/162388": {
+    "decision": "review",
+    "reason": "엔젤디 응원 이벤트. 애니플러스·애플 팝업과 연계된 것으로 보이나 본문만으로는 불확실",
+    "date": "2026-01-30",
+    "title_ko": "스위트 크래시——응원 스타트!"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/162388": {
+    "decision": "review",
+    "reason": "엔젤디 응원 이벤트. 애니플러스·애플 팝업과 연계된 것으로 보이나 본문만으로는 불확실",
+    "date": "2026-01-30",
+    "title_ko": "설렘 폭발——응원 개시!"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/162433": {
+    "decision": "collab",
+    "collab": "zenless--aniplus",
+    "date": "2026-01-30",
+    "title_ko": "🎁 젠레스 존 제로 X 애니플러스 콜라보 카페 개최 기념 재게시 이벤트"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/162437": {
+    "decision": "collab",
+    "collab": "zenless--apple-app-store-2",
+    "date": "2026-01-30",
+    "title_ko": "Apple App Store와 함께하는 엔젤디 팝업스토어 및 스페셜 에디션 패키지 상세 공지"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/159853": {
+    "decision": "collab",
+    "collab": "zenless--apple-app-store-2",
+    "date": "2025-09-29",
+    "title_ko": "〈젠레스 존 제로〉 & Apple App Store 2차 콜라보 Coming Soon!"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/158966": {
+    "decision": "collab",
+    "collab": "zenless--razer",
+    "date": "2025-08-22",
+    "title_ko": "Razer와 Zenless의 협업 시리즈인 Zone Zero의 예약 판매가 Razer 공식 웹사이트에서 순차적으로 시작될 예정입니다!"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/158966": {
+    "decision": "collab",
+    "collab": "zenless--razer",
+    "date": "2025-08-22",
+    "title_ko": "「Razer × 젠레스존 제로」콜라보레이션 시리즈가, Razer 공식 사이트에서 순차 예약 접수 개시!"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/158966": {
+    "decision": "collab",
+    "collab": "zenless--razer",
+    "date": "2025-08-22",
+    "title_ko": "바로 지금! 혼돈을 베어낸다! Razer x 젠레스 존 제로 콜라보 시리즈 예약 판매가 오늘부터 Razer 공식 홈페이지에서 순차적으로 시작됩니다!"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/158607": {
+    "decision": "collab",
+    "collab": "zenless--aston-martin",
+    "date": "2025-08-16",
+    "title_ko": "애스턴 마틴과 젠리스 존 제로의 협업이 공식적으로 시작됩니다!"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/158690": {
+    "decision": "collab",
+    "collab": "zenless--aston-martin",
+    "date": "2025-08-16",
+    "title_ko": "애스턴 마틴과 젠리스 존 제로의 협업 뮤직비디오: 시동을 걸고 새로운 에리두를 질주하세요!"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/157052": {
+    "decision": "collab",
+    "collab": "zenless--frank-burger",
+    "date": "2025-06-18",
+    "title_ko": "🎁프랭크버거 콜라보 메뉴 시식 후기 이벤트"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/156736": {
+    "decision": "collab",
+    "collab": "zenless--frank-burger",
+    "date": "2025-06-09",
+    "title_ko": "〈젠레스 존 제로〉 프랭크버거와 함께하는 콜라보 상세 안내"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/156058": {
+    "decision": "campaign",
+    "campaign": "operation-yum-2025",
+    "date": "2025-05-24",
+    "title_ko": "오퍼레이션 얌 | 젠리스 존 제로 글로벌 딜리셔스 콜라보레이션 이벤트 상세 정보"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/156060": {
+    "decision": "campaign",
+    "campaign": "operation-yum-2025",
+    "date": "2025-05-24",
+    "title_ko": "오퍼레이션 얌 | 글로벌 딜리셔스 콜라보 PV"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/156058": {
+    "decision": "collab",
+    "collab": "zenless--pizza-la",
+    "date": "2025-05-24",
+    "title_ko": "「맛집 대작전!」 | 「젠레스존 제로」글로벌 음식 콜라보레이션 이벤트 상세"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/156060": {
+    "decision": "campaign",
+    "campaign": "operation-yum-2025",
+    "date": "2025-05-24",
+    "title_ko": "미식 대작전! | 글로벌 미식가 협업 PV"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/156058": {
+    "decision": "campaign",
+    "campaign": "operation-yum-2025",
+    "date": "2025-05-24",
+    "title_ko": "〈냠냠대작전〉 | 젠레스 존 제로 글로벌 미식 콜라보 이벤트 상세"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/156060": {
+    "decision": "campaign",
+    "campaign": "operation-yum-2025",
+    "date": "2025-05-24",
+    "title_ko": "냠냠대작전 | 글로벌 미식 콜라보 PV"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/125864": {
+    "decision": "collab",
+    "collab": "zenless--creamfields",
+    "date": "2024-09-13",
+    "title_ko": "하이퍼 커미션 | 젠리스 존 제로 × 크림필즈 노스 2024 DJ 세트 하이라이트"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/124538": {
+    "decision": "collab",
+    "collab": "zenless--tiesto",
+    "date": "2024-07-02",
+    "title_ko": "젠리스 – 티에스토 x 젠리스 존 제로 | 지금 바로 만나보세요!"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/124538": {
+    "decision": "collab",
+    "collab": "zenless--tiesto",
+    "date": "2024-07-02",
+    "title_ko": "ZENLESS - Tiësto × 젠레스존 제로 | 배달 중!"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/124538": {
+    "decision": "collab",
+    "collab": "zenless--tiesto",
+    "date": "2024-07-02",
+    "title_ko": "ZENLESS - Tiësto × 젠레스 존 제로 | 정식 출시!"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/124483": {
+    "decision": "collab",
+    "collab": "zenless--street-fighter-6",
+    "date": "2024-06-29",
+    "title_ko": "젠리스 존 제로 x 스트리트 파이터 6 제작자 좌담회"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/124483": {
+    "decision": "collab",
+    "collab": "zenless--street-fighter-6",
+    "date": "2024-06-29",
+    "title_ko": "『젠레스존 제로』× 『스트리트 파이터 6』 크리에이터 대담"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/124483": {
+    "decision": "collab",
+    "collab": "zenless--street-fighter-6",
+    "date": "2024-06-29",
+    "title_ko": "「젠레스 존 제로」 × 「스트리트 파이터 6」제작자 담화"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/113775": {
+    "decision": "exclude",
+    "reason": "게임 콘텐츠 안내",
+    "date": "2023-11-26",
+    "title_ko": "요정 도서관: VR 체험 가이드"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/113775": {
+    "decision": "exclude",
+    "reason": "게임 콘텐츠 안내",
+    "date": "2023-11-26",
+    "title_ko": "Fairy Library: VR 시련편"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/113775": {
+    "decision": "exclude",
+    "reason": "게임 콘텐츠 안내",
+    "date": "2023-11-26",
+    "title_ko": "Fairy Library: VR 훈련편"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/113068": {
+    "decision": "exclude",
+    "reason": "게임쇼·행사 참가 (콜라보 아님)",
+    "date": "2023-09-22",
+    "title_ko": "젠리스 존 제로 x TGS2023 특별 발표"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/113068": {
+    "decision": "exclude",
+    "reason": "게임쇼·행사 참가 (콜라보 아님)",
+    "date": "2023-09-22",
+    "title_ko": "『젠레스존 제로』 × TGS2023 특별 알림"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/113049": {
+    "decision": "exclude",
+    "reason": "게임쇼·행사 참가 (콜라보 아님)",
+    "date": "2023-09-20",
+    "title_ko": "「젠레스존 제로」 × TGS2023 드디어 내일 개막!"
+  },
+  "https://zenless.hoyoverse.com/ja-jp/news/113020": {
+    "decision": "exclude",
+    "reason": "게임쇼·행사 참가 (콜라보 아님)",
+    "date": "2023-09-15",
+    "title_ko": "「젠레스존 제로」 × TGS2023 출전 결정!"
+  },
+  "https://zenless.hoyoverse.com/en-us/news/112813": {
+    "decision": "exclude",
+    "reason": "게임쇼·행사 참가 (콜라보 아님)",
+    "date": "2023-08-24",
+    "title_ko": "Z·Z·Z x 시티 페스티벌 스페셜 스테이지 \"HOLLOW\" 데뷔! | 게임스컴 2023"
+  },
+  "https://www.hoyolab.com/article/30412593": {
+    "decision": "collab",
+    "collab": "zenless--street-fighter-6",
+    "date": "2024-06-29",
+    "title_ko": "「젠레스 존 제로」 × 「스트리트 파이터 6」제작자 담화"
+  },
+  "https://www.miyoushe.com/zzz/article/54151139": {
+    "decision": "collab",
+    "collab": "zenless--street-fighter-6",
+    "date": "2024-06-23",
+    "title_ko": "디스트릭트 제로와 스트리트 파이터 6 제작진 인터뷰 트레일러"
+  },
+  "https://www.miyoushe.com/zzz/article/54381061": {
+    "decision": "collab",
+    "collab": "zenless--street-fighter-6",
+    "date": "2024-06-29",
+    "title_ko": "디스트릭트 제로 x 스트리트 파이터 VI 제작진 대화"
+  },
+  "https://www.hoyolab.com/article/30517188": {
+    "decision": "collab",
+    "collab": "zenless--tiesto",
+    "date": "2024-07-02",
+    "title_ko": "ZENLESS - Tiësto × 젠레스 존 제로 | 정식 출시!"
+  },
+  "https://www.miyoushe.com/zzz/article/54512912": {
+    "decision": "collab",
+    "collab": "zenless--tiesto",
+    "date": "2024-07-02",
+    "title_ko": "ZENLESS - 티에스토 × 존 제로 | 지금 구매 가능!"
+  },
+  "https://www.hoyolab.com/article/32142465": {
+    "decision": "collab",
+    "collab": "zenless--creamfields",
+    "date": "2024-08-15",
+    "title_ko": "극한 의뢰 | Creamfields North 2024"
+  },
+  "https://www.hoyolab.com/article/33216909": {
+    "decision": "collab",
+    "collab": "zenless--creamfields",
+    "date": "2024-09-13",
+    "title_ko": "극한 의뢰 | 2024 젠레스 존 제로 영국 Creamfields DJ 공연 하이라이트 돌아보기"
+  },
+  "https://www.hoyolab.com/article/33226879": {
+    "decision": "collab",
+    "collab": "zenless--creamfields",
+    "date": "2024-09-13",
+    "title_ko": "극한 의뢰 | 젠레스 존 제로 2024 DJ 공연 풀버전"
+  },
+  "https://www.hoyolab.com/article/38938132": {
+    "decision": "collab",
+    "collab": "zenless--frank-burger",
+    "date": "2025-05-23",
+    "title_ko": "프랭크버거 콜라보 예고 PV | 젠레스 존 제로"
+  },
+  "https://www.hoyolab.com/article/39232978": {
+    "decision": "collab",
+    "collab": "zenless--frank-burger",
+    "date": "2025-06-09",
+    "title_ko": "〈젠레스 존 제로〉 프랭크버거와 함께하는 콜라보 상세 안내"
+  },
+  "https://www.hoyolab.com/article/39388503": {
+    "decision": "collab",
+    "collab": "zenless--frank-burger",
+    "date": "2025-06-18",
+    "title_ko": "🎁프랭크버거 콜라보 메뉴 시식 후기 이벤트"
+  },
+  "https://www.hoyolab.com/article/39494028": {
+    "decision": "collab",
+    "collab": "zenless--frank-burger",
+    "date": "2025-06-20",
+    "title_ko": "프랭크버거 스페셜 매장 현장 사진 대방출📸"
+  },
+  "https://www.hoyolab.com/article/39672121": {
+    "decision": "collab",
+    "collab": "zenless--frank-burger",
+    "date": "2025-06-27",
+    "title_ko": "젠레스 존 제로 x 프랭크버거 오프라인 이벤트 리뷰 영상"
+  },
+  "https://www.hoyolab.com/article/40677487": {
+    "decision": "collab",
+    "collab": "zenless--razer",
+    "date": "2025-08-22",
+    "title_ko": "바로 지금! 혼돈을 베어낸다! Razer x 젠레스 존 제로 콜라보 시리즈 예약 판매가 오늘부터 Razer 공식 홈페이지에서 순차적으로 시작됩니다!"
+  },
+  "https://www.hoyolab.com/article/41438633": {
+    "decision": "collab",
+    "collab": "zenless--apple-app-store-2",
+    "date": "2025-09-29",
+    "title_ko": "〈젠레스 존 제로〉 & Apple App Store 2차 콜라보 Coming Soon!"
+  },
+  "https://www.hoyolab.com/article/43535088": {
+    "decision": "collab",
+    "collab": "zenless--apple-app-store-2",
+    "date": "2026-01-30",
+    "title_ko": "Apple App Store와 함께하는 엔젤디 팝업스토어 및 스페셜 에디션 패키지 상세 공지"
+  },
+  "https://www.hoyolab.com/article/43536005": {
+    "decision": "collab",
+    "collab": "zenless--apple-app-store-2",
+    "date": "2026-01-30",
+    "title_ko": "🎁설렘 폭발——응원 개시!"
+  },
+  "https://www.hoyolab.com/article/43748725": {
+    "decision": "collab",
+    "collab": "zenless--apple-app-store-2",
+    "date": "2026-02-13",
+    "title_ko": "🩷 Apple App Store와 함께하는 엔젤디 팝업스토어 사전예약 오픈 안내"
+  },
+  "https://www.hoyolab.com/article/43871321": {
+    "decision": "collab",
+    "collab": "zenless--apple-app-store-2",
+    "date": "2026-02-20",
+    "title_ko": "💗 내일, 엔젤디가 더현대에 찾아옵니다 💗"
+  },
+  "https://www.hoyolab.com/article/43871580": {
+    "decision": "collab",
+    "collab": "zenless--apple-app-store-2",
+    "date": "2026-02-20",
+    "title_ko": "🎁 엔젤디 팝업스토어 방문 인증 이벤트"
+  },
+  "https://www.hoyolab.com/article/43927060": {
+    "decision": "collab",
+    "collab": "zenless--apple-app-store-2",
+    "date": "2026-02-24",
+    "title_ko": "📸 엔젤디 팝업스토어 현장 하이라이트 사진"
+  },
+  "https://www.hoyolab.com/article/43536220": {
+    "decision": "collab",
+    "collab": "zenless--aniplus",
+    "date": "2026-01-30",
+    "title_ko": "🎁 젠레스 존 제로 X 애니플러스 콜라보 카페 개최 기념 재게시 이벤트"
+  },
+  "https://www.hoyolab.com/article/43726950": {
+    "decision": "collab",
+    "collab": "zenless--aniplus",
+    "date": "2026-02-11",
+    "title_ko": "🔥젠레스 존 제로 X 애니플러스 콜라보 카페 개최 D-1🔥"
+  },
+  "https://www.hoyolab.com/article/43914600": {
+    "decision": "collab",
+    "collab": "zenless--aniplus",
+    "date": "2026-02-23",
+    "title_ko": "애니플러스 콜라보 카페 3~4주차 스페셜 메뉴 공개! 📢"
+  },
+  "https://www.hoyolab.com/article/44120518": {
+    "decision": "collab",
+    "collab": "zenless--aniplus",
+    "date": "2026-03-09",
+    "title_ko": "애니플러스 콜라보 카페 5~6주차 스페셜 메뉴 공개! 📢"
+  },
+  "https://www.hoyolab.com/article/45435302": {
+    "decision": "collab",
+    "collab": "zenless--the-venti",
+    "date": "2026-06-12",
+    "title_ko": "✨별빛 축제로의 초대 ✨ 젠레스 존 제로 X 더벤티 콜라보 | 상세 공지"
+  },
+  "https://www.hoyolab.com/article/45751545": {
+    "decision": "collab",
+    "collab": "zenless--the-venti",
+    "date": "2026-07-06",
+    "title_ko": "📸 젠레스 존 제로 X 더벤티 콜라보 현장 하이라이트 사진"
+  },
+  "https://www.hoyolab.com/article/45678722": {
+    "decision": "collab",
+    "collab": "zenless--the-venti",
+    "date": "2026-07-01",
+    "title_ko": "'별빛 축제 애프터 스토리' 후기 이벤트"
+  },
+  "https://www.hoyolab.com/article/45889380": {
+    "decision": "collab",
+    "collab": "zenless--honkai-star-rail",
+    "date": "2026-07-17",
+    "title_ko": "〈젠레스 존 제로〉×〈붕괴: 스타레일〉 콜라보 확정!"
+  },
+  "https://www.miyoushe.com/zzz/article/76755364": {
+    "decision": "collab",
+    "collab": "zenless--honkai-star-rail",
+    "date": "2026-07-17",
+    "title_ko": "Zone Zero와 Honkai Impact 3rd의 콜라보레이션이 발표되었습니다!"
+  },
+  "https://www.hoyolab.com/article/38950236": {
+    "decision": "campaign",
+    "campaign": "operation-yum-2025",
+    "date": "2025-05-24",
+    "title_ko": "〈냠냠대작전〉 | 젠레스 존 제로 글로벌 미식 콜라보 이벤트 상세"
+  },
+  "https://www.hoyolab.com/article/45889420": {
+    "decision": "campaign",
+    "campaign": "operation-yum-2026",
+    "date": "2026-07-17",
+    "title_ko": "🎁2026 냠냠대작전 정식 오픈!"
+  },
+  "https://www.hoyolab.com/article/45890270": {
+    "decision": "campaign",
+    "campaign": "operation-yum-2026",
+    "date": "2026-07-17",
+    "title_ko": "냠냠대작전 2026 콜라보 PV 「에이스 셰프」 | 젠레스 존 제로"
+  },
+  "https://www.miyoushe.com/zzz/article/59835512": {
+    "decision": "collab",
+    "collab": "zenless--mcdonalds",
+    "date": "2024-12-02",
+    "title_ko": "맥도날드 | 제로 디스턴스와의 협업 PV: 맥도날드로부터 요청을 받았습니다...?"
+  },
+  "https://www.miyoushe.com/zzz/article/59837997": {
+    "decision": "collab",
+    "collab": "zenless--mcdonalds",
+    "date": "2024-12-02",
+    "title_ko": "맥도날드 | 곧 제로 거리 협업이 시작됩니다!"
+  },
+  "https://www.miyoushe.com/zzz/article/59889371": {
+    "decision": "collab",
+    "collab": "zenless--mcdonalds",
+    "date": "2024-12-04",
+    "title_ko": "맥도날드와 존 제로(Zone Zero)의 협업 이모지 팩이 출시되었습니다."
+  },
+  "https://www.hoyolab.com/article/35793176": {
+    "decision": "collab",
+    "collab": "zenless--photogray",
+    "date": "2024-12-23",
+    "title_ko": "〈젠레스 존 제로〉 포토그레이와 함께하는 콜라보 상세 안내(대공동 6과 편)"
+  },
+  "https://www.hoyolab.com/article/35794000": {
+    "decision": "collab",
+    "collab": "zenless--photogray",
+    "date": "2024-12-23",
+    "title_ko": "🎁포토그레이 콜라보 기념 이벤트!"
+  },
+  "https://www.hoyolab.com/article/36152240": {
+    "decision": "collab",
+    "collab": "zenless--photogray",
+    "date": "2025-01-05",
+    "title_ko": "🎁포토그레이 매장 방문 인증 이벤트"
+  },
+  "https://www.hoyolab.com/article/36411120": {
+    "decision": "collab",
+    "collab": "zenless--photogray",
+    "date": "2025-01-17",
+    "title_ko": "〈젠레스 존 제로〉 포토그레이와 함께하는 콜라보 상세 안내(아스트라 편)"
+  },
+  "https://www.hoyolab.com/article/36411371": {
+    "decision": "collab",
+    "collab": "zenless--photogray",
+    "date": "2025-01-17",
+    "title_ko": "🎁포토그레이 2차 콜라보 기념 이벤트!"
+  },
+  "https://www.miyoushe.com/zzz/article/60900291": {
+    "decision": "collab",
+    "collab": "zenless--gamesir",
+    "date": "2025-01-08",
+    "title_ko": "Zone Zero와 Game Chicken의 협업으로 탄생한 \"Peerless Player\"가 곧 출시됩니다."
+  },
+  "https://www.miyoushe.com/zzz/article/65994131": {
+    "decision": "collab",
+    "collab": "zenless--fanta",
+    "date": "2025-07-02",
+    "title_ko": "환타 | 제로 콜라보레이션 PV: 도파민, 지금 바로 행동하세요!"
+  },
+  "https://www.miyoushe.com/zzz/article/65995750": {
+    "decision": "collab",
+    "collab": "zenless--fanta",
+    "date": "2025-07-02",
+    "title_ko": "환타 | 제로 링크 KV: 환타 도파민 미션에 오신 것을 환영합니다"
+  },
+  "https://www.miyoushe.com/zzz/article/68810389": {
+    "decision": "collab",
+    "collab": "zenless--chabaidao",
+    "date": "2025-09-22",
+    "title_ko": "차와 관련된 100가지 경로 | 제로링크 핵심 시각화: 함께하는 팀, 차가 최우선"
+  },
+  "https://www.miyoushe.com/zzz/article/68810735": {
+    "decision": "collab",
+    "collab": "zenless--chabaidao",
+    "date": "2025-09-22",
+    "title_ko": "차 백 가지 방법 | 제로 크로싱 지역 PV: 작은 꽃밭에 심고, 심고, 또 심기"
+  },
+  "https://www.miyoushe.com/zzz/article/72261675": {
+    "decision": "collab",
+    "collab": "zenless--hormel",
+    "date": "2026-01-12",
+    "title_ko": "호멜 | 제로 콜라보레이션 뮤직비디오: 음식은 행운을 가져다준다, 윤쿠이에 봄이 왔다!"
+  },
+  "https://www.miyoushe.com/zzz/article/72392689": {
+    "decision": "collab",
+    "collab": "zenless--hormel",
+    "date": "2026-01-16",
+    "title_ko": "호멜과 존 제로의 콜라보레이션 제품이 오늘부터 판매됩니다!"
+  },
+  "https://www.miyoushe.com/zzz/article/76552932": {
+    "decision": "collab",
+    "collab": "zenless--yadea",
+    "date": "2026-07-09",
+    "title_ko": "Yadea와 Zero Zone의 콜라보레이션이 공식 출시되었습니다! 고에너지 공격, 새로운 Elidu로 질주하세요!"
+  },
+  "https://www.miyoushe.com/zzz/article/76757550": {
+    "decision": "collab",
+    "collab": "zenless--yadea",
+    "date": "2026-07-17",
+    "title_ko": "Yadea x Zero Zone 콜라보레이션 뮤직비디오 | 고에너지 공격, 라이딩 요청 수락"
+  },
+  "https://www.miyoushe.com/zzz/article/76581784": {
+    "decision": "collab",
+    "collab": "zenless--kfc",
+    "date": "2026-07-10",
+    "title_ko": "KFC와 Zero Zone이 특별한 콜라보레이션을 진행합니다! \"천사들이 맛있는 온 에어에 내려앉는다!\""
+  },
+  "https://www.miyoushe.com/zzz/article/76803261": {
+    "decision": "collab",
+    "collab": "zenless--kfc",
+    "date": "2026-07-19",
+    "title_ko": "Territory Zero x KFC 콜라보레이션 뮤직비디오: 맛과 영감이 하나로!"
+  },
+  "https://www.miyoushe.com/zzz/article/76915992": {
+    "decision": "collab",
+    "collab": "zenless--kfc",
+    "date": "2026-07-24",
+    "title_ko": "\"제로\" x KFC 콜라보레이션 이벤트의 한정판 경품 코드 발급에 문제가 발생한 경위에 대한 설명입니다."
+  },
+  "https://www.miyoushe.com/zzz/article/76924157": {
+    "decision": "collab",
+    "collab": "zenless--kfc",
+    "date": "2026-07-24",
+    "title_ko": "\"제로\" x KFC 콜라보레이션 교환 코드에서 한정판 타이틀이 제대로 발급되지 않는 문제에 대한 수정 사항 안내"
+  },
+  "https://www.hoyolab.com/article/45981579": {
+    "decision": "collab",
+    "collab": "zenless--pizza-round",
+    "date": "2026-07-24",
+    "title_ko": "🍕 맛을 올려라, 하늘 끝까지! 젠레스 존 제로 X 반올림피자 콜라보 | 상세 공지"
+  },
+  "https://www.hoyolab.com/article/46134556": {
+    "decision": "collab",
+    "collab": "zenless--pizza-round",
+    "date": "2026-08-04",
+    "title_ko": "🍕 로프꾼의 피자 메이트는? 젠레스 존 제로 X 반올림피자 콜라보 후기 이벤트"
+  },
+  "https://www.hoyolab.com/article/21792944": {
+    "decision": "exclude",
+    "reason": "게임쇼 참가 공지",
+    "date": "2023-09-22",
+    "title_ko": "〈젠레스 존 제로〉 x TGS2023 특별 공지"
+  },
+  "https://www.hoyolab.com/article/22740729": {
+    "decision": "exclude",
+    "reason": "경품이 브랜드 제품일 뿐인 자체 이벤트",
+    "date": "2023-11-04",
+    "title_ko": "「이퀄라이징 테스트」 모집이 시작되었습니다. 이벤트에 참여해 테스트 자격 및 Insta360 액션 카메라 등 다양한 보상을 획득하세요!"
+  },
+  "https://www.hoyolab.com/article/25975557": {
+    "decision": "exclude",
+    "reason": "경품이 브랜드 제품일 뿐인 자체 이벤트",
+    "date": "2024-03-17",
+    "title_ko": "[보상 이벤트] 「볼륨 증폭」 혜택 증정 이벤트 오픈"
+  },
+  "https://www.hoyolab.com/article/32134924": {
+    "decision": "exclude",
+    "reason": "경품이 브랜드 제품일 뿐인 자체 이벤트",
+    "date": "2024-08-15",
+    "title_ko": "🎁Discord 보상 이벤트 | 에테리얼 대작전"
+  },
+  "https://www.hoyolab.com/article/35812982": {
+    "decision": "exclude",
+    "reason": "경품이 브랜드 제품일 뿐인 자체 이벤트",
+    "date": "2024-12-24",
+    "title_ko": "[보상 이벤트] 크리스마스 소원🎄"
+  },
+  "https://www.hoyolab.com/article/23229205": {
+    "decision": "exclude",
+    "reason": "자체 콘텐츠·웹이벤트",
+    "date": "2023-11-26",
+    "title_ko": "Fairy Library: VR 훈련편"
+  },
+  "https://www.hoyolab.com/article/23467347": {
+    "decision": "exclude",
+    "reason": "자체 콘텐츠·웹이벤트",
+    "date": "2023-12-08",
+    "title_ko": "뉴에리두 가게 탐방 | 마지막으로 딱 한 번만!"
+  },
+  "https://www.hoyolab.com/article/26132855": {
+    "decision": "exclude",
+    "reason": "자체 콘텐츠·웹이벤트",
+    "date": "2024-03-20",
+    "title_ko": "봄날의 피크닉 | 오늘은 밤낮없이!"
+  },
+  "https://www.hoyolab.com/article/30445312": {
+    "decision": "exclude",
+    "reason": "자체 콘텐츠·웹이벤트",
+    "date": "2024-06-30",
+    "title_ko": "경고, 본 구역의 에테르 활성이 빠르게 증가하고 있습니다! 곧 젠레스 경계를 돌파합니다! 공동에 가까이 다가가지 마십시오!"
+  },
+  "https://www.hoyolab.com/article/45889282": {
+    "decision": "exclude",
+    "reason": "자체 콘텐츠·웹이벤트",
+    "date": "2026-07-17",
+    "title_ko": "🎁초대 공허 사냥꾼 귀환"
+  },
+  "https://www.hoyolab.com/article/46039426": {
+    "decision": "exclude",
+    "reason": "자체 콘텐츠·웹이벤트",
+    "date": "2026-07-29",
+    "title_ko": "🎁To. 로프꾼, 3.1 버전 「리두로의 귀환: 깃털이 내려앉을 때」 웹이벤트가 진행 중입니다!"
+  },
+  "https://www.hoyolab.com/article/46056098": {
+    "decision": "exclude",
+    "reason": "자체 콘텐츠·웹이벤트",
+    "date": "2026-07-30",
+    "title_ko": "생일 축하해, 네코마타 | 출처가 확실한 선물"
+  },
+  "https://www.hoyolab.com/article/30419626": {
+    "decision": "exclude",
+    "reason": "자체 음원의 음악 플랫폼 출시",
+    "date": "2024-06-29",
+    "title_ko": "〈젠레스 존 제로〉 OP 〈Come Alive〉, Apple Music, Spotify 등 음악 플랫폼에 출시! 어서 들어보세요!"
+  },
+  "https://www.hoyolab.com/article/33040658": {
+    "decision": "exclude",
+    "reason": "자체 만화·다이어리 연재",
+    "date": "2024-09-08",
+    "title_ko": "코팅 다이어리 | 성장의 고민"
+  },
+  "https://www.hoyolab.com/article/34826363": {
+    "decision": "exclude",
+    "reason": "자체 만화·다이어리 연재",
+    "date": "2024-11-09",
+    "title_ko": "코팅 다이어리 | 너무 맛있어서 발을 동동 구르게 돼!"
+  },
+  "https://www.hoyolab.com/article/33110844": {
+    "decision": "exclude",
+    "reason": "버전 특별 방송 예고",
+    "date": "2024-09-10",
+    "title_ko": "〈젠레스 존 제로〉 1.2 버전 「불지옥 라이딩」 특별 방송 예고"
+  },
+  "https://www.hoyolab.com/article/34300665": {
+    "decision": "exclude",
+    "reason": "게임 오류·최적화 안내",
+    "date": "2024-10-16",
+    "title_ko": "일부 게임 오류 문제 안내"
+  },
+  "https://www.hoyolab.com/article/34301563": {
+    "decision": "exclude",
+    "reason": "게임 오류·최적화 안내",
+    "date": "2024-10-16",
+    "title_ko": "게임 충전 오류 문제복구 안내"
+  },
+  "https://www.hoyolab.com/article/41782166": {
+    "decision": "exclude",
+    "reason": "게임 오류·최적화 안내",
+    "date": "2025-10-16",
+    "title_ko": "2.3 버전 발견한 문제 및 게임 최적화 (업데이트 중)"
+  },
+  "https://www.hoyolab.com/article/45489659": {
+    "decision": "exclude",
+    "reason": "게임 오류·최적화 안내",
+    "date": "2026-06-17",
+    "title_ko": "3.0 버전 발견한 문제 및 게임 최적화 (업데이트 중)"
+  },
+  "https://www.hoyolab.com/article/46627441": {
+    "decision": "exclude",
+    "reason": "게임 오류·최적화 안내",
+    "date": "2026-09-09",
+    "title_ko": "3.2 버전 발견한 문제 및 게임 최적화 (업데이트 중)"
+  },
+  "https://www.miyoushe.com/zzz/article/60319464": {
+    "decision": "exclude",
+    "reason": "플랫폼 호환 버전 출시 (콜라보 아님)",
+    "date": "2024-12-19",
+    "title_ko": "District Zero의 Apple Vision Pro 호환 버전이 출시되었습니다!"
+  },
+  "https://zenless.hoyoverse.com/ko-kr/news/113068": {
+    "decision": "exclude",
+    "reason": "게임쇼 참가 공지",
+    "date": "2023-09-22",
+    "title_ko": "〈젠레스 존 제로〉 x TGS2023 특별 공지"
+  }
+}
