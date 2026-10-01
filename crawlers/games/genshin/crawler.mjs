@@ -1,11 +1,11 @@
 import { resolve } from 'node:path';
-import { crawlHoyoContent, hoyolabGlobal, hoyolabCn } from '../../lib/hoyo-content.mjs';
+import { crawlContentApi, hoyolabGlobal, hoyolabCn } from '../../lib/content-api.mjs';
 
 // 사이트 설정(앱 ID, iAppId, 채널 ID)은 뉴스 페이지 번들에서 확인했다 (2026-09-21).
 const GLOBAL = { api: 'https://sg-public-api-static.hoyoverse.com/content_v2_user/app/a1b1f9d3315447cc', appId: 32 };
 const GLOBAL_CHANNELS = { news: { id: 396, name: '뉴스' }, events: { id: 398, name: '이벤트' }, notices: { id: 397, name: '공지' } };
 
-await crawlHoyoContent({
+await crawlContentApi({
   game: 'genshin',
   root: resolve(import.meta.dirname, '../../..'),
   sources: {

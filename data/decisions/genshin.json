@@ -930,14 +930,14 @@
     "title_ko": "하라진 아게리코 해시태그 추첨 캠페인 참가 약관"
   },
   "https://genshin.hoyoverse.com/ja/news/detail/155553": {
-    "decision": "review",
-    "reason": "「원신과 곡곡 차지」 추첨 약관. 상대가 불명확해 확인 필요",
+    "decision": "exclude",
+    "reason": "상대를 특정하지 못해 제외 (「원신과 곡곡 차지」 추첨 약관. 상대가 불명확해 확인 필요)",
     "date": "2025-04-28",
     "title_ko": "「하라진과 곡곡 차지」추첨 캠페인 참가 약관"
   },
   "https://ys.mihoyo.com/main/news/detail/124024": {
-    "decision": "review",
-    "reason": "「묘법강신, 답풍이행」. 제목만으로는 상대를 알 수 없어 확인 필요",
+    "decision": "exclude",
+    "reason": "상대를 특정하지 못해 제외 (「묘법강신, 답풍이행」. 제목만으로는 상대를 알 수 없어 확인 필요)",
     "date": "2024-06-05",
     "title_ko": "\"놀라운 방법이 몸을 단련시켜 바람을 타고 여행할 수 있게 해 준다.\""
   },

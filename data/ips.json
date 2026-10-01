@@ -1117,5 +1117,220 @@
       "Ichiban Kuji"
     ],
     "category": "굿즈"
+  },
+  {
+    "id": "sawano-hiroyuki",
+    "ko": "사와노 히로유키",
+    "aliases": [
+      "澤野弘之",
+      "SawanoHiroyuki"
+    ],
+    "category": "인물"
+  },
+  {
+    "id": "pixiv",
+    "ko": "픽시브",
+    "aliases": [
+      "pixiv"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "game8",
+    "ko": "게임에이트",
+    "aliases": [
+      "Game8",
+      "ゲームエイト"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "chainsaw-man",
+    "ko": "체인소맨",
+    "aliases": [
+      "チェンソーマン",
+      "Chainsaw Man"
+    ],
+    "category": "애니메이션"
+  },
+  {
+    "id": "nier-automata",
+    "ko": "니어: 오토마타",
+    "aliases": [
+      "NieR:Automata",
+      "ニーア オートマタ"
+    ],
+    "category": "게임"
+  },
+  {
+    "id": "queen-bee",
+    "ko": "퀸비",
+    "aliases": [
+      "QUEEN BEE"
+    ],
+    "category": "음악"
+  },
+  {
+    "id": "dave-the-diver",
+    "ko": "데이브 더 다이버",
+    "aliases": [
+      "Dave the Diver"
+    ],
+    "category": "게임"
+  },
+  {
+    "id": "evangelion",
+    "ko": "에반게리온",
+    "aliases": [
+      "EVANGELION",
+      "エヴァンゲリオン"
+    ],
+    "category": "애니메이션"
+  },
+  {
+    "id": "stellar-blade",
+    "ko": "스텔라 블레이드",
+    "aliases": [
+      "Stellar Blade"
+    ],
+    "category": "게임"
+  },
+  {
+    "id": "biohazard",
+    "ko": "바이오하자드",
+    "aliases": [
+      "BIOHAZARD",
+      "バイオハザード",
+      "Resident Evil"
+    ],
+    "category": "게임"
+  },
+  {
+    "id": "kyoto-jr-central",
+    "ko": "교토시·JR 도카이",
+    "aliases": [
+      "京都市",
+      "JR東海"
+    ],
+    "category": "공공"
+  },
+  {
+    "id": "zone-energy",
+    "ko": "ZONe ENERGY",
+    "aliases": [
+      "ZONe",
+      "산토리"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "jp-bookstores",
+    "ko": "오가키서점·히로분칸",
+    "aliases": [
+      "大垣書店",
+      "廣文館"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "chargespot",
+    "ko": "차지스팟",
+    "aliases": [
+      "CHARGESPOT"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "toppa-base-akiba",
+    "ko": "TOPPA!!! BASE AKIBA",
+    "aliases": [
+      "TOPPA!!! BASE"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "lycoris-recoil",
+    "ko": "리코리스 리코일",
+    "aliases": [
+      "リコリス・リコイル",
+      "Lycoris Recoil"
+    ],
+    "category": "애니메이션"
+  },
+  {
+    "id": "persona",
+    "ko": "페르소나",
+    "aliases": [
+      "ペルソナ",
+      "Persona"
+    ],
+    "category": "게임"
+  },
+  {
+    "id": "tokyu-plaza",
+    "ko": "도큐플라자 오모테산도",
+    "aliases": [
+      "東急プラザ表参道"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "round1",
+    "ko": "라운드원",
+    "aliases": [
+      "ROUND1",
+      "ラウンドワン"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "nagoya-walk",
+    "ko": "나고야 스탬프랠리",
+    "aliases": [
+      "名古屋さんぽ",
+      "メイクマインド"
+    ],
+    "category": "관광"
+  },
+  {
+    "id": "ariake-garden",
+    "ko": "아리아케 가든",
+    "aliases": [
+      "有明ガーデン"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "amicis",
+    "ko": "AMICIS",
+    "aliases": [
+      "アミシス"
+    ],
+    "category": "하드웨어"
+  },
+  {
+    "id": "zozotown",
+    "ko": "ZOZOTOWN",
+    "aliases": [
+      "ゾゾタウン",
+      "ZOZO"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "sengawa-onsen",
+    "ko": "센가와 유케무리노사토",
+    "aliases": [
+      "仙川湯けむりの里"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "ueni-trading",
+    "ko": "우에니 무역",
+    "aliases": [
+      "ウエニ貿易"
+    ],
+    "category": "브랜드"
   }
 ]

@@ -1,5 +1,5 @@
 import { resolve } from 'node:path';
-import { crawlHoyoContent, hoyolabGlobal, hoyolabCn } from '../../lib/hoyo-content.mjs';
+import { crawlContentApi, hoyolabGlobal, hoyolabCn } from '../../lib/content-api.mjs';
 
 // 사이트 설정은 뉴스 페이지 요청과 번들에서 확인했다 (2026-09-21).
 // 글로벌: 앱 113fe6d3b4514cdd (iAppId 없음), 채널 248 전체 / 249 뉴스 / 250 공지 / 251 이벤트
@@ -10,7 +10,7 @@ const GLOBAL_CHANNELS = {
   notices: { id: 250, name: '공지' }, all: { id: 248, name: '전체' },
 };
 
-await crawlHoyoContent({
+await crawlContentApi({
   game: 'hsr',
   root: resolve(import.meta.dirname, '../../..'),
   sources: {

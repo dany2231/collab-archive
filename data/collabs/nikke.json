@@ -1,0 +1,503 @@
+{
+  "game": "nikke",
+  "reviewed": true,
+  "campaigns": [
+    {
+      "id": "anniversary-3rd-2025",
+      "name": "니케 3주년 기념 콜라보",
+      "note": "2025년 10월 3주년에 맞춰 일본에서 동시 전개한 오프라인 콜라보 묶음 (에너지드링크·서점·보조배터리·역 팝업)",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=f6b21047ae72ea4a8ba9e81aaf248e7b770b&sid=496&from=list",
+          "date": "2025-10-27"
+        }
+      ]
+    }
+  ],
+  "collabs": [
+    {
+      "id": "nikke--kyoto-2",
+      "ip": "kyoto-jr-central",
+      "form": "기타",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-08-25",
+      "campaign": null,
+      "note": "교토시·JR 도카이 2탄 「니케와 가는 유실물 찾기 여행」. 니덱 교토 타워 라이트업 포함",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=dba1c03aa84c4a48d6a9141ab0680d754b26&sid=496&from=list",
+          "date": "2026-08-25"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=79d1029cab36ba43d8a803daac5531a53e72&sid=496&from=list",
+          "date": "2026-09-02"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=17b0ad4aa720da46a6a9467a774b380db534&sid=496&from=list",
+          "date": "2026-09-09"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=f49bb654a2806a426daa9a8a114e8c918a14&sid=496&from=list",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    {
+      "id": "nikke--persona",
+      "ip": "persona",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-08-03",
+      "campaign": null,
+      "note": "페르소나 시리즈 콜라보. 페르소나 3 리로드·4 골든 등",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=6f1a3932a9c48a4b71a8f1faae70c25b507b&sid=496&from=list",
+          "date": "2026-08-03"
+        }
+      ]
+    },
+    {
+      "id": "nikke--tokyu-plaza",
+      "ip": "tokyu-plaza",
+      "form": "카페·팝업",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-04-25",
+      "campaign": null,
+      "note": "3.5주년 기념 도큐플라자 오모테산도 「T.T. STAR」 응원 이벤트",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=8be851b0a146ea4286a81c6a36eee31f16cb&sid=496&from=list",
+          "date": "2026-04-21"
+        }
+      ]
+    },
+    {
+      "id": "nikke--razer",
+      "ip": "razer",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-03-24",
+      "campaign": null,
+      "note": "Razer 콜라보 주변기기와 게임 내 연동 시책",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=c10f2c0fa6d29a4826a80baa0b921de64f46&sid=496&from=list",
+          "date": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "nikke--lycoris-recoil",
+      "ip": "lycoris-recoil",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-02-12",
+      "campaign": null,
+      "note": "TV 애니메이션 리코리스 리코일 콜라보",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=3f33bba9aa959a4f86a8c27a0d2207d92d2f&sid=496&from=list",
+          "date": "2026-02-02"
+        }
+      ]
+    },
+    {
+      "id": "nikke--zone-energy",
+      "ip": "zone-energy",
+      "form": "식음료",
+      "regions": [
+        "일본"
+      ],
+      "date": "2025-10-27",
+      "campaign": "anniversary-3rd-2025",
+      "note": "산토리 ZONe ENERGY 콜라보 2탄. 2주년에 이어 진행",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=f6b21047ae72ea4a8ba9e81aaf248e7b770b&sid=496&from=list",
+          "date": "2025-10-27"
+        }
+      ]
+    },
+    {
+      "id": "nikke--jp-bookstores",
+      "ip": "jp-bookstores",
+      "form": "기타",
+      "regions": [
+        "일본"
+      ],
+      "date": "2025-10-27",
+      "campaign": "anniversary-3rd-2025",
+      "note": "오가키서점·히로분칸 서점 체인 콜라보",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=f6b21047ae72ea4a8ba9e81aaf248e7b770b&sid=496&from=list",
+          "date": "2025-10-27"
+        }
+      ]
+    },
+    {
+      "id": "nikke--chargespot",
+      "ip": "chargespot",
+      "form": "브랜드",
+      "regions": [
+        "일본"
+      ],
+      "date": "2025-10-27",
+      "campaign": "anniversary-3rd-2025",
+      "note": "보조배터리 공유 서비스 CHARGESPOT 콜라보",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=f6b21047ae72ea4a8ba9e81aaf248e7b770b&sid=496&from=list",
+          "date": "2025-10-27"
+        }
+      ]
+    },
+    {
+      "id": "nikke--toppa-base-akiba",
+      "ip": "toppa-base-akiba",
+      "form": "카페·팝업",
+      "regions": [
+        "일본"
+      ],
+      "date": "2025-10-27",
+      "campaign": "anniversary-3rd-2025",
+      "note": "JR 아키하바라역 구내 TOPPA!!! BASE AKIBA 팝업",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=f6b21047ae72ea4a8ba9e81aaf248e7b770b&sid=496&from=list",
+          "date": "2025-10-27"
+        }
+      ]
+    },
+    {
+      "id": "nikke--biohazard",
+      "ip": "biohazard",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2025-09-24",
+      "campaign": null,
+      "note": "바이오하자드 콜라보 버전 「REBORN EVIL」. 질·에이다·클레어 등장. Gamescom 2025에서 발표",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=2bd2b374a256fa49dfaa47aac4b7989d2a4c&sid=496&from=list",
+          "date": "2025-08-21"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=36d9e8a7a19bca4f95a9f3ea4f7e305908d7&sid=496&from=list",
+          "date": "2025-09-19"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=595dd9cdaa491a475cab6a0a8b12787d9630&sid=496&from=list",
+          "date": "2025-09-24"
+        }
+      ]
+    },
+    {
+      "id": "nikke--kyoto",
+      "ip": "kyoto-jr-central",
+      "form": "기타",
+      "regions": [
+        "일본"
+      ],
+      "date": "2025-09-11",
+      "campaign": null,
+      "note": "교토시·JR 도카이 「추천 여행」 1탄. 스탬프 회유 여행과 기념 애니메이션",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=52d046b2a0746a49fba82adab5afda760215&sid=496&from=list",
+          "date": "2025-08-22"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=589e854ca0d38a4ffea8561afee61d5e322f&sid=496&from=list",
+          "date": "2025-08-29"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=2d3bfb7baa9caa4a2aa8c77acce720cea039&sid=496&from=list",
+          "date": "2025-09-10"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=ac2dafe9a51bca409ba9b5ea65ebfc4d8867&sid=496&from=list",
+          "date": "2025-09-19"
+        }
+      ]
+    },
+    {
+      "id": "nikke--stellar-blade",
+      "ip": "stellar-blade",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2025-06-13",
+      "campaign": null,
+      "note": "스텔라 블레이드 콜라보. 이브·레이븐·릴리 등장",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=fc446f26a80c5a4862aa444abf8283f8f0de&sid=892&from=list",
+          "date": "2025-06-13"
+        }
+      ]
+    },
+    {
+      "id": "nikke--evangelion-2",
+      "ip": "evangelion",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2025-02-20",
+      "campaign": null,
+      "note": "에반게리온 2차 콜라보",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=d5b76dc6a83fba46c6aa2e1aa5d75314a19c&sid=892&from=list",
+          "date": "2025-02-13"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=ad4434f6a924fa48bda9564ab5a0a672a812&sid=892&from=list",
+          "date": "2025-02-20"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=2694d351a3977a4217a8a2da206c5fd39a03&sid=892&from=list",
+          "date": "2025-02-27"
+        }
+      ]
+    },
+    {
+      "id": "nikke--evangelion",
+      "ip": "evangelion",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2024-08-22",
+      "campaign": null,
+      "note": "에반게리온 1차 콜라보",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=19b2cbdfa3820a421aa8cbbae196b907935b&sid=892&from=list",
+          "date": "2024-08-11"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=215cab2fa3903a4d26a9a1ea366981260925&sid=892&from=list",
+          "date": "2024-08-13"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=6e66e550a707ba4e07abc5fa0e7dad2761c9&sid=892&from=list",
+          "date": "2024-08-22"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=7ef76919acee3a4c83ab3d9a636638168fb2&sid=892&from=list",
+          "date": "2024-09-05"
+        }
+      ]
+    },
+    {
+      "id": "nikke--dave-the-diver",
+      "ip": "dave-the-diver",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2024-06-27",
+      "campaign": null,
+      "note": "데이브 더 다이버 콜라보. 콜라보 뮤직비디오 공개",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=3c2a5cafa5305a4dd8aac5ba78fbcc1c3991&sid=892&from=list",
+          "date": "2024-06-27"
+        }
+      ]
+    },
+    {
+      "id": "nikke--queen-bee",
+      "ip": "queen-bee",
+      "form": "음악",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2024-04-26",
+      "campaign": null,
+      "note": "1.5주년 테마곡을 퀸비와 제작",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=4f6b20e1a26f0a4959a9fe1a18249d3992be&sid=892&from=list",
+          "date": "2024-04-26"
+        }
+      ]
+    },
+    {
+      "id": "nikke--nier",
+      "ip": "nier-automata",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2023-08-18",
+      "campaign": null,
+      "note": "니어: 오토마타 콜라보. 뮤직비디오·UGC 이벤트와 성우 사인 증정 동반",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=29e887e1afa92a4026aaf23a743d5fd33e43&sid=892&from=list",
+          "date": "2023-08-18"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=b3cf24f6a9078a4b2eaa799ae19b5c9efb4c&sid=892&from=list",
+          "date": "2023-09-01"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=e7313bc4a665aa42d4a8fb5a4da4266bbda7&sid=892&from=list",
+          "date": "2023-09-02"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=9462d870adffea493ca9549ae83d993c16c0&sid=892&from=list",
+          "date": "2023-09-04"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=0388790cad3d3a4090aacaca63b2431d54fd&sid=892&from=list",
+          "date": "2023-09-08"
+        }
+      ]
+    },
+    {
+      "id": "nikke--chainsaw-man",
+      "ip": "chainsaw-man",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2023-02-15",
+      "campaign": null,
+      "note": "체인소맨 콜라보. 마키마·파워·히메노 등장, 성우 사인 증정 이벤트 동반",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=299c880ea5ad4a42ecaa16aa165bb0e2015c&sid=892&from=list",
+          "date": "2023-02-15"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=07b79bc5a7d31a4c5ea97cca6964acfb346a&sid=892&from=list",
+          "date": "2023-02-22"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=1d99e785a9769a4902aad2dab0f08d35be81&sid=892&from=list",
+          "date": "2023-02-25"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=2fe30785a47b3a4291a9a6aabed708852728&sid=892&from=list",
+          "date": "2023-02-26"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://nikke-en.com/newsdetail.html?content_id=befaf4fba515ea409dab10fa8b9b8abf6d2e&sid=892&from=list",
+          "date": "2023-02-27"
+        }
+      ]
+    },
+    {
+      "id": "nikke--game8",
+      "ip": "game8",
+      "form": "기타",
+      "regions": [
+        "일본"
+      ],
+      "date": "2022-12-07",
+      "campaign": null,
+      "note": "공략 위키 Game8과 함께한 「앰배서더 결정전」",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=4eeb2c3ba9d2da4ea6a8034ad61ced233a7c&sid=496&from=list",
+          "date": "2022-12-08"
+        }
+      ]
+    },
+    {
+      "id": "nikke--pixiv",
+      "ip": "pixiv",
+      "form": "기타",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2022-11-24",
+      "campaign": null,
+      "note": "pixiv와 함께 연 일러스트 콘테스트",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://nikke-jp.com/newsdetail.html?content_id=97a7f59ca08d9a4137a86f1a4f210aa06b54&sid=496&from=list",
+          "date": "2022-11-24"
+        }
+      ]
+    },
+    {
+      "id": "nikke--sawano",
+      "ip": "sawano-hiroyuki",
+      "form": "음악",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2022-10-27",
+      "campaign": null,
+      "note": "작곡가 사와노 히로유키와 함께한 음악 협업",
+      "articles": [
+        {
+          "locale": "ko-kr",
+          "url": "https://nikke-kr.com/newsdetail.html?content_id=fbe38fdba6f58a4a32a8d9fa5af9d7206663&sid=496&from=list",
+          "date": "2022-10-27"
+        }
+      ]
+    }
+  ]
+}

@@ -724,5 +724,47 @@
     "reason": "커뮤니티 댓글 이벤트",
     "date": "2026-05-18",
     "title_ko": "[커뮤니티 이벤트] 선생님께서 가장 기대하는 미래의 이야기는? 댓글 이벤트"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000208.000108434.html": {
+    "decision": "collab",
+    "collab": "bluearchive--round1",
+    "date": "2026-03-06",
+    "title_ko": "「블루 아카이브」×ROUND1의 콜라보레이션 캠페인이 개최 결정!"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000009.000093589.html": {
+    "decision": "collab",
+    "collab": "bluearchive--nagoya-walk",
+    "date": "2026-04-28",
+    "title_ko": "블루 아카이브 ～초여름 포포, 함께 매달려 나고야 산포♪～개최 결정!"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000463.000062100.html": {
+    "decision": "collab",
+    "collab": "bluearchive--ariake-garden",
+    "date": "2026-05-20",
+    "title_ko": "「블루 아카이브」×「아리아케 가든」콜라보 캠페인 개최!"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000655.000044525.html": {
+    "decision": "collab",
+    "collab": "bluearchive--amicis",
+    "date": "2026-06-01",
+    "title_ko": "AMICIS로부터, 「블루 아카이브 -Blue Archive-」콜라보 유리 마우스 패드 수주 판매의 접수 개시!"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000574.000096287.html": {
+    "decision": "collab",
+    "collab": "bluearchive--zozotown",
+    "date": "2026-08-06",
+    "title_ko": "「블루 아카이브」×ZOZOTOWN 콜라보레이션 제2탄! “블랙 밀리터리”를 컨셉으로 한 한정 아이템을 8월 13일부터 수주 판매"
+  },
+  "https://prtimes.jp/main/html/rd/p/000009435.000016064.html": {
+    "decision": "collab",
+    "collab": "bluearchive--sengawa-onsen",
+    "date": "2026-08-17",
+    "title_ko": "「블루 아카이브」×「센가와 유 케무리노사토」의 콜라보레이션 아이템의 수주를 개시! ! 애니메이션 · 만화의 오리지널 상품을 판매하는 「AMNIBUS」에서"
+  },
+  "https://prtimes.jp/main/html/rd/p/000001993.000025284.html": {
+    "decision": "collab",
+    "collab": "bluearchive--ueni-watch",
+    "date": "2026-08-26",
+    "title_ko": "대인기 스마트폰용 게임 「블루 아카이브 -Blue Archive-」에 등장하는, 하이랜더 철도 학원 소속의 히카리와 노조미로부터의 선물을 이미지 한 기계식 시계가 등장!"
   }
 }

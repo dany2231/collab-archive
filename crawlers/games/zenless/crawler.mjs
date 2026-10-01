@@ -18,8 +18,8 @@ const LOCALES = ['ko-kr', 'ja-jp', 'en-us'];
 // 호요랩·미유서 공식 게시물은 공통 실행부가 처리한다. 공식 사이트에 없는 콜라보 공지가
 // 여기에만 올라오는 일이 많다. gids 8은 젠레스 존 제로다.
 if (process.argv.slice(2).join(' ').includes('hoyolab')) {
-  const { crawlHoyoContent, hoyolabGlobal, hoyolabCn } = await import('../../lib/hoyo-content.mjs');
-  await crawlHoyoContent({
+  const { crawlContentApi, hoyolabGlobal, hoyolabCn } = await import('../../lib/content-api.mjs');
+  await crawlContentApi({
     game: GAME, root: ROOT,
     sources: { 'hoyolab-ko': hoyolabGlobal({ gids: 8 }), 'hoyolab-zh': hoyolabCn({ gids: 8, slug: 'zzz' }) },
   });

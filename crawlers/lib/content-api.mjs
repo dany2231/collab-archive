@@ -7,13 +7,16 @@ import { matchArticle } from './keywords.mjs';
 import { csv, isoDate, readJson, writeJson, mergeCandidates } from './output.mjs';
 import { htmlToText, structuredText } from './text.mjs';
 import { serveArticles } from './local-page.mjs';
+import { listPrTimes } from './prtimes.mjs';
 import { TRANSLATE_ARGS, TRANSLATE_IGNORE_DEFAULT_ARGS, declarePageLanguage, enableAlwaysTranslate, promptTranslation, waitForTranslatedClass, waitForTranslation } from './translate.mjs';
 
-// 호요버스 계열 게임의 공통 실행부. 두 종류의 목록 API를 지원한다.
+// 목록을 받아오는 게임들의 공통 실행부. 네 종류의 목록 방식을 지원한다.
 //  - 공식 사이트(content_v2_user): 페이지 번호로 넘긴다.
 //  - 호요랩·미유서 공식 게시물(getNewsList): 커서(last_id)로 넘긴다. 공식 사이트에 올라오지 않는
 //    콜라보 공지가 여기에만 있는 경우가 많다 (예: 붕괴: 스타레일 × 포트나이트).
-// 두 경로 모두 목록이 본문까지 주므로 1단계는 브라우저 없이 끝나고, 2단계에서 후보만 번역한다.
+//  - 레벨 인피니트 CMS(GetContentByLabel): offset으로 넘긴다 (니케).
+//  - PR TIMES 보도자료: 검색과 회사별 RSS를 함께 읽는다 (prtimes.mjs).
+// 모두 1단계에서 목록과 본문을 모아 후보를 고르고, 2단계에서 후보만 번역한다.
 // 한국어 원문은 번역이 필요 없고, 일본어·중국어는 본문을 로컬 페이지로 띄워 Chrome 번역에 태운다.
 const PAGE_SIZE = 100;
 
@@ -86,6 +89,56 @@ export const hoyolabCn = ({ gids, slug }) => ({
   url: id => `https://www.miyoushe.com/${slug}/article/${id}`,
 });
 
+// 레벨 인피니트(플레이어인피니트) CMS. 목록이 본문(content_part)까지 주고, 언어별로 내용이 다르다.
+// 한 번에 최대 20건이라 offset을 20씩 밀어가며 받는다.
+const PLAYER_INFINITE_PAGE = 20;
+async function* listPlayerInfinite(source, locale, { categories, maxPages, retry, apiDelay }) {
+  for (const channel of categories) {
+    for (let page = 1; page <= maxPages; page++) {
+      const offset = (page - 1) * PLAYER_INFINITE_PAGE;
+      const data = await retry(() => postJson(`${source.api}/GetContentByLabel`, source.headers, {
+        language: [source.language], gameid: source.gameId, offset, get_num: PLAYER_INFINITE_PAGE,
+        ext_info_type_list: [0, 1, 2], secondary_label_id: channel.id, primary_label_id: channel.parent,
+      }), `${channel.name} page ${page}`);
+      const list = data.info_content ?? [];
+      const pages = Math.ceil((data.total_num ?? 0) / PLAYER_INFINITE_PAGE);
+      yield {
+        label: `${channel.name} ${page}/${pages}`,
+        rows: list.map(post => ({
+          id: post.content_id, url: source.url(post.content_id, channel), title: htmlToText(post.title),
+          // pub_timestamp는 초 단위다.
+          date: isoDate(new Date(Number(post.pub_timestamp) * 1000).toISOString()),
+          category: channel.name, html: post.content_part || post.content_desc || '',
+        })),
+      };
+      if (!list.length || page >= pages) break;
+      if (page === maxPages) return false;
+      await sleep(apiDelay);
+    }
+  }
+  return true;
+}
+
+// 니케 등 레벨 인피니트 게임의 공식 사이트 소스. 언어마다 올라오는 공지가 달라 각각 받아야 한다.
+export const playerInfinite = ({ gameId, area = 'na', language, site, channels, lang = null }) => ({
+  api: `https://${area}-community.playerinfinite.com/api/gpts.information_feeds_svr.InformationFeedsSvr`,
+  gameId: String(gameId), language, channels, defaults: Object.keys(channels).join(','), lang,
+  headers: {
+    'Content-Type': 'application/json;charset=utf-8',
+    'X-GameId': String(gameId), 'X-AreaId': area, 'X-Source': 'pc_web', 'X-Language': language,
+    Referer: `${site}/`,
+  },
+  url: (id, channel) => `${site}/newsdetail.html?content_id=${id}&sid=${channel.id}&from=list`,
+});
+
+async function postJson(url, headers, body) {
+  const response = await fetch(url, { method: 'POST', headers, body: JSON.stringify(body), signal: AbortSignal.timeout(30000) });
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  const json = await response.json();
+  if (json.code !== 0 || !json.data) throw new Error(`API error ${json.code}: ${json.msg}`);
+  return json.data;
+}
+
 async function fetchJson(url, headers) {
   const response = await fetch(url, { headers, signal: AbortSignal.timeout(30000) });
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -95,7 +148,7 @@ async function fetchJson(url, headers) {
 }
 
 // config: { game, root, sources }  sources[locale] = { api, appId, url, channels, defaults, lang }
-export async function crawlHoyoContent({ game: GAME, root: ROOT, sources: SOURCES }) {
+export async function crawlContentApi({ game: GAME, root: ROOT, sources: SOURCES }) {
   const args = cli();
   const locale = args.option('--locale', 'ko-kr');
   const source = SOURCES[locale];
@@ -174,7 +227,8 @@ export async function crawlHoyoContent({ game: GAME, root: ROOT, sources: SOURCE
   }
 
   // ── 1단계: 목록과 키워드 후보 (브라우저 없음) ──
-  const pages = (source.gids ? listHoyolab : listSite)(source, locale, { categories, maxPages, retry, apiDelay });
+  const list = source.prtimes ? listPrTimes : source.gameId ? listPlayerInfinite : source.gids ? listHoyolab : listSite;
+  const pages = list(source, locale, { categories, maxPages, retry, apiDelay });
   let listingComplete = true;
   while (true) {
     const { value, done } = await pages.next();

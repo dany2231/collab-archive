@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import { matchArticle } from './keywords.mjs';
 import { csv, isoDate } from './output.mjs';
 import { htmlToText, structuredText } from './text.mjs';
+import { FIGURE } from './prtimes.mjs';
 
 test('matches collaboration keywords in Korean, Japanese and English', () => {
   assert.equal(matchArticle(['COLLABORATION!'], '').matched_in, 'title');
@@ -66,4 +67,15 @@ test('structuredText reads Quill delta bodies and ignores broken input', () => {
   assert.equal(structuredText(delta), '콜라보\n안내');
   assert.equal(structuredText('ko-kr'), '');
   assert.equal(structuredText(null), '');
+});
+
+test('figure releases are kept out of PR TIMES candidates', () => {
+  // 제작사 보도자료 대부분이 피규어 발매다. 상대 브랜드가 없어 콜라보로 보지 않는다.
+  assert.equal(FIGURE.test('『ブルーアーカイブ』より、「ナギサ」がスケールフィギュアになって登場！！'), true);
+  assert.equal(FIGURE.test('大人気ゲーム『ブルーアーカイブ』より「ヒナ」がねんどろいどに'), true);
+  // figma는 굿스마일의 액션 피규어 브랜드다.
+  assert.equal(FIGURE.test('『ブルーアーカイブ』より、「シロコ＊テラー」がfigmaで登場です！'), true);
+  // 브랜드와 함께하는 기획은 남긴다.
+  assert.equal(FIGURE.test('「ブルーアーカイブ」× ZOZOTOWNコラボ第2弾！'), false);
+  assert.equal(FIGURE.test('『ブルーアーカイブ』×「東武動物公園」のコラボレーションアイテムの受注を開始'), false);
 });

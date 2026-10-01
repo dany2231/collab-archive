@@ -1,6 +1,6 @@
 /* Layout and components. Semantic values live in design-tokens.css. */
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; scroll-padding-top: 88px; -webkit-text-size-adjust: 100%; }
+html { scroll-behavior: smooth; scroll-padding-top: calc(var(--nav-height) + var(--sticky-offset, 0px) + 24px); -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--page); color: var(--ink); font: var(--font-sm)/1.6 var(--font-sans); word-break: keep-all; }
 button, input, select { font: inherit; }
 button, select { cursor: pointer; }
@@ -42,6 +42,10 @@ main.wrap { padding-top: 18px; padding-bottom: 32px; display: grid; gap: 28px; }
 .hint { color: var(--muted); font-size: 12px; line-height: 1.6; margin-top: 5px; }
 .filters { padding: 0 0 24px; border-bottom: 1px solid var(--border); }
 .filters .card__head { margin-bottom: 16px; }
+@media(min-width:768px) {
+  /* 필터는 스크롤 중 상단 메뉴 바로 아래에 붙는다. 음수 여백으로 평소 배치는 유지한다. */
+  .filters { position: sticky; top: var(--nav-height); z-index: 10; margin-top: -16px; padding-top: 16px; background: var(--page); }
+}
 #count { font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
 .filters__row { display: grid; grid-template-columns: minmax(230px, 2.2fr) repeat(3,minmax(110px,1fr)) 90px; gap: 12px; align-items: end; }
 .filters label { display: grid; gap: 7px; color: var(--muted); font-size: 11px; line-height: 1.4; }
@@ -93,6 +97,10 @@ input::placeholder { color: var(--muted); opacity: 1; }
 .bar__track { height: 5px; background: var(--grid); border-radius: 2px; overflow: hidden; }
 .bar__fill { height: 100%; min-width: 3px; background: var(--c, var(--ink-2)); border-radius: 2px; }
 .bar__value { color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+.notes { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 20px 32px; }
+.note h3 { display: flex; align-items: baseline; gap: 8px; font-size: 14px; font-weight: 600; line-height: 1.5; }
+.note__count { color: var(--muted); font-size: 11px; font-weight: 400; font-variant-numeric: tabular-nums; }
+.note p { margin-top: 7px; color: var(--ink-2); font-size: 13px; line-height: 1.7; word-break: keep-all; }
 .list-count { margin-left: 6px; padding: 2px 7px; border-radius: 4px; background: var(--wash); font-size: 12px; color: var(--muted); font-weight: 500; vertical-align: middle; }
 .list-columns, .item { display: grid; grid-template-columns: minmax(200px,2.4fr) 132px minmax(75px,.8fr) 96px 112px; column-gap: 20px; }
 .list-columns { padding: 12px 14px; border-bottom: 1px solid var(--border); color: var(--muted); font-size: 11px; }
@@ -151,6 +159,7 @@ footer a { white-space: nowrap; text-decoration: none; }
   :root { --font-title: 30px; }
   html { scroll-padding-top: 80px; }
   .wrap { padding-inline: 16px; }
+  .notes { grid-template-columns: minmax(0,1fr); gap: 18px; }
   .top__inner { gap: 10px; }
   .brand { font-size: 16px; gap: 8px; }
   .brand__mark { width: 24px; height: 24px; }

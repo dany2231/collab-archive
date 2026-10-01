@@ -15,6 +15,29 @@ import { TRANSLATE_ARGS, TRANSLATE_IGNORE_DEFAULT_ARGS, declarePageLanguage, ena
 // 일본 기사 페이지는 직접 열면 본문이 렌더링되지 않아, 받아 둔 본문을 로컬 페이지로 띄워 번역한다.
 const GAME = 'bluearchive';
 const ROOT = resolve(import.meta.dirname, '../../..');
+
+// 일본 공식 사이트에는 인게임 소식만 올라온다. 카페·팝업·브랜드 협업은 파트너사가
+// PR TIMES에 보도자료로 낸다. 그쪽은 공통 실행부가 처리한다 (시험 단계).
+if (process.argv.slice(2).join(' ').includes('prtimes')) {
+  const { crawlContentApi } = await import('../../lib/content-api.mjs');
+  const { prtimes } = await import('../../lib/prtimes.mjs');
+  await crawlContentApi({
+    game: GAME, root: ROOT,
+    sources: {
+      'ja-prtimes': prtimes({
+        game: ['ブルアカ', 'ブルーアーカイブ', 'Blue Archive'],
+        keywords: ['ブルアカ', 'ブルーアーカイブ'],
+        // 블루 아카이브 보도자료를 자주 내는 회사들. 검색이 최근 40건만 주므로 과거분을 이쪽으로 메운다.
+        companies: [
+          { id: 42572, name: '굿스마일컴퍼니' }, { id: 16064, name: 'arma bianca' },
+          { id: 46985, name: 'MAGES.' }, { id: 96287, name: 'ZOZO' },
+          { id: 125641, name: '카이요도' }, { id: 91484, name: '사우전드' },
+        ],
+      }),
+    },
+  });
+  process.exit(process.exitCode ?? 0);
+}
 const KR_API = 'https://forum.nexon.com/api/v1';
 const KR_THREAD_URL = id => `https://forum.nexon.com/bluearchive/board_view?thread=${id}`;
 const KR_BOARDS = { notice: { id: 1018, name: '공지사항' }, events: { id: 1039, name: '진행 이벤트' }, past: { id: 1053, name: '종료 이벤트' } };

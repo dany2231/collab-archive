@@ -1,6 +1,6 @@
 {
   "game": "bluearchive",
-  "reviewed": true,
+  "reviewed": false,
   "campaigns": [],
   "collabs": [
     {
@@ -18,6 +18,60 @@
           "locale": "ko-kr",
           "url": "https://forum.nexon.com/bluearchive/board_view?thread=3545162",
           "date": "2026-09-17"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--ueni-watch",
+      "ip": "ueni-trading",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-08-31",
+      "campaign": null,
+      "note": "하이랜더 철도 학원 히카리·노조미 모델 기계식 시계. 오리지널 워치 3탄",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000001993.000025284.html",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--zozotown",
+      "ip": "zozotown",
+      "form": "브랜드",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-08-13",
+      "campaign": null,
+      "note": "ZOZOTOWN 한정 「BLACK COLLECTION」 2탄. 게헤나 학원 4인 의상을 재현한 8종",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000000574.000096287.html",
+          "date": "2026-08-06"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--sengawa-onsen",
+      "ip": "sengawa-onsen",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-08-08",
+      "campaign": null,
+      "note": "센가와 유케무리노사토 온천 콜라보 아이템. AMNIBUS에서 수주",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000009435.000016064.html",
+          "date": "2026-08-17"
         }
       ]
     },
@@ -54,6 +108,24 @@
           "locale": "ko-kr",
           "url": "https://forum.nexon.com/bluearchive/board_view?thread=3473590",
           "date": "2026-06-12"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--amicis",
+      "ip": "amicis",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-06-01",
+      "campaign": null,
+      "note": "AMICIS 콜라보 유리 마우스패드 5종 기간 한정 수주",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000000655.000044525.html",
+          "date": "2026-06-01"
         }
       ]
     },
@@ -109,6 +181,24 @@
       ]
     },
     {
+      "id": "bluearchive--nagoya-walk",
+      "ip": "nagoya-walk",
+      "form": "기타",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-05-22",
+      "campaign": null,
+      "note": "5주년 기념 전국 5개 도시 스탬프랠리 2탄. 나고야 오스 상점가, 스파게티 하우스 요코이, 명과 나고야조와 함께 진행",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000000009.000093589.html",
+          "date": "2026-04-28"
+        }
+      ]
+    },
+    {
       "id": "bluearchive--redcross-2",
       "ip": "redcross",
       "form": "기타",
@@ -132,6 +222,24 @@
       ]
     },
     {
+      "id": "bluearchive--ariake-garden",
+      "ip": "ariake-garden",
+      "form": "카페·팝업",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-05-21",
+      "campaign": null,
+      "note": "「브루아카 뮤직 3D LIVE」 공연 기념 쇼핑몰 캠페인. 콜라보 푸드·드링크와 관내 BGM 잭",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000000463.000062100.html",
+          "date": "2026-05-20"
+        }
+      ]
+    },
+    {
       "id": "bluearchive--moderoid",
       "ip": "moderoid",
       "form": "굿즈·하드웨어",
@@ -146,6 +254,24 @@
           "locale": "ko-kr",
           "url": "https://forum.nexon.com/bluearchive/board_view?thread=3443182",
           "date": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "id": "bluearchive--round1",
+      "ip": "round1",
+      "form": "브랜드",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-03-06",
+      "campaign": null,
+      "note": "라운드원 점포에서 만마전 5인 신규 일러스트 굿즈 판매",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000000208.000108434.html",
+          "date": "2026-03-06"
         }
       ]
     },

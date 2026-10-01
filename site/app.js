@@ -276,6 +276,19 @@ function render() {
   renderBars('by-region', [...countBy(list, c => c.regions)].sort((a, b) => b[1] - a[1]));
   renderBars('by-year', [...countBy(list, c => `${c.date.slice(0, 4)}년`)].sort((a, b) => a[0].localeCompare(b[0])));
   renderList(list);
+  renderNotes(list);
+}
+
+// 게임별 성향 요약. 게임을 고르면 해당 게임만 남긴다.
+function renderNotes(list) {
+  const counts = countBy(list, c => c.game);
+  const notes = data.games.filter(game => game.summary && counts.get(game.id));
+  $('notes-section').hidden = !notes.length;
+  $('notes').innerHTML = notes.map(game => `
+    <article class="note">
+      <h3>${esc(game.name)} <span class="note__count">${counts.get(game.id)}건</span></h3>
+      <p>${esc(game.summary)}</p>
+    </article>`).join('');
 }
 
 // 전체 데이터 규모와 갱신일을 표시한다.
@@ -301,7 +314,7 @@ const navLinks = [...document.querySelectorAll('.section-nav a')];
 const sections = navLinks.map(link => document.querySelector(link.getAttribute('href')));
 function updateNav() {
   let current = sections[0];
-  for (const section of sections) if (section.getBoundingClientRect().top <= 150) current = section;
+  for (const section of sections) if (section.getBoundingClientRect().top <= 150 + (parseFloat(document.documentElement.style.getPropertyValue('--sticky-offset')) || 0)) current = section;
   for (const link of navLinks) {
     if (link.hash === '#' + current.id) link.setAttribute('aria-current', 'location');
     else link.removeAttribute('aria-current');
@@ -319,3 +332,7 @@ $('search-shortcut').addEventListener('click',focusSearch);
 addEventListener('keydown',event=>{ if((event.ctrlKey||event.metaKey)&&event.key.toLowerCase()==='k'){event.preventDefault();focusSearch();} });
 function updateHeader(){document.querySelector('.top').classList.toggle('is-scrolled',scrollY>24);}
 addEventListener('scroll',updateHeader,{passive:true});updateHeader();
+
+// 고정된 필터 높이만큼 구역 이동 여백을 늘린다. 모바일에서는 고정하지 않으므로 0이다.
+function syncStickyOffset(){const filters=$('search-section');const sticky=getComputedStyle(filters).position==='sticky';document.documentElement.style.setProperty('--sticky-offset',(sticky?filters.offsetHeight:0)+'px');}
+new ResizeObserver(syncStickyOffset).observe($('search-section'));matchMedia('(min-width:768px)').addEventListener('change',syncStickyOffset);syncStickyOffset();

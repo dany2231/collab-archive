@@ -126,20 +126,20 @@
     "title_ko": "젠 제로 × 야마하 모터 사이클 콜라보레이션 공개"
   },
   "https://zenless.hoyoverse.com/en-us/news/162388": {
-    "decision": "review",
-    "reason": "엔젤디 응원 이벤트. 애니플러스·애플 팝업과 연계된 것으로 보이나 본문만으로는 불확실",
+    "decision": "exclude",
+    "reason": "상대를 특정하지 못해 제외 (엔젤디 응원 이벤트. 애니플러스·애플 팝업과 연계된 것으로 보이나 본문만으로는 불확실)",
     "date": "2026-01-30",
     "title_ko": "슈가 러시 — 지원, 시작!"
   },
   "https://zenless.hoyoverse.com/ja-jp/news/162388": {
-    "decision": "review",
-    "reason": "엔젤디 응원 이벤트. 애니플러스·애플 팝업과 연계된 것으로 보이나 본문만으로는 불확실",
+    "decision": "exclude",
+    "reason": "상대를 특정하지 못해 제외 (엔젤디 응원 이벤트. 애니플러스·애플 팝업과 연계된 것으로 보이나 본문만으로는 불확실)",
     "date": "2026-01-30",
     "title_ko": "스위트 크래시——응원 스타트!"
   },
   "https://zenless.hoyoverse.com/ko-kr/news/162388": {
-    "decision": "review",
-    "reason": "엔젤디 응원 이벤트. 애니플러스·애플 팝업과 연계된 것으로 보이나 본문만으로는 불확실",
+    "decision": "exclude",
+    "reason": "상대를 특정하지 못해 제외 (엔젤디 응원 이벤트. 애니플러스·애플 팝업과 연계된 것으로 보이나 본문만으로는 불확실)",
     "date": "2026-01-30",
     "title_ko": "설렘 폭발——응원 개시!"
   },
