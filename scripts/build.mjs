@@ -7,7 +7,7 @@ import { readJson, writeJson } from '../crawlers/lib/output.mjs';
 const ROOT = resolve(import.meta.dirname, '..');
 export const FORMS = ['인게임', '식음료', '카페·팝업', '굿즈·하드웨어', '브랜드', '음악', '기타'];
 // URL, ID, 날짜처럼 표시용 텍스트가 아닌 값은 검사하지 않는다.
-const NOT_TEXT = new Set(['id', 'ip', 'game', 'url', 'locale', 'date', 'generated']);
+const NOT_TEXT = new Set(['id', 'ip', 'game', 'url', 'thumb', 'locale', 'date', 'generated']);
 const DATE = /^\d{4}-\d{2}-\d{2}$/;
 
 const errors = [];
@@ -45,7 +45,7 @@ for (const file of files) {
 const dashboard = {
   generated: new Date().toISOString(),
   forms: FORMS,
-  games: games.map(({ id, name, summary }) => ({ id, name, summary })),
+  games: games.map(({ id, name, summary, thumb }) => ({ id, name, summary, thumb })),
   collabs: collabs.sort((a, b) => b.date.localeCompare(a.date)),
   campaigns,
 };

@@ -1,0 +1,1025 @@
+{
+  "game": "wuwa",
+  "reviewed": false,
+  "campaigns": [
+    {
+      "id": "persona-sonic-2025",
+      "name": "3.0 버전 페르소나·소닉 콜라보",
+      "note": "3.0 버전에서 한 이벤트로 연 두 콜라보. 페르소나 5 로열·3 리로드와 소닉",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3800",
+          "date": "2025-12-18"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/3798",
+          "date": "2025-12-18"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/3799",
+          "date": "2025-12-18"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/3813",
+          "date": "2025-12-19"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/3922",
+          "date": "2025-12-25"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3920",
+          "date": "2025-12-25"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/3915",
+          "date": "2025-12-25"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/3923",
+          "date": "2025-12-25"
+        }
+      ]
+    },
+    {
+      "id": "crossworld-sync-2026",
+      "name": "크로스월드 싱크",
+      "note": "3.3 버전 기간에 1부(바이오하자드·앵그리버드·괴수 8호), 2부(프라그마타·라이더스 리퍼블릭·하이큐!!)로 나눠 연 인게임 콜라보 묶음",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4547",
+          "date": "2026-04-22"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4546",
+          "date": "2026-04-22"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4551",
+          "date": "2026-04-23"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4609",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4613",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4614",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/4615",
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "anniversary-1st-2025",
+      "name": "명조 1주년 일본 오프라인 콜라보",
+      "note": "2025년 5~6월 1주년에 맞춰 일본에서 이어서 연 카페·굿즈·팝업·향수 콜라보 묶음",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/2591",
+          "date": "2025-05-04"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/2680",
+          "date": "2025-05-24"
+        }
+      ]
+    }
+  ],
+  "collabs": [
+    {
+      "id": "wuwa--persona",
+      "ip": "persona",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2025-12-25",
+      "campaign": "persona-sonic-2025",
+      "note": "페르소나 5 로열·페르소나 3 리로드 테마 콜라보 이벤트. 이벤트 과제를 달성하면 콜라보 오토바이 도색과 육성 재료를 받음",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3800",
+          "date": "2025-12-18"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/3798",
+          "date": "2025-12-18"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/3799",
+          "date": "2025-12-18"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/3813",
+          "date": "2025-12-19"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/3922",
+          "date": "2025-12-25"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3920",
+          "date": "2025-12-25"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/3915",
+          "date": "2025-12-25"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/3923",
+          "date": "2025-12-25"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--sonic",
+      "ip": "sonic",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2025-12-25",
+      "campaign": "persona-sonic-2025",
+      "note": "페르소나와 함께 3.0 버전에서 연 콜라보 이벤트. 콜라보 도색과 육성 재료 지급",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3800",
+          "date": "2025-12-18"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/3798",
+          "date": "2025-12-18"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/3799",
+          "date": "2025-12-18"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/3813",
+          "date": "2025-12-19"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/3922",
+          "date": "2025-12-25"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3920",
+          "date": "2025-12-25"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/3915",
+          "date": "2025-12-25"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/3923",
+          "date": "2025-12-25"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--biohazard",
+      "ip": "biohazard",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-04-30",
+      "campaign": "crossworld-sync-2026",
+      "note": "바이오하자드 30주년 콜라보. 「크로스월드 싱크 1부」 이벤트",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4547",
+          "date": "2026-04-22"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4546",
+          "date": "2026-04-22"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4551",
+          "date": "2026-04-23"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4609",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4613",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4614",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/4615",
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--angry-birds",
+      "ip": "angry-birds",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-04-30",
+      "campaign": "crossworld-sync-2026",
+      "note": "「크로스월드 싱크 1부」 이벤트",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4547",
+          "date": "2026-04-22"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4546",
+          "date": "2026-04-22"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4551",
+          "date": "2026-04-23"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4609",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4613",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4614",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/4615",
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--kaiju-no-8",
+      "ip": "kaiju-no-8",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-04-30",
+      "campaign": "crossworld-sync-2026",
+      "note": "「크로스월드 싱크 1부」 이벤트",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4547",
+          "date": "2026-04-22"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4546",
+          "date": "2026-04-22"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4551",
+          "date": "2026-04-23"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4609",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4613",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4614",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/4615",
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--pragmata",
+      "ip": "pragmata",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-05-21",
+      "campaign": "crossworld-sync-2026",
+      "note": "「크로스월드 싱크 2부」 이벤트",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4547",
+          "date": "2026-04-22"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4546",
+          "date": "2026-04-22"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4551",
+          "date": "2026-04-23"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4609",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4613",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4614",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/4615",
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--riders-republic",
+      "ip": "riders-republic",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-05-21",
+      "campaign": "crossworld-sync-2026",
+      "note": "「크로스월드 싱크 2부」 이벤트",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4547",
+          "date": "2026-04-22"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4546",
+          "date": "2026-04-22"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4551",
+          "date": "2026-04-23"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4609",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4613",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4614",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/4615",
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--haikyu",
+      "ip": "haikyu",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-05-21",
+      "campaign": "crossworld-sync-2026",
+      "note": "「크로스월드 싱크 2부」 이벤트 (애니메이션 하이큐!!)",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4547",
+          "date": "2026-04-22"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4546",
+          "date": "2026-04-22"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4551",
+          "date": "2026-04-23"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4609",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4613",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4614",
+          "date": "2026-04-30"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/4615",
+          "date": "2026-04-30"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--cyberpunk-edgerunners",
+      "ip": "cyberpunk-edgerunners",
+      "form": "인게임",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-06-08",
+      "campaign": null,
+      "note": "3.4 버전 전체를 쓴 대형 콜라보. 콜라보 캐릭터 루시·레베카, 무기 2종, 전용 퀘스트·이벤트·소집(뽑기)",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4739",
+          "date": "2026-05-29"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4761",
+          "date": "2026-05-29"
+        },
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000000033.000144940.html",
+          "date": "2026-05-30"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4772",
+          "date": "2026-06-01"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4764",
+          "date": "2026-06-01"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4765",
+          "date": "2026-06-01"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4767",
+          "date": "2026-06-01"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4774",
+          "date": "2026-06-03"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4836",
+          "date": "2026-06-07"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4844",
+          "date": "2026-06-07"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4852",
+          "date": "2026-06-07"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4860",
+          "date": "2026-06-07"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4837",
+          "date": "2026-06-07"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4845",
+          "date": "2026-06-07"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4853",
+          "date": "2026-06-07"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4861",
+          "date": "2026-06-07"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/4838",
+          "date": "2026-06-07"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/4846",
+          "date": "2026-06-07"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/4854",
+          "date": "2026-06-07"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/4862",
+          "date": "2026-06-07"
+        },
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/4826",
+          "date": "2026-06-08"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4819",
+          "date": "2026-06-08"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4821",
+          "date": "2026-06-08"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/4814",
+          "date": "2026-06-08"
+        },
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4906",
+          "date": "2026-06-14"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4911",
+          "date": "2026-06-14"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/4912",
+          "date": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--betop",
+      "ip": "betop",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-08-02",
+      "campaign": null,
+      "note": "인린·지옌 테마 게임패드 선물 세트(명조 UI 탑재 스마트 콘솔, 높이 조절 조이스틱 캡 포함)",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/1094",
+          "date": "2024-08-02"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--apple-store",
+      "ip": "apple-store",
+      "form": "브랜드",
+      "regions": [
+        "중국"
+      ],
+      "date": "2024-08-19",
+      "campaign": null,
+      "note": "중국 전역 3,000여 개 애플 공인 매장에서 연 오프라인 「단순하지 않아! 공명자」 테마 행사",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/1212",
+          "date": "2024-08-19"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--animate-popup",
+      "ip": "animate",
+      "form": "카페·팝업",
+      "regions": [
+        "일본"
+      ],
+      "date": "2024-12-30",
+      "campaign": null,
+      "note": "겨울의 초대 시리즈 굿즈 판매 팝업. 일부 굿즈가 제작 불량으로 빠져 행사 뒤 온라인 판매로 돌림",
+      "articles": [
+        {
+          "locale": "en-us",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1772",
+          "date": "2024-12-11"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/1746",
+          "date": "2024-12-11"
+        },
+        {
+          "locale": "ko-kr",
+          "url": "https://wutheringwaves.kurogames.com/kr/main/news/detail/1777",
+          "date": "2024-12-11"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--animate-cafe",
+      "ip": "animate",
+      "form": "카페·팝업",
+      "regions": [
+        "일본"
+      ],
+      "date": "2025-05-30",
+      "campaign": "anniversary-1st-2025",
+      "note": "1주년 페스 아키하바라 행사장 안에서 연 애니메이트 카페 출장판. 공명자 이미지 음료와 코스터 특전",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/2591",
+          "date": "2025-05-04"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/2680",
+          "date": "2025-05-24"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--sweets-paradise",
+      "ip": "sweets-paradise",
+      "form": "식음료",
+      "regions": [
+        "일본"
+      ],
+      "date": "2025-05-03",
+      "campaign": "anniversary-1st-2025",
+      "note": "스위츠 파라다이스 7개 매장 콜라보 메뉴·코스터·굿즈 (매장별 기간 다름)",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/2591",
+          "date": "2025-05-04"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/2680",
+          "date": "2025-05-24"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--village-vanguard",
+      "ip": "village-vanguard",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "일본"
+      ],
+      "date": "2025-05-04",
+      "campaign": "anniversary-1st-2025",
+      "note": "빌리지 뱅가드 한정 굿즈와 새로 그린 장리·피비 일러스트",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/2591",
+          "date": "2025-05-04"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/2680",
+          "date": "2025-05-24"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--marui",
+      "ip": "marui",
+      "form": "카페·팝업",
+      "regions": [
+        "일본"
+      ],
+      "date": "2025-06-06",
+      "campaign": "anniversary-1st-2025",
+      "note": "마루이 팝업 스토어 (6월 난바 마루이, 6월 21일부터 신주쿠 마루이 아넥스)",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/2591",
+          "date": "2025-05-04"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/2680",
+          "date": "2025-05-24"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--anideal",
+      "ip": "anideal",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "일본"
+      ],
+      "date": "2025-05-04",
+      "campaign": "anniversary-1st-2025",
+      "note": "향수 브랜드 아니디얼의 캐릭터 향 콜라보 (피비·칸타렐라·잔니 등)",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/2591",
+          "date": "2025-05-04"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/2680",
+          "date": "2025-05-24"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--pixiv",
+      "ip": "pixiv",
+      "form": "기타",
+      "regions": [
+        "일본"
+      ],
+      "date": "2025-05-04",
+      "campaign": null,
+      "note": "제4회 명조 일러스트 콘테스트. 팬아트 부문과 세계 일주 부문, 총상금 200만 엔",
+      "articles": [
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/2591",
+          "date": "2025-05-04"
+        },
+        {
+          "locale": "ja-jp",
+          "url": "https://wutheringwaves.kurogames.com/jp/main/news/detail/2680",
+          "date": "2025-05-24"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--gigo",
+      "ip": "genda-gigo",
+      "form": "카페·팝업",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-09-19",
+      "campaign": null,
+      "note": "전국 GiGO 매장과 온라인 크레인 게임에서 한정 경품과 구매 캠페인 (10월 18일까지)",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000001196.000034930.html",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--razer",
+      "ip": "razer",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "글로벌"
+      ],
+      "date": "2026-07-02",
+      "campaign": null,
+      "note": "레이저 × 명조 컬렉션. 공식 첫 게이밍 기기 시리즈로 공명자 다냐에서 영감을 받음",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000000096.000163154.html",
+          "date": "2026-07-03"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--zozotown",
+      "ip": "zozotown",
+      "form": "브랜드",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-05-29",
+      "campaign": null,
+      "note": "ZOZOTOWN 한정 수주 판매. 새로 그린 일러스트를 쓴 의류·잡화",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000000538.000096287.html",
+          "date": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--moondrop-2",
+      "ip": "moondrop",
+      "form": "굿즈·하드웨어",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-05-19",
+      "campaign": null,
+      "note": "수월우(MOONDROP) 콜라보 한정 이어폰 「U.C.T.S.」. 방랑자 녹음 음성 안내 탑재",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000000020.000170901.html",
+          "date": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--pizza-la",
+      "ip": "pizza-la",
+      "form": "식음료",
+      "regions": [
+        "일본"
+      ],
+      "date": "2026-05-20",
+      "campaign": null,
+      "note": "피자라 콜라보 피자 세트. 캐릭터 한정 굿즈가 붙고 수량 한정 (6월 30일까지, 전·후반 구성 다름)",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000000541.000037526.html",
+          "date": "2026-05-18"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--parco",
+      "ip": "parco",
+      "form": "카페·팝업",
+      "regions": [
+        "일본"
+      ],
+      "date": "2025-09-12",
+      "campaign": null,
+      "note": "이케부쿠로 파르코 팝업 스토어. 오거스타·유노 테마 굿즈와 콜라보 티셔츠, 2.6 버전 PV 상영",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000003495.000003639.html",
+          "date": "2025-08-28"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--simeji",
+      "ip": "simeji",
+      "form": "브랜드",
+      "regions": [
+        "일본"
+      ],
+      "date": "2025-10-27",
+      "campaign": null,
+      "note": "키보드 앱 시메지 콜라보 캠페인. 미니게임 경품과 2.6 버전 신규 캐릭터 테마 콘텐츠",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000000929.000006410.html",
+          "date": "2025-10-27"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--gokurakuyu",
+      "ip": "gokurakuyu",
+      "form": "카페·팝업",
+      "regions": [
+        "일본"
+      ],
+      "date": "2024-11-07",
+      "campaign": null,
+      "note": "극락탕·RAKU SPA 콜라보. 굿즈·메뉴 판매, 콜라보 욕탕, 관내 장식",
+      "articles": [
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000000097.000108434.html",
+          "date": "2024-11-01"
+        },
+        {
+          "locale": "ja-prtimes",
+          "url": "https://prtimes.jp/main/html/rd/p/000000011.000143406.html",
+          "date": "2024-11-14"
+        }
+      ]
+    },
+    {
+      "id": "wuwa--yuexinmiao",
+      "ip": "yuexinmiao",
+      "form": "기타",
+      "regions": [
+        "중국"
+      ],
+      "date": "2026-08-12",
+      "campaign": null,
+      "note": "월신묘 「공명하는 일상」 이모지 팩 출시 (쿠제 앱에서 사용)",
+      "articles": [
+        {
+          "locale": "zh-cn",
+          "url": "https://mc.kuro.com/main/news/detail/5275",
+          "date": "2026-08-12"
+        }
+      ]
+    }
+  ]
+}

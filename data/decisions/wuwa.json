@@ -1,0 +1,686 @@
+{
+  "https://prtimes.jp/main/html/rd/p/000000036.000144940.html": {
+    "decision": "exclude",
+    "reason": "버전 업데이트 보도자료. 콜라보는 개별 공지에서 다룸",
+    "date": "2026-09-20",
+    "title_ko": "『나루시오』 업데이트 Ver.3.7 「거울에 사슬하는 망세, 마음으로 비추는 홍진」, 9월 30일(수)보다 전달!"
+  },
+  "https://prtimes.jp/main/html/rd/p/000001196.000034930.html": {
+    "decision": "collab",
+    "collab": "wuwa--gigo",
+    "date": "2026-09-15",
+    "title_ko": "나루시오 × GiGO 캠페인 개최 알림"
+  },
+  "https://mc.kuro.com/main/news/detail/5275": {
+    "decision": "collab",
+    "collab": "wuwa--yuexinmiao",
+    "date": "2026-08-12",
+    "title_ko": "명차오와 웨신묘의 \"공명하는 일상\" 이모지 팩이 출시되었습니다! ^야옹⩊야옹^"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000035.000144940.html": {
+    "decision": "exclude",
+    "reason": "버전 업데이트 보도자료. 콜라보는 개별 공지에서 다룸",
+    "date": "2026-08-07",
+    "title_ko": "「나루시오」업데이트 Ver.3.6 「환운 검등의 그림자, 속세 우려 검의 마음」, 8월 20일부터 전달 개시!"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/5113": {
+    "decision": "exclude",
+    "reason": "Xbox 게임 패스 구독 혜택 패키지",
+    "date": "2026-07-10",
+    "title_ko": "자주 묻는 질문(FAQ) - Xbox"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/5114": {
+    "decision": "exclude",
+    "reason": "Xbox 게임 패스 구독 혜택 패키지",
+    "date": "2026-07-10",
+    "title_ko": "자주 묻는 질문(FAQ) - Xbox"
+  },
+  "https://wutheringwaves.kurogames.com/kr/main/news/detail/5115": {
+    "decision": "exclude",
+    "reason": "Xbox 게임 패스 구독 혜택 패키지",
+    "date": "2026-07-10",
+    "title_ko": "Xbox Game Pass 혜택 패키지 관련"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000096.000163154.html": {
+    "decision": "collab",
+    "collab": "wuwa--razer",
+    "date": "2026-07-03",
+    "title_ko": "공명을, 그 손에. ― RAZER × 나루시오(Wuthering Waves) 컬렉션 등장"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000034.000144940.html": {
+    "decision": "exclude",
+    "reason": "버전 업데이트 보도자료. 콜라보는 개별 공지에서 다룸",
+    "date": "2026-06-27",
+    "title_ko": "『나루시오』 업데이트 Ver.3.5 「유지를 방어하는 검, 꿈에 울리는 노래」, 7월 10일부터 배포 개시!"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4944": {
+    "decision": "exclude",
+    "reason": "Xbox 게임 패스 구독 혜택 패키지",
+    "date": "2026-06-27",
+    "title_ko": "폭풍의 파도 - XBOX 게임 패스 선물 팩 및 XBOX 독점 문양"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4946": {
+    "decision": "exclude",
+    "reason": "Xbox 게임 패스 구독 혜택 패키지",
+    "date": "2026-06-27",
+    "title_ko": "\"나루시오\" - XBOX Game Pass 선물 팩 & XBOX 한정 여행의 표시"
+  },
+  "https://wutheringwaves.kurogames.com/kr/main/news/detail/4947": {
+    "decision": "exclude",
+    "reason": "Xbox 게임 패스 구독 혜택 패키지",
+    "date": "2026-06-27",
+    "title_ko": "『명조:워더링 웨이브』 - XBOX Game Pass 패키지 및 XBOX 전용 프로필 휘장"
+  },
+  "https://prtimes.jp/main/html/rd/p/000003568.000025615.html": {
+    "decision": "exclude",
+    "reason": "자체 팝업 행사 (외부 상대 없음)",
+    "date": "2026-06-17",
+    "title_ko": "『나루시오 ‘숲속’ 시리즈 오프라인 점포 팝업 이벤트’가 개최 결정."
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4906": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-14",
+    "title_ko": "폭풍의 파도 × 사이버펑크: 에지러너 | 새로운 적 — 악몽: 아담 스매셔"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4911": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-14",
+    "title_ko": "『나루시오』×『사이버펑크: 엣지 러너즈』 새로운 적——나이트메어 스매셔"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4912": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-14",
+    "title_ko": "Ver.3.4 콜라보 스토리 일러스트 벽지"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4881": {
+    "decision": "exclude",
+    "reason": "디스코드 퀘스트. 버전마다 반복되는 플랫폼 마케팅 프로그램",
+    "date": "2026-06-10",
+    "title_ko": "V3.4 디스코드 퀘스트 소셜 플랜"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4883": {
+    "decision": "exclude",
+    "reason": "디스코드 퀘스트. 버전마다 반복되는 플랫폼 마케팅 프로그램",
+    "date": "2026-06-10",
+    "title_ko": "「나루시오」＆「엣지 러너즈」Discord 퀘스트 이벤트 개최!"
+  },
+  "https://mc.kuro.com/main/news/detail/4826": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-08",
+    "title_ko": "\"선택받지 못한 꿈\" 버전 3.4 콘텐츠 설명"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4819": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-08",
+    "title_ko": "Patch Notes for Version 3.4: The Dream Not Dreamed"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4821": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-08",
+    "title_ko": "「선택되지 않은 꿈」Ver.3.4 컨텐츠 소개"
+  },
+  "https://wutheringwaves.kurogames.com/kr/main/news/detail/4814": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-08",
+    "title_ko": "「선택하지 않은 꿈」 3.4 버전 내용 안내"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4836": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-07",
+    "title_ko": "[달을 꿈꾸며] 콜라보 레조네이터 소집"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4844": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-07",
+    "title_ko": "[스펙트럴 트리거] 콜라보 무기 소집"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4852": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-07",
+    "title_ko": "[다시 타오른 분노의 불씨] 콜라보 레조네이터 소집"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4860": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-07",
+    "title_ko": "[스컬 스래셔] 콜라보 무기 소집"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4837": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-07",
+    "title_ko": "공명자 집음(콜라보레이션) “바보 꿈, 달의 기슭에”"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4845": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-07",
+    "title_ko": "무기 집음(콜라보레이션)——「스펙트럴 트리거」"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4853": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-07",
+    "title_ko": "공명자 집음(콜라보레이션) 「불타는 분노, 훈제 재보다」"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4861": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-07",
+    "title_ko": "무기 집음(콜라보레이션)——「스컬 포퍼」"
+  },
+  "https://wutheringwaves.kurogames.com/kr/main/news/detail/4838": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-07",
+    "title_ko": "[달 위를 거니는 꿈] 캐릭터 콜라보 튜닝"
+  },
+  "https://wutheringwaves.kurogames.com/kr/main/news/detail/4846": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-07",
+    "title_ko": "「스펙트럴 트리거」 무기 콜라보 튜닝"
+  },
+  "https://wutheringwaves.kurogames.com/kr/main/news/detail/4854": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-07",
+    "title_ko": "[잿불 속 다시 깨어난 분노] 캐릭터 콜라보 튜닝"
+  },
+  "https://wutheringwaves.kurogames.com/kr/main/news/detail/4862": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-07",
+    "title_ko": "「스컬 스래셔」 무기 콜라보 튜닝"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4774": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-03",
+    "title_ko": "레조네이터 공개 | 루시"
+  },
+  "https://mc.kuro.com/main/news/detail/4772": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-01",
+    "title_ko": "명차오 3.4 버전 업데이트 점검 안내"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4764": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-01",
+    "title_ko": "레조네이터 공개 | 레베카"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4765": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-01",
+    "title_ko": "워더링 웨이브 버전 3.4 업데이트 점검 안내"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4767": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-06-01",
+    "title_ko": "『나루시오』 Ver.3.4 메인터넌스의 알림"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000033.000144940.html": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-05-30",
+    "title_ko": "『사이버펑크: 엣지 러너즈』 콜라보레이션 개최! 『나루시오』 업데이트 Ver.3.4 「선택되지 않은 꿈」, 6월 8일부터 전달 개시!"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4739": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-05-29",
+    "title_ko": "워더링 웨이브와 사이버펑크: 에지러너 콜라보레이션 정보"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4761": {
+    "decision": "collab",
+    "collab": "wuwa--cyberpunk-edgerunners",
+    "date": "2026-05-29",
+    "title_ko": "「나루시오」×「사이버펑크：엣지 러너즈」콜라보 정보 일람"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000538.000096287.html": {
+    "decision": "collab",
+    "collab": "wuwa--zozotown",
+    "date": "2026-05-26",
+    "title_ko": "『나루시오』와 ZOZOTOWN이 콜라보레이션! 신작 일러스트를 사용한 한정 아이템을 5월 29일부터 판매"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000020.000170901.html": {
+    "decision": "collab",
+    "collab": "wuwa--moondrop-2",
+    "date": "2026-05-19",
+    "title_ko": "인기 RPG 「나루시오(Wuthering Waves)」×미즈키 비(MOONDROP) 콜라보 한정 이어폰 「UCTS」는 5월 19일(화) 발매!"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000541.000037526.html": {
+    "decision": "collab",
+    "collab": "wuwa--pizza-la",
+    "date": "2026-05-18",
+    "title_ko": "대인기 게임 「나루시오」와 「피자라」가 드디어 콜라보레이션! 인기 캐릭터의 한정 상품이 붙은, 콜라보 피자 세트를 수량 한정 발매!"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4636": {
+    "decision": "exclude",
+    "reason": "게임 안 캐릭터(롤로 물류)와의 기념 이벤트. 외부 상대 없음",
+    "date": "2026-05-06",
+    "title_ko": "[롤로 익스프레스: 약속 이행] 기념 이벤트"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4637": {
+    "decision": "exclude",
+    "reason": "게임 안 캐릭터(롤로 물류)와의 기념 이벤트. 외부 상대 없음",
+    "date": "2026-05-06",
+    "title_ko": "애니버서리 이벤트 \"부부 익스프레스 · 배달까지 배송\""
+  },
+  "https://wutheringwaves.kurogames.com/kr/main/news/detail/4638": {
+    "decision": "exclude",
+    "reason": "게임 안 캐릭터(롤로 물류)와의 기념 이벤트. 외부 상대 없음",
+    "date": "2026-05-06",
+    "title_ko": "「무무 익스프레스 · 반드시 임무완수!」 주년 축제 이벤트"
+  },
+  "https://mc.kuro.com/main/news/detail/4609": {
+    "decision": "campaign",
+    "campaign": "crossworld-sync-2026",
+    "date": "2026-04-30",
+    "title_ko": "\"별들의 끝에서 울려 퍼지는 메아리\" 버전 3.3 콘텐츠 설명"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4613": {
+    "decision": "campaign",
+    "campaign": "crossworld-sync-2026",
+    "date": "2026-04-30",
+    "title_ko": "버전 3.3 패치 노트: 은하계 끝의 잔향"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4626": {
+    "decision": "exclude",
+    "reason": "별칭 오탐 (게임 내 이벤트·소집 이름)",
+    "date": "2026-04-30",
+    "title_ko": "폭풍의 파도 팬 창작 이벤트 \"은하계 종말의 반향\"이 시작되었습니다!"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4614": {
+    "decision": "campaign",
+    "campaign": "crossworld-sync-2026",
+    "date": "2026-04-30",
+    "title_ko": "Ver.3.3 「별이 가라앉는 땅에 울려라」콘텐츠 소개"
+  },
+  "https://wutheringwaves.kurogames.com/kr/main/news/detail/4615": {
+    "decision": "campaign",
+    "campaign": "crossworld-sync-2026",
+    "date": "2026-04-30",
+    "title_ko": "「별바다의 끝에서 닿은 메아리」 3.3 버전 내용 안내"
+  },
+  "https://mc.kuro.com/main/news/detail/4551": {
+    "decision": "campaign",
+    "campaign": "crossworld-sync-2026",
+    "date": "2026-04-23",
+    "title_ko": "명차오 3.3 버전 업데이트 점검 안내"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000031.000144940.html": {
+    "decision": "exclude",
+    "reason": "버전 업데이트 보도자료. 콜라보는 개별 공지에서 다룸",
+    "date": "2026-04-23",
+    "title_ko": "주년 버전으로 무료 40연분의 배포 보상이 등장! 『나루시오』 업데이트 Ver.3.3 「별이 가라앉는 땅에 울려라」, 4월 30일부터 전달 개시!"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4547": {
+    "decision": "campaign",
+    "campaign": "crossworld-sync-2026",
+    "date": "2026-04-22",
+    "title_ko": "워더링 웨이브 버전 3.3 업데이트 점검 안내"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4546": {
+    "decision": "campaign",
+    "campaign": "crossworld-sync-2026",
+    "date": "2026-04-22",
+    "title_ko": "『나루시오』 Ver.3.3 메인터넌스의 알림"
+  },
+  "https://mc.kuro.com/main/news/detail/4448": {
+    "decision": "review",
+    "reason": "3.2 버전 「콜라보 도색 패키지(QUEEN·VIOLET)」. 콜라보 상대가 공지에 나오지 않음",
+    "date": "2026-03-19",
+    "title_ko": "\"어둠 속에서 깨달음을 향한 결의\" 버전 3.2 내용 설명"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4447": {
+    "decision": "review",
+    "reason": "3.2 버전 「콜라보 도색 패키지(QUEEN·VIOLET)」. 콜라보 상대가 공지에 나오지 않음",
+    "date": "2026-03-19",
+    "title_ko": "Patch Notes for Version 3.2: Resolution to Illuminate the Shadows"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4444": {
+    "decision": "review",
+    "reason": "3.2 버전 「콜라보 도색 패키지(QUEEN·VIOLET)」. 콜라보 상대가 공지에 나오지 않음",
+    "date": "2026-03-19",
+    "title_ko": "Ver.3.2 「어둠을 비추는 빛의 의지」 컨텐츠 소개"
+  },
+  "https://wutheringwaves.kurogames.com/kr/main/news/detail/4449": {
+    "decision": "review",
+    "reason": "3.2 버전 「콜라보 도색 패키지(QUEEN·VIOLET)」. 콜라보 상대가 공지에 나오지 않음",
+    "date": "2026-03-19",
+    "title_ko": "「그림자 속에서 밝혀진 결심」 3.2 버전 내용 안내"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000030.000144940.html": {
+    "decision": "exclude",
+    "reason": "버전 업데이트 보도자료. 콜라보는 개별 공지에서 다룸",
+    "date": "2026-03-16",
+    "title_ko": "『나루시오』 업데이트 Ver.3.2 「어둠을 비추는 빛의 의지」, 3월 19일부터 배포 개시! 신성 5 공명자 「시글리카」가 등장!"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/4236": {
+    "decision": "exclude",
+    "reason": "디스코드 퀘스트. 버전마다 반복되는 플랫폼 마케팅 프로그램",
+    "date": "2026-02-06",
+    "title_ko": "V3.1 WUWA 디스코드 퀘스트 라이브 스트리밍 이벤트가 시작됩니다!"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/4222": {
+    "decision": "exclude",
+    "reason": "디스코드 퀘스트. 버전마다 반복되는 플랫폼 마케팅 프로그램",
+    "date": "2026-02-06",
+    "title_ko": "「나루시오」Ver.3.1 Discord 퀘스트 이벤트 개최!"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000174.000033025.html": {
+    "decision": "exclude",
+    "reason": "VTuber 배달 임무 방송 시리즈. 방송 시즌 프로모션",
+    "date": "2026-02-05",
+    "title_ko": "『나루시오』부이캬스배 배달 임무 제7막 개최! 인기 VTuber와 대형 압데 Ver.3.1 「눈에 안긴 너에게」를 즐기는 전달 이벤트를 개최!"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/3936": {
+    "decision": "exclude",
+    "reason": "디스코드 퀘스트. 버전마다 반복되는 플랫폼 마케팅 프로그램",
+    "date": "2025-12-26",
+    "title_ko": "V3.0 WUWA 디스코드 퀘스트 라이브 스트리밍 이벤트가 시작됩니다!"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/3937": {
+    "decision": "exclude",
+    "reason": "디스코드 퀘스트. 버전마다 반복되는 플랫폼 마케팅 프로그램",
+    "date": "2025-12-26",
+    "title_ko": "『나루시오』 Ver3.0 Discord 퀘스트 이벤트 개최!"
+  },
+  "https://mc.kuro.com/main/news/detail/3922": {
+    "decision": "campaign",
+    "campaign": "persona-sonic-2025",
+    "date": "2025-12-25",
+    "title_ko": "\"우리는 미래를 바라보기 위해 태어났다\" 버전 3.0 콘텐츠 설명"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000021.000158928.html": {
+    "decision": "exclude",
+    "reason": "VTuber 배달 임무 방송 시리즈. 방송 시즌 프로모션",
+    "date": "2025-12-25",
+    "title_ko": "「나루시오」부이캬스배 배달 임무 제6막 개최! 인기 VTuber들이 최신 업데이트 3.0을 북돋운다!"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000027.000144940.html": {
+    "decision": "exclude",
+    "reason": "버전 업데이트 보도자료. 콜라보는 개별 공지에서 다룸",
+    "date": "2025-12-25",
+    "title_ko": "『나루시오』 초대형 업데이트 Ver3.0 「밤하늘을 눈동자에 비추어」 12월 25일 배포 개시"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/3920": {
+    "decision": "campaign",
+    "campaign": "persona-sonic-2025",
+    "date": "2025-12-25",
+    "title_ko": "Patch Notes for Version 3.0: We Who See the Stars"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/3915": {
+    "decision": "campaign",
+    "campaign": "persona-sonic-2025",
+    "date": "2025-12-25",
+    "title_ko": "Ver3.0 「밤하늘을 눈동자에 비추어」 컨텐츠 소개"
+  },
+  "https://wutheringwaves.kurogames.com/kr/main/news/detail/3923": {
+    "decision": "campaign",
+    "campaign": "persona-sonic-2025",
+    "date": "2025-12-25",
+    "title_ko": "「별하늘을 보기 위해 태어난 우리들」 3.0 버전 내용 안내"
+  },
+  "https://mc.kuro.com/main/news/detail/3813": {
+    "decision": "campaign",
+    "campaign": "persona-sonic-2025",
+    "date": "2025-12-19",
+    "title_ko": "명차오 3.0 버전 업데이트 및 점검 안내"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/3800": {
+    "decision": "campaign",
+    "campaign": "persona-sonic-2025",
+    "date": "2025-12-18",
+    "title_ko": "워더링 웨이브 버전 3.0 업데이트 점검 안내"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/3798": {
+    "decision": "campaign",
+    "campaign": "persona-sonic-2025",
+    "date": "2025-12-18",
+    "title_ko": "『나루시오』 Ver3.0 메인터넌스의 알림"
+  },
+  "https://wutheringwaves.kurogames.com/kr/main/news/detail/3799": {
+    "decision": "campaign",
+    "campaign": "persona-sonic-2025",
+    "date": "2025-12-18",
+    "title_ko": "『명조:워더링 웨이브』 3.0 버전 업데이트 점검 사전 공지"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000026.000144940.html": {
+    "decision": "exclude",
+    "reason": "버전 업데이트 보도자료. 콜라보는 개별 공지에서 다룸",
+    "date": "2025-11-20",
+    "title_ko": "「나루시오」대형 업데이트 Ver2.8 「호박의 도시로」가 11월 20일부터 전달! 제복 차림의 신비한 소녀 치사키가 전반 한정 가챠에 등장하는 것 외에 사복으로 편안한 잔니의 새로운 의상도"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000929.000006410.html": {
+    "decision": "collab",
+    "collab": "wuwa--simeji",
+    "date": "2025-10-27",
+    "title_ko": "Z세대에 대인기! 키보드 앱 「Simeji」, 대인기 게임 「나루시오」와의 콜라보 캠페인을 개최! 호화상품이 맞는 \"미니 게임\"이 등장."
+  },
+  "https://prtimes.jp/main/html/rd/p/000003005.000025615.html": {
+    "decision": "review",
+    "reason": "판매점(아미아미) 굿즈 팝업. 콜라보 상대로 볼지 판단 필요",
+    "date": "2025-10-24",
+    "title_ko": "『나루시오 Yogoods×아미아미 POPUP SHOP』이 개최. 상품 메이커 「Yogoods」상품 외, 다양한 아이템이 선행 판매."
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/3441": {
+    "decision": "exclude",
+    "reason": "자체 팝업 행사 (외부 상대 없음)",
+    "date": "2025-10-11",
+    "title_ko": "아키하바라 UDX 팝업 이벤트 정보 정리"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000025.000144940.html": {
+    "decision": "exclude",
+    "reason": "버전 업데이트 보도자료. 콜라보는 개별 공지에서 다룸",
+    "date": "2025-10-09",
+    "title_ko": "「나루시오」대형 업데이트 Ver2.7 「어두운 조수에 비치는 새벽」이 10월 9일부터 전달! 전반은 갈브레나, 후반은 원원이 한정 뽑기에. 스토리 제2장의 최종 결전의 땅에서 격투가 막을 열다"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000009.000158928.html": {
+    "decision": "exclude",
+    "reason": "VTuber 배달 임무 방송 시리즈. 방송 시즌 프로모션",
+    "date": "2025-09-11",
+    "title_ko": "『나루시오』부이캬스배 배달 임무 제4막 개최! 인기 VTuber들이 전달 임무에 도전한다!"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/3216": {
+    "decision": "exclude",
+    "reason": "디스코드 퀘스트. 버전마다 반복되는 플랫폼 마케팅 프로그램",
+    "date": "2025-08-29",
+    "title_ko": "이벤트 미리보기 | [타이달 디펜스 시뮬레이터] Tacet 디스코드 타워 디펜스 이벤트, 곧 개최됩니다!"
+  },
+  "https://prtimes.jp/main/html/rd/p/000003495.000003639.html": {
+    "decision": "collab",
+    "collab": "wuwa--parco",
+    "date": "2025-08-28",
+    "title_ko": "나루시오×PARCO POP UP STORE《천하는 열광, 영후 달빛》"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/3035": {
+    "decision": "exclude",
+    "reason": "별칭 오탐 (게임 내 이벤트·소집 이름)",
+    "date": "2025-08-13",
+    "title_ko": "[심연을 가로지르는 불꽃] 주요 공명기 소집: 브랜트의 드롭률 증가"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000022.000144940.html": {
+    "decision": "exclude",
+    "reason": "버전 업데이트 보도자료. 콜라보는 개별 공지에서 다룸",
+    "date": "2025-07-24",
+    "title_ko": "『나루시오(메이조)』, 7월 24일에 업데이트! Ver2.5 「불멸의 생명에 바치는 찬송가」를 실장. 새로운 캐릭터, 플로바 등장! 새로운 에리어 「은해 실험장」을 무대로 감정의 파도가 밀려드는 농밀한 스토리"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/2802": {
+    "decision": "exclude",
+    "reason": "디스코드 퀘스트. 버전마다 반복되는 플랫폼 마케팅 프로그램",
+    "date": "2025-06-13",
+    "title_ko": "V2.4 WUWA 디스코드 퀘스트 이벤트가 시작되었습니다"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/2787": {
+    "decision": "exclude",
+    "reason": "디스코드 퀘스트. 버전마다 반복되는 플랫폼 마케팅 프로그램",
+    "date": "2025-06-13",
+    "title_ko": "『나루시오』 Ver2.4 Discord 퀘스트 이벤트 개최!"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/2753": {
+    "decision": "exclude",
+    "reason": "트위치 스트리머 구독 캠페인. 방송 시즌 프로모션",
+    "date": "2025-06-12",
+    "title_ko": "Wuthering Waves x Twitch: 스트리머 후원 이벤트가 진행 중입니다!"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/2795": {
+    "decision": "exclude",
+    "reason": "트위치 스트리머 구독 캠페인. 방송 시즌 프로모션",
+    "date": "2025-06-12",
+    "title_ko": "나루시 × Twitch: Support a Streamer 구독 캠페인 시작!"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/2680": {
+    "decision": "campaign",
+    "campaign": "anniversary-1st-2025",
+    "date": "2025-05-24",
+    "title_ko": "나루시오 1st Anniversary Fes. 이벤트 정보 총 정리"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/2626": {
+    "decision": "exclude",
+    "reason": "별칭 오탐 (게임 내 이벤트·소집 이름)",
+    "date": "2025-05-19",
+    "title_ko": "이벤트 미리보기 | 깊은 꿈을 꾸다: 솔라리스 영화제, 곧 공개됩니다!"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/2591": {
+    "decision": "campaign",
+    "campaign": "anniversary-1st-2025",
+    "date": "2025-05-04",
+    "title_ko": "나루시오 1st Anniversary Fes. 이벤트 총 정리"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000018.000144940.html": {
+    "decision": "exclude",
+    "reason": "버전 업데이트 보도자료. 콜라보는 개별 공지에서 다룸",
+    "date": "2025-04-29",
+    "title_ko": "4월 29일, 「나루시오(메이조우)」1주년! Ver2.3 「단란 축하 焔光と夏唄」을 구현! 주년 기념 아이콘, 단란 선물 등의 수많은 보상, 신한정 별 5공명자 잔니나 샤콘느도 등장!"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000002.000158928.html": {
+    "decision": "exclude",
+    "reason": "VTuber 배달 임무 방송 시리즈. 방송 시즌 프로모션",
+    "date": "2025-03-27",
+    "title_ko": "「나루시오」부이 깡패배 전달 임무 제1막 개최! 인기 VTuber들이 전달 임무에 도전한다!"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000017.000144940.html": {
+    "decision": "exclude",
+    "reason": "맥 버전 출시 공지",
+    "date": "2025-03-27",
+    "title_ko": "3월 27일(목), MacOS판 “나루시오” 등장! Apple Mac 기기에서 표류자가 되어 솔라리스의 모험을 즐기자!"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/2226": {
+    "decision": "exclude",
+    "reason": "별칭 오탐 (게임 내 이벤트·소집 이름)",
+    "date": "2025-03-05",
+    "title_ko": "[심연을 가로지르는 불꽃] 주요 공명기 소집: 브랜트의 드롭률 증가"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/2187": {
+    "decision": "exclude",
+    "reason": "자체 팝업 행사 (외부 상대 없음)",
+    "date": "2025-02-24",
+    "title_ko": "나루시오 팝업 이벤트 in 오사카 개최!"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/1954": {
+    "decision": "exclude",
+    "reason": "별칭 오탐 (게임 내 이벤트·소집 이름)",
+    "date": "2025-01-08",
+    "title_ko": "[색에는 형태가 없지만] 특별 협동 도전 이벤트"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/1945": {
+    "decision": "exclude",
+    "reason": "디스코드 퀘스트. 버전마다 반복되는 플랫폼 마케팅 프로그램",
+    "date": "2025-01-07",
+    "title_ko": "V2.0 WUWA 디스코드 퀘스트 이벤트 시작!"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/1946": {
+    "decision": "exclude",
+    "reason": "디스코드 퀘스트. 버전마다 반복되는 플랫폼 마케팅 프로그램",
+    "date": "2025-01-07",
+    "title_ko": "『나루시오』 Ver2.0 Discord 퀘스트 이벤트 개최!"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/1772": {
+    "decision": "collab",
+    "collab": "wuwa--animate-popup",
+    "date": "2024-12-11",
+    "title_ko": "일부 겨울 초대 상품 배송 지연 관련 업데이트"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/1746": {
+    "decision": "collab",
+    "collab": "wuwa--animate-popup",
+    "date": "2024-12-11",
+    "title_ko": "【「겨울의 권유」일부 상품 미비 및 판매 예정의 알림】"
+  },
+  "https://wutheringwaves.kurogames.com/kr/main/news/detail/1777": {
+    "decision": "collab",
+    "collab": "wuwa--animate-popup",
+    "date": "2024-12-11",
+    "title_ko": "【겨울초대 시리즈 굿즈준비 미흡에 관한 공지】"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000011.000143406.html": {
+    "decision": "exclude",
+    "reason": "버전 업데이트 보도자료. 콜라보는 개별 공지에서 다룸",
+    "date": "2024-11-14",
+    "title_ko": "『나루시오(메이조)』, 11/14에 Ver1.4 「어둠이 백낮의 문을 두드리는」 전달 개시! 신성 5 공명자 “동백”, 신성 4 공명자 “등등” 등장! 모험 테마 이벤트 “미혹의 유메지” 개최! 한층 더 극락탕 콜라보도 개최중!"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000097.000108434.html": {
+    "decision": "collab",
+    "collab": "wuwa--gokurakuyu",
+    "date": "2024-11-01",
+    "title_ko": "나루시오 × 극락탕·RAKU SPA 콜라보레이션 캠페인이 11월 7일(목)부터 개최 결정!"
+  },
+  "https://prtimes.jp/main/html/rd/p/000000009.000143406.html": {
+    "decision": "exclude",
+    "reason": "버전 업데이트 보도자료. 콜라보는 개별 공지에서 다룸",
+    "date": "2024-09-29",
+    "title_ko": "『나루시오(메이조우)』, 9/29에 Ver1.3 「안의 최후까지」실장! 신성 5공명자 '쇼어키퍼', 신성4공명자 '유유', 신맵 '블랙쇼어' 등 추가! 또한 도쿄 게임쇼 2024에 출전!"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/1354": {
+    "decision": "exclude",
+    "reason": "별칭 오탐 (게임 내 이벤트·소집 이름)",
+    "date": "2024-09-24",
+    "title_ko": "애도 이후의 인류세: 무기 — 딥 스카이 블레이저"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/1288": {
+    "decision": "exclude",
+    "reason": "디스코드 퀘스트. 버전마다 반복되는 플랫폼 마케팅 프로그램",
+    "date": "2024-09-06",
+    "title_ko": "V1.2 WUWA 디스코드 퀘스트 라이브 스트리밍 이벤트가 시작됩니다!"
+  },
+  "https://wutheringwaves.kurogames.com/jp/main/news/detail/1289": {
+    "decision": "exclude",
+    "reason": "디스코드 퀘스트. 버전마다 반복되는 플랫폼 마케팅 프로그램",
+    "date": "2024-09-06",
+    "title_ko": "\"나루시오\"× Discord Ver1.2 이벤트 퀘스트 개최!"
+  },
+  "https://mc.kuro.com/main/news/detail/1212": {
+    "decision": "collab",
+    "collab": "wuwa--apple-store",
+    "date": "2024-08-19",
+    "title_ko": "밍차오는 전국 3,000개 이상의 애플 공인 매장과 협력하여 \"단순하지 않아! 레조네이터\"를 주제로 오프라인 이벤트를 개최했습니다."
+  },
+  "https://mc.kuro.com/main/news/detail/1094": {
+    "decision": "collab",
+    "collab": "wuwa--betop",
+    "date": "2024-08-02",
+    "title_ko": "밍차오와 베이통의 협업 게임 컨트롤러 선물 세트를 지금 바로 구매하실 수 있습니다!"
+  },
+  "https://wutheringwaves.kurogames.com/en/main/news/detail/728": {
+    "decision": "exclude",
+    "reason": "트위치 스트리머 구독 캠페인. 방송 시즌 프로모션",
+    "date": "2024-05-22",
+    "title_ko": "워더링 웨이브스 x 트위치: 스트리머를 지원해주세요"
+  }
+}

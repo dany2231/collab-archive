@@ -10,11 +10,12 @@ import { serveArticles } from './local-page.mjs';
 import { listPrTimes } from './prtimes.mjs';
 import { TRANSLATE_ARGS, TRANSLATE_IGNORE_DEFAULT_ARGS, declarePageLanguage, enableAlwaysTranslate, promptTranslation, waitForTranslatedClass, waitForTranslation } from './translate.mjs';
 
-// 목록을 받아오는 게임들의 공통 실행부. 네 종류의 목록 방식을 지원한다.
+// 목록을 받아오는 게임들의 공통 실행부. 다섯 종류의 목록 방식을 지원한다.
 //  - 공식 사이트(content_v2_user): 페이지 번호로 넘긴다.
 //  - 호요랩·미유서 공식 게시물(getNewsList): 커서(last_id)로 넘긴다. 공식 사이트에 올라오지 않는
 //    콜라보 공지가 여기에만 있는 경우가 많다 (예: 붕괴: 스타레일 × 포트나이트).
 //  - 레벨 인피니트 CMS(GetContentByLabel): offset으로 넘긴다 (니케).
+//  - 쿠로 게임즈 정적 JSON(ArticleMenu.json + article/{id}.json): 목록과 본문을 따로 받는다 (명조).
 //  - PR TIMES 보도자료: 검색과 회사별 RSS를 함께 읽는다 (prtimes.mjs).
 // 모두 1단계에서 목록과 본문을 모아 후보를 고르고, 2단계에서 후보만 번역한다.
 // 한국어 원문은 번역이 필요 없고, 일본어·중국어는 본문을 로컬 페이지로 띄워 Chrome 번역에 태운다.
@@ -131,6 +132,46 @@ export const playerInfinite = ({ gameId, area = 'na', language, site, channels, 
   url: (id, channel) => `${site}/newsdetail.html?content_id=${id}&sid=${channel.id}&from=list`,
 });
 
+// 쿠로 게임즈(명조) 공식 사이트는 언어별 ArticleMenu.json 한 파일에 전체 기사 목록을 담아 둔다.
+// 다만 목록의 articleContent는 20자에서 잘려 있어서, 본문은 article/{id}.json에서 따로 받는다.
+// 분류 번호가 언어마다 달라서 나누지 않고 한 묶음으로 받는다.
+const KURO_CONCURRENCY = 8;
+async function* listKuro(source, locale, { retry }) {
+  const data = await retry(() => fetchRaw(source.api), '전체');
+  if (!Array.isArray(data)) throw new Error('Unexpected ArticleMenu format');
+  const base = source.api.replace(/\/ArticleMenu\.json$/, '');
+  const bodies = new Map();
+  let next = 0;
+  await Promise.all(Array.from({ length: KURO_CONCURRENCY }, async () => {
+    while (next < data.length) {
+      const row = data[next++];
+      const detail = await retry(() => fetchRaw(`${base}/article/${row.articleId}.json`), `기사 ${row.articleId}`);
+      bodies.set(row.articleId, detail.articleContent || '');
+    }
+  }));
+  yield {
+    label: `전체 ${data.length}건`,
+    rows: data.map(row => ({
+      id: row.articleId, url: source.url(row.articleId), title: htmlToText(row.articleTitle),
+      date: isoDate(row.startTime || row.createTime), category: '공식 뉴스', html: bodies.get(row.articleId) || row.articleDesc || '',
+    })),
+  };
+  return true;
+}
+
+export const kuroSite = ({ game, language, site, lang = null, host = 'hw-media-cdn-mingchao.kurogame.com', path = `/${language}/main` }) => ({
+  kuro: true,
+  api: `https://${host}/akiwebsite/website2.0/json/${game}/${language}/ArticleMenu.json`,
+  channels: { all: { id: 'all', name: '공식 뉴스' } }, defaults: 'all', lang,
+  url: id => `${site}${path}/news/detail/${id}`,
+});
+
+async function fetchRaw(url) {
+  const response = await fetch(url, { signal: AbortSignal.timeout(60000) });
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  return response.json();
+}
+
 async function postJson(url, headers, body) {
   const response = await fetch(url, { method: 'POST', headers, body: JSON.stringify(body), signal: AbortSignal.timeout(30000) });
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -227,7 +268,7 @@ export async function crawlContentApi({ game: GAME, root: ROOT, sources: SOURCES
   }
 
   // ── 1단계: 목록과 키워드 후보 (브라우저 없음) ──
-  const list = source.prtimes ? listPrTimes : source.gameId ? listPlayerInfinite : source.gids ? listHoyolab : listSite;
+  const list = source.prtimes ? listPrTimes : source.kuro ? listKuro : source.gameId ? listPlayerInfinite : source.gids ? listHoyolab : listSite;
   const pages = list(source, locale, { categories, maxPages, retry, apiDelay });
   let listingComplete = true;
   while (true) {

@@ -40,6 +40,7 @@ const data = await loadData();
 if (data) {
 
 const gameName = new Map(data.games.map(game => [game.id, game.name]));
+const gameThumb = new Map(data.games.map(game => [game.id, game.thumb]));
 const formColor = form => `var(--form-${data.forms.indexOf(form) + 1})`;
 // 필터, 차트, 목록에서 같은 이모지와 형태 이름을 사용한다.
 const FORM_EMOJI = { '인게임': '🎮', '식음료': '🍔', '카페·팝업': '☕', '굿즈·하드웨어': '🎧', '브랜드': '🏷️', '음악': '🎵', '기타': '📌' };
@@ -151,13 +152,25 @@ function renderTimeline(list) {
     // 게임이 여러 개일 때 줄을 구분하기 쉽도록 한 줄 건너 배경을 깐다.
     if (index % 2) el('rect', { class: 'lane-band', x: 0, y: lane.top, width, height: lane.height }, group);
     if (lane.top > top) el('line', { class: 'lane-split', x1: 0, x2: width, y1: lane.top, y2: lane.top }, group);
-    const label = el('text', { x: 4, y: lane.top + lane.height / 2, class: 'lane-label' }, group);
+    // 라벨 왼쪽 썸네일. 이미지가 없으면 빈 테두리 타일만 남는다.
+    const thumbSize = 28;
+    const thumbX = 4;
+    const thumbY = lane.top + lane.height / 2 - thumbSize / 2;
+    el('rect', { class: 'lane-thumb', x: thumbX, y: thumbY, width: thumbSize, height: thumbSize, rx: 5 }, group);
+    if (gameThumb.get(lane.game)) {
+      const clip = el('clipPath', { id: `thumb-clip-${index}` }, group);
+      el('rect', { x: thumbX, y: thumbY, width: thumbSize, height: thumbSize, rx: 5 }, clip);
+      const image = el('image', { href: gameThumb.get(lane.game), x: thumbX, y: thumbY, width: thumbSize, height: thumbSize, preserveAspectRatio: 'xMidYMid slice', 'clip-path': `url(#thumb-clip-${index})`, 'aria-hidden': 'true' }, group);
+      image.addEventListener('error', () => image.remove(), { once: true });
+    }
+    const textX = thumbX + thumbSize + 8;
+    const label = el('text', { x: textX, y: lane.top + lane.height / 2 - 2, class: 'lane-label' }, group);
     label.textContent = gameName.get(lane.game) ?? lane.game;
-    for (let text = label.textContent; label.getComputedTextLength() > labelWidth - 14 && text.length > 1;) {
+    for (let text = label.textContent; label.getComputedTextLength() > labelWidth - textX - 8 && text.length > 1;) {
       text = text.slice(0, -1);
       label.textContent = text.trimEnd() + '…';
     }
-    el('text', { x: 4, y: lane.top + lane.height / 2 + 16, class: 'lane-count' }, group).textContent = `${lane.placed.length}건`;
+    el('text', { x: textX, y: lane.top + lane.height / 2 + 14, class: 'lane-count' }, group).textContent = `${lane.placed.length}건`;
     for (const { collab, at, level } of lane.placed) {
       const cy = lane.top + lanePad + level * rowHeight + rowHeight / 2;
       const mark = el('g', { class: 'mark', tabindex: 0, 'data-id': collab.id, role: 'button',
@@ -286,9 +299,14 @@ function renderNotes(list) {
   $('notes-section').hidden = !notes.length;
   $('notes').innerHTML = notes.map(game => `
     <article class="note">
-      <h3>${esc(game.name)} <span class="note__count">${counts.get(game.id)}건</span></h3>
-      <p>${esc(game.summary)}</p>
+      <span class="note__thumb" aria-hidden="true">${esc(game.name.charAt(0))}${game.thumb ? `<img src="${esc(game.thumb)}" alt="" loading="lazy">` : ''}</span>
+      <div class="note__body">
+        <h3>${esc(game.name)} <span class="note__count">${counts.get(game.id)}건</span></h3>
+        <p>${esc(game.summary)}</p>
+      </div>
     </article>`).join('');
+  // 이미지가 없으면 img를 지워 첫 글자 타일이 보이게 한다.
+  $('notes').querySelectorAll('.note__thumb img').forEach(img => img.addEventListener('error', () => img.remove(), { once: true }));
 }
 
 // 전체 데이터 규모와 갱신일을 표시한다.

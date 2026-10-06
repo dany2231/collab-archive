@@ -1332,5 +1332,168 @@
       "ウエニ貿易"
     ],
     "category": "브랜드"
+  },
+  {
+    "id": "sonic",
+    "ko": "소닉 더 헤지혹",
+    "aliases": [
+      "Sonic the Hedgehog",
+      "ソニック・ザ・ヘッジホッグ"
+    ],
+    "category": "게임"
+  },
+  {
+    "id": "angry-birds",
+    "ko": "앵그리버드",
+    "aliases": [
+      "Angry Birds",
+      "アングリーバード"
+    ],
+    "category": "게임"
+  },
+  {
+    "id": "kaiju-no-8",
+    "ko": "괴수 8호",
+    "aliases": [
+      "Kaiju No. 8",
+      "怪獣8号",
+      "怪兽8号"
+    ],
+    "category": "애니메이션"
+  },
+  {
+    "id": "pragmata",
+    "ko": "프라그마타",
+    "aliases": [
+      "PRAGMATA"
+    ],
+    "category": "게임"
+  },
+  {
+    "id": "riders-republic",
+    "ko": "라이더스 리퍼블릭",
+    "aliases": [
+      "Riders Republic"
+    ],
+    "category": "게임"
+  },
+  {
+    "id": "haikyu",
+    "ko": "하이큐!!",
+    "aliases": [
+      "HAIKYU!!",
+      "ハイキュー!!"
+    ],
+    "category": "애니메이션"
+  },
+  {
+    "id": "cyberpunk-edgerunners",
+    "ko": "사이버펑크: 엣지러너",
+    "aliases": [
+      "Cyberpunk: Edgerunners",
+      "サイバーパンク エッジランナーズ",
+      "赛博朋克：边缘行者"
+    ],
+    "category": "애니메이션"
+  },
+  {
+    "id": "animate",
+    "ko": "애니메이트",
+    "aliases": [
+      "Animate",
+      "アニメイト",
+      "Animate Cafe"
+    ],
+    "category": "카페·유통"
+  },
+  {
+    "id": "sweets-paradise",
+    "ko": "스위츠 파라다이스",
+    "aliases": [
+      "SWEETS PARADISE",
+      "スイーツパラダイス"
+    ],
+    "category": "식음료"
+  },
+  {
+    "id": "village-vanguard",
+    "ko": "빌리지 뱅가드",
+    "aliases": [
+      "Village Vanguard",
+      "ヴィレッジヴァンガード"
+    ],
+    "category": "카페·유통"
+  },
+  {
+    "id": "marui",
+    "ko": "마루이",
+    "aliases": [
+      "OIOI",
+      "マルイ"
+    ],
+    "category": "카페·유통"
+  },
+  {
+    "id": "anideal",
+    "ko": "아니디얼",
+    "aliases": [
+      "Anideal",
+      "アニディール"
+    ],
+    "category": "브랜드"
+  },
+  {
+    "id": "betop",
+    "ko": "베이통",
+    "aliases": [
+      "Betop",
+      "北通"
+    ],
+    "category": "하드웨어"
+  },
+  {
+    "id": "yuexinmiao",
+    "ko": "월신묘",
+    "aliases": [
+      "月薪喵",
+      "Yuexinmiao"
+    ],
+    "category": "캐릭터"
+  },
+  {
+    "id": "genda-gigo",
+    "ko": "GiGO",
+    "aliases": [
+      "GiGO",
+      "GENDA GiGO Entertainment",
+      "ギーゴ"
+    ],
+    "category": "카페·유통"
+  },
+  {
+    "id": "parco",
+    "ko": "파르코",
+    "aliases": [
+      "PARCO",
+      "パルコ"
+    ],
+    "category": "카페·유통"
+  },
+  {
+    "id": "simeji",
+    "ko": "시메지",
+    "aliases": [
+      "Simeji"
+    ],
+    "category": "플랫폼"
+  },
+  {
+    "id": "gokurakuyu",
+    "ko": "극락탕",
+    "aliases": [
+      "極楽湯",
+      "RAKU SPA"
+    ],
+    "category": "관광"
   }
 ]
