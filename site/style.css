@@ -219,3 +219,55 @@ footer a { white-space: nowrap; text-decoration: none; }
 @media(max-width:360px) { .brand { font-size: 14px; } .theme { max-width: 76px; white-space: normal; line-height: 1.2; } .card__head { flex-wrap: wrap; } h1 { font-size: 27px; } }
 @media(prefers-reduced-motion:reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }
 @media(forced-colors:active) { .glyph, .bar__fill, .mark-emoji { forced-color-adjust: none; } .chip[aria-pressed=true] { outline: 2px solid Highlight; } }
+
+/* 게임 비교, 파트너 분석, 내보내기 */
+.table-wrap { overflow-x: auto; margin-top: 16px; scrollbar-width: thin; scrollbar-color: var(--axis) transparent; }
+.table { width: 100%; border-collapse: collapse; font-size: 12px; line-height: 1.5; }
+.table th, .table td { padding: 10px 12px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; font-weight: 400; color: var(--ink-2); }
+.table thead th { color: var(--muted); font-size: 11px; white-space: nowrap; border-bottom-color: var(--axis); }
+.cmp thead th:not(:first-child) { color: var(--ink); font-size: 12px; font-weight: 600; white-space: normal; min-width: 120px; }
+.table tbody th[scope="row"] { color: var(--ink); font-weight: 500; }
+.table .num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.table tr.is-active td, .table tr.is-active th { background: var(--wash); }
+.cmp { min-width: 520px; }
+.cmp tbody th[scope="row"] { white-space: nowrap; }
+.cmp th:first-child { position: sticky; left: 0; background: var(--surface); }
+.cmp .cmp__group th { padding-top: 20px; color: var(--muted); font-size: 11px; font-weight: 400; background: var(--surface); }
+.cmp__total { color: var(--ink); font-size: 14px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.cmp__cell { display: grid; gap: 5px; min-width: 96px; }
+.cmp__v { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; font-variant-numeric: tabular-nums; }
+.cmp__v small, .cmp__sub { color: var(--muted); font-size: 11px; }
+.cmp__sub { margin-left: 6px; }
+.cmp__bar { display: block; height: 5px; background: var(--grid); border-radius: 2px; overflow: hidden; }
+.cmp__bar i { display: block; height: 100%; min-width: 3px; background: var(--c, var(--ink-2)); border-radius: 2px; }
+.cmp__none { color: var(--muted); }
+.cmp .glyph { margin-right: 6px; vertical-align: middle; font-size: 15px; }
+.table-note { margin-top: 12px; }
+.sub-title { display: flex; align-items: center; gap: 8px; margin-top: 32px; font-size: 14px; font-weight: 600; }
+.partner-grid .sub-title { margin-top: 0; margin-bottom: 16px; }
+.sub-title .list-count { margin-left: 0; }
+.link-btn { padding: 0; border: 0; background: none; color: var(--ink); font: inherit; font-weight: 600; text-align: left; text-decoration: underline; text-decoration-color: var(--axis); text-underline-offset: 4px; }
+.link-btn:hover { text-decoration-color: var(--ink); }
+.more-btn { display: block; margin-top: 12px; color: var(--muted); font-size: 12px; font-weight: 400; }
+.more-btn:hover { color: var(--ink); }
+.game-count { display: inline-block; margin: 0 12px 2px 0; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.partner-summary { color: var(--ink-2); font-size: 13px; }
+.partner-summary strong { color: var(--ink); font-weight: 600; font-variant-numeric: tabular-nums; }
+.partner-grid { display: grid; grid-template-columns: minmax(0, 2.4fr) minmax(0, 1fr); gap: 16px 40px; margin-top: 4px; }
+.partner-grid .table-wrap { margin-top: 8px; }
+.list-tools { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+.tool-btn { display: inline-flex; align-items: center; gap: 6px; height: var(--control-height); padding: 0 12px; border: 1px solid var(--border); border-radius: var(--radius-control); background: var(--page); color: var(--ink-2); font-size: 12px; white-space: nowrap; }
+.tool-btn:hover { border-color: var(--axis); }
+.tool-btn svg { width: 14px; height: 14px; }
+.tool-status { display: block; min-height: 18px; margin: -8px 0 8px; color: var(--muted); font-size: 11px; text-align: right; }
+@media(max-width:1100px) {
+  .partner-grid { grid-template-columns: minmax(0, 1fr); }
+  .section-nav a { font-size: 12px; }
+}
+@media(max-width:767px) {
+  .list-tools { justify-content: flex-start; width: 100%; }
+  .tool-btn { min-height: var(--touch-height); }
+  .tool-status { text-align: left; }
+  .table th, .table td { padding: 10px 8px; }
+  .section-nav a { font-size: 10px; }
+}

@@ -47,7 +47,8 @@ const FORM_EMOJI = { '인게임': '🎮', '식음료': '🍔', '카페·팝업':
 const formEmoji = form => FORM_EMOJI[form] ?? '📌';
 const glyph = form => '<span class="glyph" aria-hidden="true">' + formEmoji(form) + '</span>';
 // form이 null이면 전체 형태를 보여준다. 칩은 한 번에 하나만 선택된다.
-const filter = { game: 'all', year: 'all', region: 'all', search: '', form: null };
+const filter = { game: 'all', year: 'all', region: 'all', search: '', form: null, partner: null, compare: new Set() };
+const SORTS = ['newest', 'oldest', 'game'];
 
 // ── 필터 ──
 function options(select, entries) {
@@ -78,9 +79,11 @@ $('f-forms').addEventListener('click', event => {
   render();
 });
 
-function filtered() {
+// skip로 일부 필터를 건너뛴다. 비교는 게임 필터를, 파트너 순위는 파트너 필터를 무시해야 의미가 있다.
+function filtered(skip = {}) {
   return data.collabs.filter(c =>
-    (filter.game === 'all' || c.game === filter.game) &&
+    (skip.game || filter.game === 'all' || c.game === filter.game) &&
+    (skip.partner || !filter.partner || c.ip === filter.partner) &&
     (filter.year === 'all' || c.date.startsWith(filter.year)) &&
     (filter.region === 'all' || c.regions.includes(filter.region)) &&
     (!filter.form || c.form === filter.form) &&
@@ -243,9 +246,13 @@ function renderBars(target, entries, byForm) {
 }
 
 // ── 콜라보 목록 ──
-function renderList(list) {
+// 목록과 CSV가 같은 순서를 쓴다.
+function sorted(list) {
   const sort = $('sort').value;
-  const ordered = [...list].sort((a, b) => sort === 'oldest' ? a.date.localeCompare(b.date) : sort === 'game' ? gameName.get(a.game).localeCompare(gameName.get(b.game), 'ko') || b.date.localeCompare(a.date) : b.date.localeCompare(a.date));
+  return [...list].sort((a, b) => sort === 'oldest' ? a.date.localeCompare(b.date) : sort === 'game' ? gameName.get(a.game).localeCompare(gameName.get(b.game), 'ko') || b.date.localeCompare(a.date) : b.date.localeCompare(a.date));
+}
+function renderList(list) {
+  const ordered = sorted(list);
   $('list-count').textContent = list.length + '건';
   $('list').innerHTML = ordered.map(c => {
     const items = c.articles.map(article => {
@@ -267,21 +274,32 @@ function renderList(list) {
   }).join('') || '<div class="empty-state"><strong>검색 결과가 없습니다</strong><p>검색어나 필터 조건을 바꿔 보세요.</p><button type="button" id="empty-reset">필터 초기화</button></div>';
   $('empty-reset')?.addEventListener('click', () => { resetFilters(); $('f-search').focus(); });
 }
-$('sort').addEventListener('change', () => renderList(filtered()));
+$('sort').addEventListener('change', () => { renderList(filtered()); writeUrl(); });
 
-// 필터를 처음 상태로 되돌린다.
+// 필터 상태를 화면 컨트롤에 반영한다. 초기화와 주소 복원이 함께 쓴다.
+function syncControls() {
+  $('f-game').value = filter.game;
+  $('f-year').value = filter.year;
+  $('f-region').value = filter.region;
+  $('f-search').value = filter.search;
+  for (const button of $('f-forms').children) button.setAttribute('aria-pressed', (button.dataset.form || null) === filter.form);
+  const partnerName = filter.partner && data.collabs.find(c => c.ip === filter.partner)?.partner;
+  $('f-partner').hidden = !partnerName;
+  if (partnerName) {
+    $('f-partner-btn').textContent = `${partnerName} ✕`;
+    $('f-partner-btn').setAttribute('aria-label', `파트너 필터 해제: ${partnerName}`);
+  }
+}
 function resetFilters() {
-  Object.assign(filter, { game: 'all', year: 'all', region: 'all', search: '', form: null });
-  for (const id of ['f-game', 'f-year', 'f-region']) $(id).value = 'all';
-  $('f-search').value = '';
-  for (const button of $('f-forms').children) button.setAttribute('aria-pressed', !button.dataset.form);
+  Object.assign(filter, { game: 'all', year: 'all', region: 'all', search: '', form: null, partner: null });
+  syncControls();
   render();
 }
 $('f-reset').addEventListener('click', resetFilters);
 
 function render() {
   const list = filtered();
-  const active = filter.game !== 'all' || filter.year !== 'all' || filter.region !== 'all' || filter.search || filter.form;
+  const active = filter.game !== 'all' || filter.year !== 'all' || filter.region !== 'all' || filter.search || filter.form || filter.partner;
   $('f-reset').disabled = !active;
   $('count').textContent = active ? `${list.length}건 / 전체 ${data.collabs.length}건` : `${list.length}건`;
   renderTimeline(list);
@@ -290,7 +308,227 @@ function render() {
   renderBars('by-year', [...countBy(list, c => `${c.date.slice(0, 4)}년`)].sort((a, b) => a[0].localeCompare(b[0])));
   renderList(list);
   renderNotes(list);
+  renderCompare();
+  renderPartners();
+  writeUrl();
 }
+
+
+// ── 게임 비교 ──
+const pct = (value, total) => total ? Math.round(value / total * 100) : 0;
+const TABLE_LIMIT = { shared: 8, partners: 10 };
+const expanded = { shared: false, partners: false };
+const sumEntries = maps => { const total = new Map(); for (const map of maps) for (const [key, value] of map) total.set(key, (total.get(key) || 0) + value); return total; };
+
+$('cmp-games').innerHTML = data.games.filter(game => data.collabs.some(c => c.game === game.id))
+  .map(game => `<button type="button" class="chip" aria-pressed="false" data-game="${esc(game.id)}">${esc(game.name)}</button>`).join('');
+$('cmp-games').addEventListener('click', event => {
+  const chip = event.target.closest('.chip');
+  if (!chip) return;
+  if (filter.compare.has(chip.dataset.game)) filter.compare.delete(chip.dataset.game); else filter.compare.add(chip.dataset.game);
+  renderCompare();
+  writeUrl();
+});
+
+function renderCompare() {
+  for (const chip of $('cmp-games').children) chip.setAttribute('aria-pressed', filter.compare.has(chip.dataset.game));
+  const base = filtered({ game: true });
+  const withData = data.games.filter(game => base.some(c => c.game === game.id));
+  const picked = filter.compare.size ? withData.filter(game => filter.compare.has(game.id)) : withData;
+  const table = $('cmp-table');
+  if (!picked.length) {
+    table.innerHTML = '<tbody><tr><td class="empty-note">조건에 맞는 콜라보가 없습니다</td></tr></tbody>';
+    $('shared-table').innerHTML = '';
+    $('shared-count').textContent = '';
+    $('shared-more').hidden = true;
+    return;
+  }
+  const cols = picked.map(game => {
+    const items = base.filter(c => c.game === game.id);
+    const partners = countBy(items, c => c.ip);
+    const top = [...partners].sort((a, b) => b[1] - a[1])[0];
+    return {
+      game, total: items.length,
+      form: countBy(items, c => c.form), region: countBy(items, c => c.regions), year: countBy(items, c => c.date.slice(0, 4)),
+      unique: partners.size, repeat: [...partners.values()].filter(n => n > 1).length,
+      top: top && top[1] > 1 ? `${items.find(c => c.ip === top[0]).partner} ${top[1]}회` : '',
+    };
+  });
+  const cell = (col, map, key, color) => {
+    const value = map.get(key) || 0;
+    if (!value) return '<td><span class="cmp__none">–</span></td>';
+    return `<td><span class="cmp__cell"><span class="cmp__v">${value}건<small>${pct(value, col.total)}%</small></span><span class="cmp__bar"><i style="width:${pct(value, col.total)}%;${color ? `--c:${color}` : ''}"></i></span></span></td>`;
+  };
+  const group = label => `<tr class="cmp__group"><th scope="rowgroup" colspan="${cols.length + 1}">${label}</th></tr>`;
+  const row = (label, cells) => `<tr><th scope="row">${label}</th>${cells}</tr>`;
+  const regions = [...sumEntries(cols.map(c => c.region))].sort((a, b) => b[1] - a[1]).slice(0, 6).map(([region]) => region);
+  const years = [...sumEntries(cols.map(c => c.year)).keys()].sort();
+  const forms = data.forms.filter(form => cols.some(c => c.form.has(form)));
+  table.innerHTML = `<caption class="sr-only">게임별 콜라보 구성 비교</caption>
+    <thead><tr><th scope="col">${picked.length}개 게임</th>${cols.map(col => `<th scope="col">${esc(col.game.name)}</th>`).join('')}</tr></thead>
+    <tbody>
+      ${row('콜라보 건수', cols.map(col => `<td><strong class="cmp__total">${col.total}건</strong></td>`).join(''))}
+      ${group('형태')}
+      ${forms.map(form => row(`${glyph(form)}${esc(form)}`, cols.map(col => cell(col, col.form, form, formColor(form))).join(''))).join('')}
+      ${group('진행 지역')}
+      ${regions.map(region => row(esc(region), cols.map(col => cell(col, col.region, region)).join(''))).join('')}
+      ${group('연도')}
+      ${years.map(year => row(`${year}년`, cols.map(col => cell(col, col.year, year)).join(''))).join('')}
+      ${group('파트너')}
+      ${row('파트너 수', cols.map(col => `<td>${col.unique}곳</td>`).join(''))}
+      ${row('2회 이상 반복', cols.map(col => `<td>${col.repeat}곳${col.unique ? `<small class="cmp__sub">${pct(col.repeat, col.unique)}%</small>` : ''}</td>`).join(''))}
+      ${row('가장 많이 한 파트너', cols.map(col => `<td>${col.top ? esc(col.top) : '<span class="cmp__none">–</span>'}</td>`).join(''))}
+    </tbody>`;
+
+  // 둘 이상의 게임이 쓴 파트너. 비교 대상으로 고른 게임 안에서만 센다.
+  const byPartner = new Map();
+  for (const c of base.filter(item => picked.some(game => game.id === item.game))) {
+    const entry = byPartner.get(c.ip) ?? { ip: c.ip, name: c.partner, category: c.partner_category, games: new Map(), total: 0 };
+    entry.games.set(c.game, (entry.games.get(c.game) || 0) + 1);
+    entry.total++;
+    byPartner.set(c.ip, entry);
+  }
+  const shared = [...byPartner.values()].filter(entry => entry.games.size > 1)
+    .sort((a, b) => b.games.size - a.games.size || b.total - a.total || a.name.localeCompare(b.name, 'ko'));
+  $('shared-count').textContent = shared.length ? `${shared.length}곳` : '';
+  const shown = expanded.shared ? shared : shared.slice(0, TABLE_LIMIT.shared);
+  $('shared-table').innerHTML = shared.length
+    ? `<caption class="sr-only">두 게임 이상이 함께 쓴 파트너</caption>
+       <thead><tr><th scope="col">파트너</th><th scope="col">분류</th><th scope="col">사용한 게임</th><th scope="col" class="num">합계</th></tr></thead>
+       <tbody>${shown.map(entry => `<tr><th scope="row"><button type="button" class="link-btn" data-partner="${esc(entry.ip)}">${esc(entry.name)}</button></th>
+         <td>${esc(entry.category || '미분류')}</td>
+         <td>${[...entry.games].map(([game, n]) => `<span class="game-count">${esc(gameName.get(game))} ${n}</span>`).join('')}</td>
+         <td class="num">${entry.total}건</td></tr>`).join('')}</tbody>`
+    : `<tbody><tr><td class="empty-note">${picked.length < 2 ? '게임을 2개 이상 비교할 때 공통 파트너를 보여 줍니다.' : '선택한 게임이 함께 쓴 파트너가 없습니다.'}</td></tr></tbody>`;
+  moreButton('shared-more', 'shared', shared.length);
+}
+function moreButton(id, key, total) {
+  const button = $(id);
+  button.hidden = total <= TABLE_LIMIT[key];
+  button.textContent = expanded[key] ? '상위만 보기' : `전체 ${total}곳 보기`;
+  button.setAttribute('aria-expanded', expanded[key]);
+}
+for (const [id, key] of [['shared-more', 'shared'], ['partner-more', 'partners']]) {
+  $(id).addEventListener('click', () => { expanded[key] = !expanded[key]; renderCompare(); renderPartners(); });
+}
+
+// ── 파트너 분석 ──
+function renderPartners() {
+  // 파트너 필터를 무시해야 순위가 한 곳으로 줄어들지 않는다.
+  const base = filtered({ partner: true });
+  const byPartner = new Map();
+  for (const c of base) {
+    const entry = byPartner.get(c.ip) ?? { ip: c.ip, name: c.partner, category: c.partner_category, items: [] };
+    entry.items.push(c);
+    byPartner.set(c.ip, entry);
+  }
+  const ranked = [...byPartner.values()].sort((a, b) => b.items.length - a.items.length || a.name.localeCompare(b.name, 'ko'));
+  const repeat = ranked.filter(entry => entry.items.length > 1).length;
+  $('partner-summary').innerHTML = ranked.length
+    ? `파트너 <strong>${ranked.length}곳</strong> 중 2회 이상 한 곳은 <strong>${repeat}곳</strong>(${pct(repeat, ranked.length)}%)입니다.`
+    : '';
+  const max = Math.max(1, ...ranked.map(entry => entry.items.length));
+  const shown = expanded.partners ? ranked : ranked.slice(0, TABLE_LIMIT.partners);
+  $('partner-table').innerHTML = ranked.length
+    ? `<caption class="sr-only">파트너별 콜라보 횟수 순위</caption>
+       <thead><tr><th scope="col" class="num">순위</th><th scope="col">파트너</th><th scope="col">분류</th><th scope="col">콜라보</th><th scope="col">게임</th><th scope="col" class="num">기간</th></tr></thead>
+       <tbody>${shown.map(entry => {
+         const games = [...new Set(entry.items.map(c => gameName.get(c.game)))];
+         const years = entry.items.map(c => c.date.slice(0, 4)).sort();
+         const span = years[0] === years.at(-1) ? years[0] : `${years[0]}–${years.at(-1)}`;
+         return `<tr${entry.ip === filter.partner ? ' class="is-active"' : ''}><td class="num">${ranked.indexOf(entry) + 1}</td>
+           <th scope="row"><button type="button" class="link-btn" data-partner="${esc(entry.ip)}">${esc(entry.name)}</button></th>
+           <td>${esc(entry.category || '미분류')}</td>
+           <td><span class="cmp__cell"><span class="cmp__v">${entry.items.length}건</span><span class="cmp__bar"><i style="width:${entry.items.length / max * 100}%"></i></span></span></td>
+           <td>${esc(games.length > 2 ? `${games[0]} 외 ${games.length - 1}` : games.join(', '))}</td>
+           <td class="num">${span}</td></tr>`;
+       }).join('')}</tbody>`
+    : '<tbody><tr><td class="empty-note">조건에 맞는 파트너가 없습니다</td></tr></tbody>';
+  moreButton('partner-more', 'partners', ranked.length);
+  renderBars('by-pcat', [...countBy(base, c => c.partner_category || '미분류')].sort((a, b) => b[1] - a[1]));
+}
+function setPartner(ip) {
+  filter.partner = filter.partner === ip ? null : ip;
+  syncControls();
+  render();
+  if (filter.partner) $('list-section').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' });
+}
+document.addEventListener('click', event => {
+  const button = event.target.closest('[data-partner]');
+  if (button) setPartner(button.dataset.partner);
+});
+$('f-partner-btn').addEventListener('click', () => { filter.partner = null; syncControls(); render(); });
+
+// ── 내보내기와 공유 링크 ──
+const STATE_KEYS = { game: 'game', year: 'year', region: 'region', form: 'form', partner: 'partner', search: 'q' };
+function writeUrl() {
+  const params = new URLSearchParams();
+  for (const [key, name] of Object.entries(STATE_KEYS)) {
+    const value = filter[key];
+    if (value && value !== 'all') params.set(name, value);
+  }
+  if ($('sort').value !== 'newest') params.set('sort', $('sort').value);
+  if (filter.compare.size) params.set('cmp', [...filter.compare].join(','));
+  const query = params.toString();
+  history.replaceState(null, '', location.pathname + (query ? `?${query}` : '') + location.hash);
+}
+function readUrl() {
+  const params = new URLSearchParams(location.search);
+  const known = (name, valid) => { const value = params.get(name); return value && valid(value) ? value : null; };
+  filter.game = known('game', value => data.collabs.some(c => c.game === value)) ?? 'all';
+  filter.year = known('year', value => data.collabs.some(c => c.date.startsWith(value))) ?? 'all';
+  filter.region = known('region', value => data.collabs.some(c => c.regions.includes(value))) ?? 'all';
+  filter.form = known('form', value => data.forms.includes(value));
+  filter.partner = known('partner', value => data.collabs.some(c => c.ip === value));
+  filter.search = (params.get('q') ?? '').trim().toLowerCase();
+  const sort = known('sort', value => SORTS.includes(value));
+  if (sort) $('sort').value = sort;
+  filter.compare = new Set((params.get('cmp') ?? '').split(',').filter(id => data.collabs.some(c => c.game === id)));
+}
+
+let statusTimer;
+function say(message) {
+  $('tool-status').textContent = message;
+  clearTimeout(statusTimer);
+  statusTimer = setTimeout(() => { $('tool-status').textContent = ''; }, 3000);
+}
+// 엑셀이 글 내용을 수식으로 읽지 않도록 =, +, @, -로 시작하는 칸 앞에 따옴표를 붙인다.
+const csvCell = value => {
+  let text = String(value ?? '');
+  if (/^\s*[=+@-]/.test(text)) text = "'" + text;
+  return '"' + text.replaceAll('"', '""') + '"';
+};
+$('export-csv').addEventListener('click', () => {
+  const list = sorted(filtered());
+  if (!list.length) return say('내려받을 콜라보가 없습니다');
+  const header = ['게임', '파트너', '파트너 분류', '형태', '진행 지역', '날짜', '캠페인', '메모', '공지'];
+  const rows = list.map(c => [
+    gameName.get(c.game), c.partner, c.partner_category, c.form, c.regions.join(', '), c.date, c.campaign?.name ?? '', c.note ?? '',
+    c.articles.map(article => `${LOCALES.find(([locale]) => locale === article.locale)?.[1] ?? article.locale} ${article.url}`).join('\n'),
+  ]);
+  // 엑셀이 한글을 깨뜨리지 않도록 BOM을 붙인다.
+  const blob = new Blob(['﻿' + [header, ...rows].map(row => row.map(csvCell).join(',')).join('\r\n') + '\r\n'], { type: 'text/csv;charset=utf-8' });
+  const link = document.createElement('a');
+  link.href = URL.createObjectURL(blob);
+  link.download = `collab-atlas-${today.replaceAll('-', '')}.csv`;
+  document.body.append(link);
+  link.click();
+  link.remove();
+  setTimeout(() => URL.revokeObjectURL(link.href), 1000);
+  say(`${list.length}건을 내려받았습니다`);
+});
+$('copy-link').addEventListener('click', async () => {
+  writeUrl();
+  try { await navigator.clipboard.writeText(location.href); say('현재 필터가 담긴 링크를 복사했습니다'); }
+  catch {
+    const field = Object.assign(document.createElement('textarea'), { value: location.href });
+    document.body.append(field);
+    field.select();
+    const ok = document.execCommand?.('copy');
+    field.remove();
+    say(ok ? '현재 필터가 담긴 링크를 복사했습니다' : '복사하지 못했습니다. 주소창의 링크를 사용해 주세요');
+  }
+});
 
 // 게임별 성향 요약. 게임을 고르면 해당 게임만 남긴다.
 function renderNotes(list) {
@@ -316,6 +554,8 @@ $('updated').innerHTML = [
   ['파트너', new Set(data.collabs.map(c => c.ip)).size + '곳'],
   ['갱신', dotted(data.generated.slice(0, 10))]
 ].map(([label,value]) => '<span class="summary__item"><span>' + label + '</span><strong>' + esc(value) + '</strong></span>').join('');
+readUrl();
+syncControls();
 render();
 // 타임라인은 SVG 폭을 픽셀로 정하므로, 영역 폭이 바뀌면 다시 그린다. 탭이 숨겨진 동안 바뀐 경우도 있어 여러 신호를 함께 본다.
 function fitTimeline() {

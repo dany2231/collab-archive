@@ -17,6 +17,8 @@
     </a>
     <nav class="section-nav" aria-label="페이지 메뉴">
       <a href="#timeline-section" aria-current="location"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 5v14h16M8 9h5m-2 5h7"/></svg>타임라인</a>
+      <a href="#compare-section"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 5v14M12 9v10M20 13v6M4 9h4M12 5h4M20 9h-4"/></svg>게임 비교</a>
+      <a href="#partner-section"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.5"/><path d="M3 20c0-3.3 2.7-6 6-6s6 2.7 6 6M17 5.5a3 3 0 0 1 0 5.5M18 14.5c2 .6 3 2.4 3 5.5"/></svg>파트너</a>
       <a href="#analysis"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 19V12m7 7V5m7 14V9"/></svg>형태별 분석</a>
       <a href="#list-section"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M8 6h12M8 12h12M8 18h12M4 6h.01M4 12h.01M4 18h.01"/></svg>콜라보 목록</a>
     </nav>
@@ -36,6 +38,7 @@
       <button type="button" class="filters__reset" id="f-reset" disabled><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 9a8 8 0 1 1 0 6M4 3v6h6"/></svg>초기화</button>
     </div>
     <div class="form-filter"><span class="field-label">콜라보 형태</span><div class="chips" id="f-forms" role="group" aria-label="콜라보 형태"></div></div>
+    <div class="form-filter" id="f-partner" hidden><span class="field-label">파트너</span><div class="chips"><button type="button" class="chip" id="f-partner-btn" aria-pressed="true"></button></div></div>
   </section>
   <div id="load-error" class="error" role="alert" hidden>데이터를 불러오지 못했습니다. 연결 상태를 확인한 뒤 <button type="button" id="retry">다시 시도</button>해 주세요.</div>
   <section class="card" id="timeline-section" aria-labelledby="timeline-heading">
@@ -47,13 +50,31 @@
     <div class="card__head"><div><h2 id="notes-heading">게임별 성향</h2><p class="hint">게임마다 어떤 방식으로 협업하는지 정리했습니다.</p></div></div>
     <div class="notes" id="notes"></div>
   </section>
+  <section class="card" id="compare-section" aria-labelledby="compare-heading">
+    <div class="card__head"><div><h2 id="compare-heading">게임 비교</h2><p class="hint">비교할 게임을 고르면 형태·지역·연도·파트너 구성을 나란히 봅니다. 비워 두면 전체 게임을 보여 줍니다. 위의 연도·지역·형태 필터가 함께 적용됩니다.</p></div></div>
+    <div class="form-filter"><span class="field-label">비교할 게임</span><div class="chips" id="cmp-games" role="group" aria-label="비교할 게임"></div></div>
+    <div class="table-wrap"><table class="table cmp" id="cmp-table"></table></div>
+    <p class="hint table-note">막대는 각 게임 전체 건수에서 차지하는 비중입니다. 건수가 다른 게임끼리도 구성을 비교할 수 있습니다.</p>
+    <h3 class="sub-title">여러 게임이 함께 쓴 파트너 <span class="list-count" id="shared-count"></span></h3>
+    <div class="table-wrap"><table class="table" id="shared-table"></table></div>
+    <button type="button" class="link-btn more-btn" id="shared-more" hidden></button>
+  </section>
+  <section class="card" id="partner-section" aria-labelledby="partner-heading">
+    <div class="card__head"><div><h2 id="partner-heading">파트너 분석</h2><p class="hint">콜라보를 가장 많이 한 파트너와 파트너 분류별 비중입니다. 파트너 이름을 누르면 그 파트너의 콜라보만 골라 목록으로 이동합니다.</p></div></div>
+    <p class="partner-summary" id="partner-summary"></p>
+    <div class="partner-grid">
+      <div><div class="table-wrap"><table class="table" id="partner-table"></table></div><button type="button" class="link-btn more-btn" id="partner-more" hidden></button></div>
+      <div><h3 class="sub-title">파트너 분류별</h3><div id="by-pcat" class="bars"></div></div>
+    </div>
+  </section>
   <div class="grid3" id="analysis">
     <section class="card"><h2>형태별 분석</h2><div id="by-form" class="bars"></div></section>
     <section class="card"><h2>진행 지역별</h2><div id="by-region" class="bars"></div></section>
     <section class="card"><h2>연도별</h2><div id="by-year" class="bars"></div></section>
   </div>
   <section class="card list-section" id="list-section" aria-labelledby="list-heading">
-    <div class="card__head"><div><h2 id="list-heading">콜라보 목록 <span class="list-count" id="list-count"></span></h2><p class="hint">날짜와 공지를 확인하고 협업 사례를 비교하세요.</p></div><label class="sort-label"><span class="sr-only">목록 정렬</span><select id="sort"><option value="newest">최신순</option><option value="oldest">오래된순</option><option value="game">게임 이름순</option></select></label></div>
+    <div class="card__head"><div><h2 id="list-heading">콜라보 목록 <span class="list-count" id="list-count"></span></h2><p class="hint">날짜와 공지를 확인하고 협업 사례를 비교하세요.</p></div><div class="list-tools"><label class="sort-label"><span class="sr-only">목록 정렬</span><select id="sort"><option value="newest">최신순</option><option value="oldest">오래된순</option><option value="game">게임 이름순</option></select></label><button type="button" class="tool-btn" id="export-csv"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 4v11m-4-4 4 4 4-4M5 20h14"/></svg>CSV 내려받기</button><button type="button" class="tool-btn" id="copy-link"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/></svg>링크 복사</button></div></div>
+    <output class="tool-status" id="tool-status" aria-live="polite"></output>
     <div class="list-columns" aria-hidden="true"><span>게임 / 파트너</span><span>형태</span><span>지역</span><span>날짜</span><span>출처</span></div><div class="list" id="list"></div>
   </section>
   <footer><div><strong>COLLAB ATLAS</strong><p>공식 뉴스 공지 기준. 날짜는 협업 개시일이며, 확인되지 않은 경우 공지일을 표시합니다.</p></div><a href="#page-top">맨 위로 ↑</a></footer>
