@@ -540,6 +540,7 @@ function renderNotes(list) {
       <span class="note__thumb" aria-hidden="true">${esc(game.name.charAt(0))}${game.thumb ? `<img src="${esc(game.thumb)}" alt="" loading="lazy">` : ''}</span>
       <div class="note__body">
         <h3>${esc(game.name)} <span class="note__count">${counts.get(game.id)}건</span></h3>
+        ${game.publisher ? `<p class="note__publisher">${esc(game.publisher)}</p>` : ''}
         <p>${esc(game.summary)}</p>
       </div>
     </article>`).join('');
