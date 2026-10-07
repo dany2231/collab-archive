@@ -72,6 +72,10 @@ input::placeholder { color: var(--muted); opacity: 1; }
 .text-link svg { width: 16px; height: 16px; }
 .legend { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-bottom: 20px; color: var(--muted); font-size: 11px; }
 .legend>span { display: inline-flex; gap: 6px; align-items: center; }
+.timeline-axis { position: sticky; top: calc(var(--nav-height) + var(--sticky-offset, 0px)); z-index: 5; overflow: hidden; background: var(--surface); border-bottom: 1px solid var(--border); }
+.timeline-axis:empty { display: none; }
+.timeline-axis svg { display: block; stroke: none; }
+.timeline-axis text { fill: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; }
 .timeline { overflow-x: auto; scrollbar-width: thin; scrollbar-color: var(--axis) transparent; }
 .timeline svg { display: block; stroke: none; }
 .timeline text { fill: var(--ink-2); font-size: 11px; }
@@ -233,6 +237,12 @@ footer a { white-space: nowrap; text-decoration: none; }
 .cmp { min-width: 520px; }
 .cmp tbody th[scope="row"] { white-space: nowrap; }
 .cmp th:first-child { position: sticky; left: 0; background: var(--surface); }
+@media(min-width:768px) {
+  /* 가로 스크롤 영역은 세로 sticky를 막으므로, 넓은 화면에서는 스크롤 영역을 풀고 머리글을 메뉴·필터 아래에 붙인다. */
+  .table-wrap--cmp { overflow: visible; }
+  .cmp thead th { position: sticky; top: calc(var(--nav-height) + var(--sticky-offset, 0px)); z-index: 3; background: var(--surface); }
+  .cmp thead th:first-child { z-index: 4; }
+}
 .cmp .cmp__group th { padding-top: 20px; color: var(--muted); font-size: 11px; font-weight: 400; background: var(--surface); }
 .cmp__total { color: var(--ink); font-size: 14px; font-weight: 600; font-variant-numeric: tabular-nums; }
 .cmp__cell { display: grid; gap: 5px; min-width: 96px; }

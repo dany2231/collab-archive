@@ -100,12 +100,15 @@ function el(name, attrs = {}, parent) {
 }
 function renderTimeline(list) {
   const box = $('timeline');
+  const axis = $('timeline-axis');
   box.innerHTML = '';
+  axis.innerHTML = '';
   const forms = data.forms.filter(form => list.some(c => c.form === form));
   $('legend').innerHTML = forms.map(form => `<span>${glyph(form)}${esc(form)}</span>`).join('');
   const width = Math.max(1120, box.clientWidth);
   const labelWidth = width < 760 ? 118 : 150;
-  const top = 30;
+  const top = 8;
+  const axisHeight = 30;
   if (!list.length) {
     const svg = el('svg', { width, height: 80, viewBox: `0 0 ${width} 80` }, box);
     el('text', { x: width / 2, y: 44, 'text-anchor': 'middle', class: 'empty' }, svg).textContent = '조건에 맞는 콜라보가 없습니다';
@@ -141,13 +144,16 @@ function renderTimeline(list) {
   const height = bottom + 22;
 
   const svg = el('svg', { width, height, viewBox: `0 0 ${width} ${height}`, role: 'group', 'aria-label': '게임별 콜라보 타임라인' }, box);
+  // 연도 눈금은 세로 스크롤 중에도 보이도록 별도 SVG(sticky)에 그린다. 가로 스크롤은 아래 이벤트로 맞춘다.
+  const axisSvg = el('svg', { width, height: axisHeight, viewBox: `0 0 ${width} ${axisHeight}`, 'aria-hidden': 'true' }, axis);
+  axis.scrollLeft = box.scrollLeft;
   const years = end.getFullYear() - start.getFullYear();
   for (let d = new Date(start); d <= end; d.setMonth(d.getMonth() + 3)) {
     if (years > 4 && d.getMonth() !== 0 && +d !== +start) continue;
     const at = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-01`;
     const tick = el('g', { class: 'tick' }, svg);
-    el('line', { x1: x(at), x2: x(at), y1: top - 6, y2: bottom }, tick);
-    if (x(at) + 34 < width) el('text', { x: x(at) + 3, y: top - 12 }, tick).textContent = (+d === +start || d.getMonth() === 0) ? `${d.getFullYear()}` : `${d.getMonth() + 1}월`;
+    el('line', { x1: x(at), x2: x(at), y1: 0, y2: bottom }, tick);
+    if (x(at) + 34 < width) el('text', { x: x(at) + 3, y: axisHeight - 12 }, el('g', { class: 'tick' }, axisSvg)).textContent = (+d === +start || d.getMonth() === 0) ? `${d.getFullYear()}` : `${d.getMonth() + 1}월`;
   }
 
   lanes.forEach((lane, index) => {
@@ -185,11 +191,12 @@ function renderTimeline(list) {
 
   if (today >= iso(start) && today <= iso(end)) {
     const marker = el('g', { class: 'today' }, svg);
-    el('line', { x1: x(today), x2: x(today), y1: top - 6, y2: bottom + 4 }, marker);
+    el('line', { x1: x(today), x2: x(today), y1: 0, y2: bottom + 4 }, marker);
     // 위쪽은 눈금 라벨 자리라 겹치지 않도록 아래에 적는다.
     el('text', { x: x(today), y: bottom + 17, 'text-anchor': 'middle' }, marker).textContent = '오늘';
   }
 }
+$('timeline').addEventListener('scroll', () => { $('timeline-axis').scrollLeft = $('timeline').scrollLeft; });
 const iso = date => `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
 
 // ── 툴팁과 목록 이동 ──

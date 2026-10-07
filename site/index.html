@@ -43,7 +43,7 @@
   <div id="load-error" class="error" role="alert" hidden>데이터를 불러오지 못했습니다. 연결 상태를 확인한 뒤 <button type="button" id="retry">다시 시도</button>해 주세요.</div>
   <section class="card" id="timeline-section" aria-labelledby="timeline-heading">
     <div class="card__head"><div><h2 id="timeline-heading">타임라인</h2><p class="hint">게임별 협업 시점과 형태를 비교하세요.</p></div><a class="text-link" href="#list-section">목록 바로 보기 <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></a></div>
-    <div class="legend" id="legend"></div><div class="timeline" id="timeline" tabindex="0" aria-label="게임별 타임라인, 좌우로 스크롤"></div>
+    <div class="legend" id="legend"></div><div class="timeline-axis" id="timeline-axis"></div><div class="timeline" id="timeline" tabindex="0" aria-label="게임별 타임라인, 좌우로 스크롤"></div>
     <p class="timeline-help">표식을 누르면 해당 콜라보로 이동합니다. 좁은 화면에서는 좌우로 넘겨 보세요.</p>
   </section>
   <section class="card" id="notes-section" aria-labelledby="notes-heading">
@@ -53,7 +53,7 @@
   <section class="card" id="compare-section" aria-labelledby="compare-heading">
     <div class="card__head"><div><h2 id="compare-heading">게임 비교</h2><p class="hint">비교할 게임을 고르면 형태·지역·연도·파트너 구성을 나란히 봅니다. 비워 두면 전체 게임을 보여 줍니다. 위의 연도·지역·형태 필터가 함께 적용됩니다.</p></div></div>
     <div class="form-filter"><span class="field-label">비교할 게임</span><div class="chips" id="cmp-games" role="group" aria-label="비교할 게임"></div></div>
-    <div class="table-wrap"><table class="table cmp" id="cmp-table"></table></div>
+    <div class="table-wrap table-wrap--cmp"><table class="table cmp" id="cmp-table"></table></div>
     <p class="hint table-note">막대는 각 게임 전체 건수에서 차지하는 비중입니다. 건수가 다른 게임끼리도 구성을 비교할 수 있습니다.</p>
     <h3 class="sub-title">여러 게임이 함께 쓴 파트너 <span class="list-count" id="shared-count"></span></h3>
     <div class="table-wrap"><table class="table" id="shared-table"></table></div>
