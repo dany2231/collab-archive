@@ -45,7 +45,7 @@ for (const file of files) {
 const dashboard = {
   generated: new Date().toISOString(),
   forms: FORMS,
-  games: games.map(({ id, name, summary, thumb }) => ({ id, name, summary, thumb })),
+  games: games.map(({ id, name, publisher, summary, thumb }) => ({ id, name, publisher, summary, thumb })),
   collabs: collabs.sort((a, b) => b.date.localeCompare(a.date)),
   campaigns,
 };
