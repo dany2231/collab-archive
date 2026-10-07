@@ -72,6 +72,10 @@ input::placeholder { color: var(--muted); opacity: 1; }
 .text-link svg { width: 16px; height: 16px; }
 .legend { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-bottom: 20px; color: var(--muted); font-size: 11px; }
 .legend>span { display: inline-flex; gap: 6px; align-items: center; }
+.timeline-axis { position: sticky; top: calc(var(--nav-height) + var(--sticky-offset, 0px)); z-index: 5; overflow: hidden; background: var(--surface); border-bottom: 1px solid var(--border); }
+.timeline-axis:empty { display: none; }
+.timeline-axis svg { display: block; stroke: none; }
+.timeline-axis text { fill: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; }
 .timeline { overflow-x: auto; scrollbar-width: thin; scrollbar-color: var(--axis) transparent; }
 .timeline svg { display: block; stroke: none; }
 .timeline text { fill: var(--ink-2); font-size: 11px; }
